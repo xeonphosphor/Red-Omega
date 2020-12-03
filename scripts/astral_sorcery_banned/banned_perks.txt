@@ -1,0 +1,14 @@
+astralsorcery:inc_leech_vamp
+astralsorcery:inc_leech_vamp_1
+astralsorcery:major_leech_vamp
+astralsorcery:mod_tc_key_ci
+astralsorcery:mod_tc_inc_runic
+astralsorcery:mod_tc_inc_runic_3
+astralsorcery:mod_tc_inc_runic_4
+astralsorcery:mod_tc_inc_runic_2
+astralsorcery:mod_tc_inc_runic_1
+astralsorcery:unwav_life_armor
+astralsorcery:unwav_life_armor_1
+astralsorcery:key_armor_life_conversion
+astralsorcery:key_stone_enrichment
+astralsorcery:key_void_trash
