@@ -1,0 +1,46 @@
+Watch the waters for enemies when travelling through the seas.
+Don't approach rocks in the ocean.
+If you see dead fish floating in the water, there is a Sea Serpent nearby.
+Be careful of dragons when exploring.
+Sleeping in beds heal you completely.
+If you hear wings flapping, it is likely a dragon.
+Bullets are very damaging.
+Make sure you are prepared for any battles.
+You can increase your difficulty by using Cursed Hearts.
+Cursed Hearts are dropped by bosses.
+Enchanted Hearts reset your difficulty back to 0.
+If you change a setting and the game appears to freeze, please wait.
+Your Head and Chest health are critical to your life.
+Be careful about Infernal Mobs.
+Remember that offhand items can be quite powerful.
+Betweenlands middle gems are very useful.
+If you lack proper protective equipment, avoid Nuclear wastelands.
+Deserts can be dangerous.
+There are many dungeons and castles to explore in the world.
+You can claim chunks for multiplayer, and you can chunkload some claimed chunks.
+Watch yourself when in unlit areas.
+Some crops only grow well in certain seasons.
+Some enemies are very fast.
+You can dash by pressing your binded dash key. (Default: ALT)
+Be wary of warp when travelling to certain dimensions.
+Certain items can greatly influence your combat flow.
+Make sure you light up your base properly.
+Solar and wind energy are the best starting means of RF production.
+Walling off your territory can be very helpful.
+Hotspring Water is one of the most useful items due to its regeneration.
+Higher difficulties yield much higher experience level drops.
+Higher difficulties greatly increase the power of enemies.
+Defiled Lands can spread when uncontained.
+Eating a variety of food is more efficient towards nourishment.
+Dimensional Doors and Spectre Keys can give you special rooms.
+Dimensional dungeons can potentially lead you to a different dimension.
+SecurityCraft blocks are very tough.
+All bosses are blights.
+Be very careful when travelling to the Nether for the first time.
+Expect to be met with heavy resistance when arriving in the Nether.
+In a group of players, the lowest difficulty will be what the group difficulty is.
+Damaged limbs will give you debuffs, make sure to stay healed.
+You can easily customize keybinds using the Key Wizard tool in Controls.
+Vehicles are excellent ways of moving around.
+The FTB wiki is a great place for information.
+Be wary of radiation.
