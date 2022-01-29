@@ -1,0 +1,151 @@
+{
+    "images":
+    {
+        "title":
+        {
+            "image" : "modpack:logo.png",
+            "posX" : 10,
+            "posY" : -65,
+            "width" : 200,
+            "height" : 125,
+            "alignment" : "center"
+        },
+
+        "buttonbg":
+        {
+            "image" : "modpack:buttonbg.png",
+            "posX" : 15,
+            "posY" : -600,
+            "width" : 200,
+            "height" : 1200,
+            "alignment" : "left_center"
+        }
+    },
+
+    "buttons":
+    {
+        "singleplayer":
+        {
+            "text" : "menu.singleplayer",
+            "posX" : 40,
+            "posY" : -60,
+            "width" : 150,
+            "height" : 20,
+			"texture" : "modpack:textures/button1.png",
+			"hoverTextColor" : 13467442,
+            "alignment" : "left_center",
+            "action" :
+            {
+                "type" : "openGui",
+                "gui" : "singleplayer"
+            }
+        },
+
+        "multiplayer":
+        {
+            "text" : "menu.multiplayer",
+            "posX" : 40,
+            "posY" : -30,
+            "width" : 150,
+            "height" : 20,
+			"texture" : "modpack:textures/button1.png",
+			"hoverTextColor" : 13467442,
+            "alignment" : "left_center",
+            "action" :
+            {
+                "type" : "openGui",
+                "gui" : "multiplayer"
+            }
+        },
+
+        "mods":
+        {
+            "text" : "Mods",
+            "posX" : 40,
+            "posY" : 0,
+            "width" : 75,
+            "height" : 20,
+			"texture" : "modpack:textures/button2.png",
+			"hoverTextColor" : 13467442,
+            "alignment" : "left_center",
+            "action" :
+            {
+                "type" : "openGui",
+                "gui" : "mods"
+            }
+        },
+
+        "options":
+        {
+            "text" : "menu.options",
+            "posX" : 116,
+            "posY" : 0,
+            "width" : 75,
+            "height" : 20,
+			"texture" : "modpack:textures/button2.png",
+			"hoverTextColor" : 13467442,
+			"alignment" : "left_center",
+            "action" :
+            {
+                "type" : "openGui",
+                "gui" : "options"
+            }
+        },
+
+        "quit":
+        {
+            "text" : "menu.quit",
+            "posX" : 66,
+            "posY" : 30,
+            "width" : 125,
+            "height" : 20,
+			"texture" : "modpack:textures/button3.png",
+			"hoverTextColor" : 13467442,
+            "alignment" : "left_center",
+            "action" :
+            {
+                "type" : "quit"
+            }
+        },
+
+        "language":
+        {
+            "text" : "",
+            "posX" : 40,
+            "posY" : 30,
+            "width" : 20,
+            "height" : 20,
+			"texture" : "modpack:textures/button4.png",
+            "alignment" : "left_center",
+            "action" :
+            {
+                "type" : "openGui",
+                "gui" : "languages"
+            }
+        }
+    },
+
+    "labels":
+    {
+        "mojang":
+        {
+            "text" : "Version: v1.0.0beta35",
+            "posX" : -108,
+            "posY" : -10,
+            "color" : -1,
+            "alignment" : "bottom_right"
+        }
+    },
+
+    "other":
+  {
+        "panorama":
+        {
+            "images" : "modpack:panorama/panorama_%c.png",
+            "animate" : true,
+            "animationSpeed" : 1,
+            "blur" : true,
+            "gradient" : false
+        }
+    }
+}
