@@ -5,6 +5,7 @@ color 4F
 
 :start
 echo **Please make sure this script is inside the same directory as the modpack!**
+echo This will NOT work with Windows Security Ransomware Protection due to only manually authorized applications being able to modify protected folders!
 timeout 5 /nobreak
 goto start2
 
