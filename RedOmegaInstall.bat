@@ -28,10 +28,10 @@ if %answer2% == n exit
 :install2
 cls
 echo Clearing existing config, mods, resources, and scripts folders...
-del %USERPROFILE%\AppData\Roaming\.minecraft\config
-del %USERPROFILE%\AppData\Roaming\.minecraft\mods
-del %USERPROFILE%\AppData\Roaming\.minecraft\resources
-del %USERPROFILE%\AppData\Roaming\.minecraft\scripts
+del /Y %USERPROFILE%\AppData\Roaming\.minecraft\config
+del /Y %USERPROFILE%\AppData\Roaming\.minecraft\mods
+del /Y %USERPROFILE%\AppData\Roaming\.minecraft\resources
+del /Y %USERPROFILE%\AppData\Roaming\.minecraft\scripts
 echo Pasting new config, mods, resources, scripts
 move /Y config %USERPROFILE%\AppData\Roaming\.minecraft
 move /Y mods %USERPROFILE%\AppData\Roaming\.minecraft

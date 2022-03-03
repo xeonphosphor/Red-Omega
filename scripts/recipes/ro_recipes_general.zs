@@ -16,6 +16,7 @@ mods.jei.JEI.removeAndHide(<item:enderio:block_tele_pad>);
 
 //Remove Dimensional Doors Gold Dimensional Door
 mods.jei.JEI.removeAndHide(<item:dimdoors:gold_dimensional_door>);
+mods.jei.JEI.removeAndHide(<item:dimdoors:stabilized_rift_signature>);
 
 //Remove Defiled Lands Items
 mods.jei.JEI.removeAndHide(<item:defiledlands:scarlite_ring>);
