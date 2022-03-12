@@ -8,7 +8,7 @@
                 https://bitbucket.org/Tmtravlr/qualitytools/wiki/Home",
     "tool": "any",
     "material": {
-        "item": "minecraft:nether_star"
+        "item": "enderio:item_xp_transfer:0"
     }
   },
   {
