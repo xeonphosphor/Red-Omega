@@ -1,0 +1,24 @@
+{
+	x: -17.0d,
+	y: -10.5d,
+	tasks: [{
+		uid: "9ce253c4",
+		type: "kill",
+		title: "Slay the Baroness",
+		tags: [
+			"aoa3"
+		],
+		entity: "aoa3:baroness",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "76be5c57",
+		type: "xp_levels",
+		xp_levels: 30
+	},
+	{
+		uid: "85d907f9",
+		type: "random",
+		table: 0
+	}]
+}

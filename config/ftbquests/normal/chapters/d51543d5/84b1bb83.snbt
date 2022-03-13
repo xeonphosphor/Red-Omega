@@ -1,0 +1,24 @@
+{
+	x: -12.5d,
+	y: -9.0d,
+	tasks: [{
+		uid: "849dbe3f",
+		type: "kill",
+		title: "Slay the Yellow Guardian",
+		tags: [
+			"aoa3"
+		],
+		entity: "aoa3:yellow_guardian",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "d2ed33be",
+		type: "xp_levels",
+		xp_levels: 30
+	},
+	{
+		uid: "18388348",
+		type: "random",
+		table: 0
+	}]
+}

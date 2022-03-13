@@ -1,0 +1,24 @@
+{
+	x: -11.0d,
+	y: 18.0d,
+	tasks: [{
+		uid: "04293371",
+		type: "kill",
+		title: "Slay the Alpha Yeti",
+		tags: [
+			"twilightforest"
+		],
+		entity: "twilightforest:yeti_alpha",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "d53d2e97",
+		type: "xp_levels",
+		xp_levels: 30
+	},
+	{
+		uid: "4657de30",
+		type: "random",
+		table: 0
+	}]
+}

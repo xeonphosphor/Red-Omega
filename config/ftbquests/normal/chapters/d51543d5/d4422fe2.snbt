@@ -1,0 +1,24 @@
+{
+	x: -12.5d,
+	y: -10.5d,
+	tasks: [{
+		uid: "920a8fdd",
+		type: "kill",
+		title: "Slay Corallus",
+		tags: [
+			"aoa3"
+		],
+		entity: "aoa3:corallus",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "9fe28f1d",
+		type: "xp_levels",
+		xp_levels: 30
+	},
+	{
+		uid: "0aeea899",
+		type: "random",
+		table: 0
+	}]
+}

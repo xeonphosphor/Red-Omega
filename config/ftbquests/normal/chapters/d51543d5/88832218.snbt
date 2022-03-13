@@ -1,0 +1,29 @@
+{
+	x: -18.5d,
+	y: -2.0d,
+	tasks: [{
+		uid: "4693f02d",
+		type: "kill",
+		title: "Slay Cha'garoth",
+		tags: [
+			"abyssalcraft"
+		],
+		entity: "abyssalcraft:chagaroth",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "5dff8070",
+		type: "xp_levels",
+		xp_levels: 30
+	},
+	{
+		uid: "f51cec34",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "abyssalcraft:dreadkatana"
+		}
+	}]
+}

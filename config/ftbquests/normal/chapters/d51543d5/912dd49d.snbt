@@ -1,0 +1,24 @@
+{
+	x: -18.5d,
+	y: -6.0d,
+	tasks: [{
+		uid: "b02d2d5b",
+		type: "kill",
+		title: "Slay Penumbra",
+		tags: [
+			"aoa3"
+		],
+		entity: "aoa3:penumbra",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "0f2456e8",
+		type: "xp_levels",
+		xp_levels: 30
+	},
+	{
+		uid: "7b3373be",
+		type: "random",
+		table: 0
+	}]
+}

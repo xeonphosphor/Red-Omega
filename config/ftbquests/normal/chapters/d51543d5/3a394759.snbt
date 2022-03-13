@@ -1,0 +1,24 @@
+{
+	x: -12.5d,
+	y: -4.5d,
+	tasks: [{
+		uid: "485f597f",
+		type: "kill",
+		title: "Slay Voxxulon",
+		tags: [
+			"aoa3"
+		],
+		entity: "aoa3:voxxulon",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "4185de01",
+		type: "xp_levels",
+		xp_levels: 30
+	},
+	{
+		uid: "256e0140",
+		type: "random",
+		table: 0
+	}]
+}

@@ -1,0 +1,24 @@
+{
+	x: -12.5d,
+	y: 15.5d,
+	tasks: [{
+		uid: "5c1cfb57",
+		type: "kill",
+		title: "Slay the Sludge Menace",
+		tags: [
+			"thebetweenlands"
+		],
+		entity: "thebetweenlands:sludge_menace",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "cfc1ed0d",
+		type: "xp_levels",
+		xp_levels: 30
+	},
+	{
+		uid: "a6ea1826",
+		type: "random",
+		table: 0
+	}]
+}

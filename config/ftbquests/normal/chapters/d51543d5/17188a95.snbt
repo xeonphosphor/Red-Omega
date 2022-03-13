@@ -1,0 +1,14 @@
+{
+	x: -14.0d,
+	y: -2.0d,
+	tasks: [{
+		uid: "c4d58b7c",
+		type: "kill",
+		title: "Slay Sacthoth",
+		tags: [
+			"abyssalcraft"
+		],
+		entity: "abyssalcraft:shadowboss",
+		value: 1L
+	}]
+}

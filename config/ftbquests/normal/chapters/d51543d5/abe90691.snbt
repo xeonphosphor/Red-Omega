@@ -1,0 +1,24 @@
+{
+	x: -14.0d,
+	y: -10.5d,
+	tasks: [{
+		uid: "70b210c3",
+		type: "kill",
+		title: "Slay Coniferon",
+		tags: [
+			"aoa3"
+		],
+		entity: "aoa3:coniferon",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "707b3207",
+		type: "xp_levels",
+		xp_levels: 30
+	},
+	{
+		uid: "6f11c416",
+		type: "random",
+		table: 0
+	}]
+}

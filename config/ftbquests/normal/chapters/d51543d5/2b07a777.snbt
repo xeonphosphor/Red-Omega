@@ -1,0 +1,24 @@
+{
+	x: -14.0d,
+	y: 25.5d,
+	tasks: [{
+		uid: "ad41c736",
+		type: "kill",
+		title: "Slay the Lich",
+		tags: [
+			"cqr"
+		],
+		entity: "cqrepoured:lich",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "83e8b1ed",
+		type: "xp_levels",
+		xp_levels: 30
+	},
+	{
+		uid: "97951b19",
+		type: "random",
+		table: 0
+	}]
+}

@@ -1,0 +1,24 @@
+{
+	x: -11.0d,
+	y: -7.5d,
+	tasks: [{
+		uid: "6e679a10",
+		type: "kill",
+		title: "Slay King BamBamBam",
+		tags: [
+			"aoa3"
+		],
+		entity: "aoa3:king_bambambam",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "b79293c5",
+		type: "xp_levels",
+		xp_levels: 30
+	},
+	{
+		uid: "7c7af6e2",
+		type: "random",
+		table: 0
+	}]
+}

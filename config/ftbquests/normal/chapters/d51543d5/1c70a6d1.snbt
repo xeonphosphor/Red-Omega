@@ -1,0 +1,25 @@
+{
+	x: -18.5d,
+	y: 20.5d,
+	tasks: [{
+		uid: "3fa62648",
+		type: "kill",
+		title: "Slay the Grim Reaper",
+		icon: "aoa3:primordial_skull",
+		tags: [
+			"mca"
+		],
+		entity: "mca:grimreapermca",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "96296aec",
+		type: "xp_levels",
+		xp_levels: 30
+	},
+	{
+		uid: "21219e28",
+		type: "random",
+		table: 0
+	}]
+}

@@ -1,0 +1,24 @@
+{
+	x: -18.5d,
+	y: 23.0d,
+	tasks: [{
+		uid: "21aa3c74",
+		type: "kill",
+		title: "Slay the Antlion Boss",
+		tags: [
+			"erebus"
+		],
+		entity: "erebus:erebus.antlion_boss",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "49d8783c",
+		type: "xp_levels",
+		xp_levels: 30
+	},
+	{
+		uid: "88d98810",
+		type: "random",
+		table: 0
+	}]
+}

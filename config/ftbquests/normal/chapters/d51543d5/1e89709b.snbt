@@ -1,0 +1,24 @@
+{
+	x: -18.5d,
+	y: -7.5d,
+	tasks: [{
+		uid: "c5105fe9",
+		type: "kill",
+		title: "Slay the Hydrolisk",
+		tags: [
+			"aoa3"
+		],
+		entity: "aoa3:hydrolisk",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "d865cb15",
+		type: "xp_levels",
+		xp_levels: 30
+	},
+	{
+		uid: "4b01a161",
+		type: "random",
+		table: 0
+	}]
+}

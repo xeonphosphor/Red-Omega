@@ -1,0 +1,24 @@
+{
+	x: -6.5d,
+	y: -7.5d,
+	tasks: [{
+		uid: "af763699",
+		type: "kill",
+		title: "Slay Mechbot",
+		tags: [
+			"aoa3"
+		],
+		entity: "aoa3:mechbot",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "da4203ef",
+		type: "xp_levels",
+		xp_levels: 30
+	},
+	{
+		uid: "edbdf0fe",
+		type: "random",
+		table: 0
+	}]
+}

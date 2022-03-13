@@ -1,0 +1,24 @@
+{
+	x: -17.0d,
+	y: 15.5d,
+	tasks: [{
+		uid: "ac7c9fd2",
+		type: "kill",
+		title: "Slay the Dreadful Peat Mummy",
+		tags: [
+			"thebetweenlands"
+		],
+		entity: "thebetweenlands:dreadful_mummy",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "581eda4e",
+		type: "xp_levels",
+		xp_levels: 30
+	},
+	{
+		uid: "dde3dc40",
+		type: "random",
+		table: 0
+	}]
+}

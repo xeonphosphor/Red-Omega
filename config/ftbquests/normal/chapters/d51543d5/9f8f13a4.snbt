@@ -1,0 +1,15 @@
+{
+	x: -15.5d,
+	y: 0.5d,
+	tasks: [{
+		uid: "3878df05",
+		type: "kill",
+		title: "Slay the Slider",
+		icon: "aether_legacy:enchanted_aether_grass",
+		tags: [
+			"aether"
+		],
+		entity: "aether_legacy:slider",
+		value: 1L
+	}]
+}

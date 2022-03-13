@@ -1,0 +1,24 @@
+{
+	x: -15.5d,
+	y: 18.0d,
+	tasks: [{
+		uid: "c788b08c",
+		type: "kill",
+		title: "Slay the Minoshroom",
+		tags: [
+			"twilightforest"
+		],
+		entity: "twilightforest:minoshroom",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "a1181a51",
+		type: "xp_levels",
+		xp_levels: 30
+	},
+	{
+		uid: "7d05bdb4",
+		type: "random",
+		table: 0
+	}]
+}

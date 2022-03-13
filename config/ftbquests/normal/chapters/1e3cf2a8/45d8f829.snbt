@@ -1,0 +1,17 @@
+{
+	x: -10.5d,
+	y: 8.0d,
+	tasks: [{
+		uid: "e93865b0",
+		type: "dimension",
+		tags: [
+			"aoa3"
+		],
+		dim: 819
+	}],
+	rewards: [{
+		uid: "be2ecbb3",
+		type: "xp_levels",
+		xp_levels: 20
+	}]
+}

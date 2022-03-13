@@ -1,0 +1,24 @@
+{
+	x: -15.5d,
+	y: 25.5d,
+	tasks: [{
+		uid: "31b5e2c0",
+		type: "kill",
+		title: "Slay the Gremlin",
+		tags: [
+			"cqr"
+		],
+		entity: "cqrepoured:gremlin",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "585f49cf",
+		type: "xp_levels",
+		xp_levels: 30
+	},
+	{
+		uid: "da100d14",
+		type: "random",
+		table: 0
+	}]
+}

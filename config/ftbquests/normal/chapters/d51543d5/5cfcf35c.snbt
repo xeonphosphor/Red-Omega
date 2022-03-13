@@ -1,0 +1,24 @@
+{
+	x: -18.5d,
+	y: -9.0d,
+	tasks: [{
+		uid: "fbb478cd",
+		type: "kill",
+		title: "Slay the Elusive",
+		tags: [
+			"aoa3"
+		],
+		entity: "aoa3:elusive",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "dc901e12",
+		type: "xp_levels",
+		xp_levels: 30
+	},
+	{
+		uid: "26cb4feb",
+		type: "random",
+		table: 0
+	}]
+}

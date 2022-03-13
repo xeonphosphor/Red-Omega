@@ -1,0 +1,20 @@
+{
+	x: -12.5d,
+	y: 23.0d,
+	tasks: [{
+		uid: "fbe28046",
+		type: "kill",
+		title: "Slay the Umbergolem",
+		icon: {
+			id: "thaumcraft:golem",
+			tag: {
+				props: 72341268037894144L
+			}
+		},
+		tags: [
+			"erebus"
+		],
+		entity: "erebus:erebus.umber_golem",
+		value: 1L
+	}]
+}

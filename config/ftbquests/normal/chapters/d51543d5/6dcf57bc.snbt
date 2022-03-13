@@ -1,0 +1,24 @@
+{
+	x: -12.5d,
+	y: -7.5d,
+	tasks: [{
+		uid: "33b2a732",
+		type: "kill",
+		title: "Slay Flash",
+		tags: [
+			"aoa3"
+		],
+		entity: "aoa3:flash",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "73ac3bc8",
+		type: "xp_levels",
+		xp_levels: 30
+	},
+	{
+		uid: "a53a1bf0",
+		type: "random",
+		table: 0
+	}]
+}

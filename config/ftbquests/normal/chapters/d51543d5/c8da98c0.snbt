@@ -1,0 +1,24 @@
+{
+	x: -12.5d,
+	y: -6.0d,
+	tasks: [{
+		uid: "40774ca9",
+		type: "kill",
+		title: "Slay Raxxan",
+		tags: [
+			"aoa3"
+		],
+		entity: "aoa3:raxxan",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "03b5d92b",
+		type: "xp_levels",
+		xp_levels: 30
+	},
+	{
+		uid: "b4f29fe3",
+		type: "random",
+		table: 0
+	}]
+}

@@ -1,0 +1,24 @@
+{
+	x: -9.5d,
+	y: -7.5d,
+	tasks: [{
+		uid: "9bdaa681",
+		type: "kill",
+		title: "Slay King Shroomus",
+		tags: [
+			"aoa3"
+		],
+		entity: "aoa3:king_shroomus",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "724201cb",
+		type: "xp_levels",
+		xp_levels: 30
+	},
+	{
+		uid: "e4b28648",
+		type: "random",
+		table: 0
+	}]
+}

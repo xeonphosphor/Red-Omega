@@ -1,0 +1,24 @@
+{
+	x: -17.0d,
+	y: -6.0d,
+	tasks: [{
+		uid: "246d80b0",
+		type: "kill",
+		title: "Slay Kajaros",
+		tags: [
+			"aoa3"
+		],
+		entity: "aoa3:kajaros",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "cdcfbbac",
+		type: "xp_levels",
+		xp_levels: 30
+	},
+	{
+		uid: "fb8ad12e",
+		type: "random",
+		table: 0
+	}]
+}

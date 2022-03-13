@@ -1,0 +1,24 @@
+{
+	x: -14.0d,
+	y: 18.0d,
+	tasks: [{
+		uid: "b70a543e",
+		type: "kill",
+		title: "Slay the Hydra",
+		tags: [
+			"twilightforest"
+		],
+		entity: "twilightforest:hydra",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "894c882e",
+		type: "xp_levels",
+		xp_levels: 30
+	},
+	{
+		uid: "1ebc524f",
+		type: "random",
+		table: 0
+	}]
+}

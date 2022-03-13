@@ -1,0 +1,24 @@
+{
+	x: -17.0d,
+	y: -7.5d,
+	tasks: [{
+		uid: "dc70a315",
+		type: "kill",
+		title: "Slay the Klobber",
+		tags: [
+			"aoa3"
+		],
+		entity: "aoa3:klobber",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "c28bc048",
+		type: "xp_levels",
+		xp_levels: 30
+	},
+	{
+		uid: "328a52db",
+		type: "random",
+		table: 0
+	}]
+}

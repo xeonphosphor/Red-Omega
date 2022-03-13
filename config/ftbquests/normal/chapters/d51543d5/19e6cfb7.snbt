@@ -1,0 +1,21 @@
+{
+	x: -18.5d,
+	y: 13.0d,
+	tasks: [{
+		uid: "63670c83",
+		type: "kill",
+		title: "Destroy the Attack Helicopter",
+		entity: "techguns:attackhelicopter",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "7406f31d",
+		type: "xp_levels",
+		xp_levels: 30
+	},
+	{
+		uid: "772c67b5",
+		type: "random",
+		table: 0
+	}]
+}

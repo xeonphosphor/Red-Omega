@@ -1,0 +1,25 @@
+{
+	x: -18.5d,
+	y: 3.0d,
+	tasks: [{
+		uid: "04fa47bc",
+		type: "kill",
+		title: "Slay the Gaia Guardian",
+		icon: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "botania:lexicon",
+			tag: {
+				knowledge.minecraft: 1b,
+				knowledge.alfheim: 1b,
+				knowledge.relic: 1b
+			}
+		},
+		tags: [
+			"botania"
+		],
+		entity: "botania:doppleganger",
+		value: 1L
+	}]
+}

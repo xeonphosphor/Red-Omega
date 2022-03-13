@@ -1,0 +1,24 @@
+{
+	x: -14.0d,
+	y: -7.5d,
+	tasks: [{
+		uid: "3bd31064",
+		type: "kill",
+		title: "Slay the Mirage",
+		tags: [
+			"aoa3"
+		],
+		entity: "aoa3:mirage",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "b7828fa7",
+		type: "xp_levels",
+		xp_levels: 30
+	},
+	{
+		uid: "2b99b241",
+		type: "random",
+		table: 0
+	}]
+}

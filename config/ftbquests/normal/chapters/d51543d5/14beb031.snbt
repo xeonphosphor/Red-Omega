@@ -1,0 +1,24 @@
+{
+	x: -14.0d,
+	y: 23.0d,
+	tasks: [{
+		uid: "64f62eca",
+		type: "kill",
+		title: "Slay the Wasp",
+		tags: [
+			"erebus"
+		],
+		entity: "erebus:erebus.wasp",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "e4b84036",
+		type: "xp_levels",
+		xp_levels: 30
+	},
+	{
+		uid: "25c509b8",
+		type: "random",
+		table: 0
+	}]
+}

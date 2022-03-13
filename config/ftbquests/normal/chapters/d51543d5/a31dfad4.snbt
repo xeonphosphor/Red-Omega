@@ -1,0 +1,24 @@
+{
+	x: -11.0d,
+	y: -6.0d,
+	tasks: [{
+		uid: "dd0fd152",
+		type: "kill",
+		title: "Slay Okazor",
+		tags: [
+			"aoa3"
+		],
+		entity: "aoa3:okazor",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "e33c785d",
+		type: "xp_levels",
+		xp_levels: 30
+	},
+	{
+		uid: "5f40ba97",
+		type: "random",
+		table: 0
+	}]
+}

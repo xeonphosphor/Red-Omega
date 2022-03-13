@@ -1,0 +1,24 @@
+{
+	x: -8.0d,
+	y: -6.0d,
+	tasks: [{
+		uid: "396c021a",
+		type: "kill",
+		title: "Slay the Shadowlord",
+		tags: [
+			"aoa3"
+		],
+		entity: "aoa3:shadowlord",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "aba681a7",
+		type: "xp_levels",
+		xp_levels: 30
+	},
+	{
+		uid: "6ff62874",
+		type: "random",
+		table: 0
+	}]
+}

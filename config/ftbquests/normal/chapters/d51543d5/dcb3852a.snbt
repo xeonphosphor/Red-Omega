@@ -1,0 +1,25 @@
+{
+	x: -17.0d,
+	y: 0.5d,
+	tasks: [{
+		uid: "4f837efa",
+		type: "kill",
+		title: "Slay the Sun Spirit",
+		icon: "aether_legacy:enchanted_aether_grass",
+		tags: [
+			"aether"
+		],
+		entity: "aether_legacy:sun_spirit",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "89ac1010",
+		type: "xp_levels",
+		xp_levels: 30
+	},
+	{
+		uid: "94c7a924",
+		type: "random",
+		table: 1
+	}]
+}

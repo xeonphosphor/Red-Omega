@@ -1,0 +1,25 @@
+{
+	x: -15.5d,
+	y: 8.0d,
+	tasks: [{
+		uid: "9a8aa412",
+		type: "kill",
+		title: "Slay the Wither",
+		icon: "minecraft:nether_star",
+		tags: [
+			"vanilla"
+		],
+		entity: "minecraft:wither",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "86041457",
+		type: "xp_levels",
+		xp_levels: 30
+	},
+	{
+		uid: "a33d3ade",
+		type: "random",
+		table: 0
+	}]
+}

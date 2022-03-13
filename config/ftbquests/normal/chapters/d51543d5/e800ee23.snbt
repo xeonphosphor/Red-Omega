@@ -1,0 +1,24 @@
+{
+	x: -11.0d,
+	y: -10.5d,
+	tasks: [{
+		uid: "12072116",
+		type: "kill",
+		title: "Slay the Cotton Candor",
+		tags: [
+			"aoa3"
+		],
+		entity: "aoa3:cotton_candor",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "e605be25",
+		type: "xp_levels",
+		xp_levels: 30
+	},
+	{
+		uid: "9d577377",
+		type: "random",
+		table: 0
+	}]
+}

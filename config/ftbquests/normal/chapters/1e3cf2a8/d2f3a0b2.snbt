@@ -1,0 +1,17 @@
+{
+	x: -21.0d,
+	y: -13.5d,
+	tasks: [{
+		uid: "890770cf",
+		type: "dimension",
+		tags: [
+			"abyssalcraft"
+		],
+		dim: 52
+	}],
+	rewards: [{
+		uid: "4ec2b8e6",
+		type: "xp_levels",
+		xp_levels: 20
+	}]
+}

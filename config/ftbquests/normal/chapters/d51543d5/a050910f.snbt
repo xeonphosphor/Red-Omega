@@ -1,0 +1,24 @@
+{
+	x: -5.0d,
+	y: -7.5d,
+	tasks: [{
+		uid: "8b92591f",
+		type: "kill",
+		title: "Slay the Nethengeic Wither",
+		tags: [
+			"aoa3"
+		],
+		entity: "aoa3:nethengeic_wither",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "10c34aa1",
+		type: "xp_levels",
+		xp_levels: 30
+	},
+	{
+		uid: "11f0a6fd",
+		type: "random",
+		table: 0
+	}]
+}

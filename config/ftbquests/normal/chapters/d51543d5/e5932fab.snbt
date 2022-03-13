@@ -1,0 +1,24 @@
+{
+	x: -15.5d,
+	y: 27.0d,
+	tasks: [{
+		uid: "b8f28626",
+		type: "kill",
+		title: "Slay the Giant Silverfish",
+		tags: [
+			"cqr"
+		],
+		entity: "cqrepoured:giant_silverfish",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "3f7d8647",
+		type: "xp_levels",
+		xp_levels: 30
+	},
+	{
+		uid: "f3e39b29",
+		type: "random",
+		table: 0
+	}]
+}

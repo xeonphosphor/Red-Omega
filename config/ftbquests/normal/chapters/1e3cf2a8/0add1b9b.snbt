@@ -1,0 +1,23 @@
+{
+	x: -24.0d,
+	y: -16.0d,
+	tasks: [{
+		uid: "1dd2b13e",
+		type: "dimension",
+		tags: [
+			"vanilla"
+		],
+		dim: 1
+	}],
+	rewards: [{
+		uid: "e22b11f3",
+		type: "xp_levels",
+		xp_levels: 10
+	},
+	{
+		uid: "d20462ad",
+		type: "item",
+		item: "minecraft:ender_pearl",
+		count: 8
+	}]
+}

@@ -1,0 +1,27 @@
+{
+	title: "Aether Boss",
+	loot_size: 1,
+	rewards: [{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "aether_legacy:valkyrie_lance"
+		}
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "aether_legacy:lightning_sword"
+		}
+	},
+	{
+		item: "aether_legacy:present"
+	},
+	{
+		xp_levels: 5,
+		type: "xp_levels"
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	x: -24.0d,
+	y: 9.5d,
+	tasks: [{
+		uid: "3dd22281",
+		type: "dimension",
+		dim: 820
+	}],
+	rewards: [{
+		uid: "f2de109d",
+		type: "xp_levels",
+		xp_levels: 20
+	}]
+}

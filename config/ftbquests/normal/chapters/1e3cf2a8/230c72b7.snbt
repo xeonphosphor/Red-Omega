@@ -1,0 +1,17 @@
+{
+	x: -24.0d,
+	y: -11.0d,
+	tasks: [{
+		uid: "6efe1627",
+		type: "dimension",
+		tags: [
+			"erebus"
+		],
+		dim: 66
+	}],
+	rewards: [{
+		uid: "e27566cb",
+		type: "xp_levels",
+		xp_levels: 20
+	}]
+}

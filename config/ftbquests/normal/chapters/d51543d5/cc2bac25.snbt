@@ -1,0 +1,19 @@
+{
+	x: -15.5d,
+	y: -2.0d,
+	tasks: [{
+		uid: "b63e726d",
+		type: "kill",
+		title: "Slay J'zahar",
+		tags: [
+			"abyssalcraft"
+		],
+		entity: "abyssalcraft:jzahar",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "bfe5f4f2",
+		type: "xp_levels",
+		xp_levels: 30
+	}]
+}

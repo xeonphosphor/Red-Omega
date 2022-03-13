@@ -1,0 +1,31 @@
+{
+	x: -24.0d,
+	y: 4.0d,
+	tasks: [{
+		uid: "31c8d17e",
+		type: "dimension",
+		tags: [
+			"dimdoors"
+		],
+		dim: 684
+	}],
+	rewards: [{
+		uid: "fa751d73",
+		type: "xp_levels",
+		xp_levels: 15
+	},
+	{
+		uid: "8876dede",
+		type: "item",
+		item: "dimdoors:world_thread",
+		count: 4,
+		random_bonus: 4
+	},
+	{
+		uid: "a8ef696f",
+		type: "item",
+		item: "minecraft:bread",
+		count: 4,
+		random_bonus: 2
+	}]
+}

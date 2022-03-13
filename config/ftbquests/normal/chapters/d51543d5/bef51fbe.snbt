@@ -1,0 +1,24 @@
+{
+	x: -11.0d,
+	y: 23.0d,
+	tasks: [{
+		uid: "87ec04de",
+		type: "kill",
+		title: "Slay the Antlion Mini Boss",
+		tags: [
+			"erebus"
+		],
+		entity: "erebus:erebus.antlion_mini_boss",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "ce73f7e5",
+		type: "xp_levels",
+		xp_levels: 30
+	},
+	{
+		uid: "c368e6fe",
+		type: "random",
+		table: 0
+	}]
+}

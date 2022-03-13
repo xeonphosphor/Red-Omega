@@ -1,0 +1,22 @@
+{
+	x: -19.5d,
+	y: -13.5d,
+	tasks: [{
+		uid: "b4eb23b8",
+		type: "dimension",
+		tags: [
+			"abyssalcraft"
+		],
+		dim: 53
+	}],
+	rewards: [{
+		uid: "5752a9cb",
+		type: "xp_levels",
+		xp_levels: 15
+	},
+	{
+		uid: "69a2b9d0",
+		type: "item",
+		item: "abyssalcraft:shadowgem"
+	}]
+}

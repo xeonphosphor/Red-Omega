@@ -1,0 +1,24 @@
+{
+	x: -5.0d,
+	y: -9.0d,
+	tasks: [{
+		uid: "612a58a8",
+		type: "kill",
+		title: "Slay Horon",
+		tags: [
+			"aoa3"
+		],
+		entity: "aoa3:horon",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "14a417fb",
+		type: "xp_levels",
+		xp_levels: 30
+	},
+	{
+		uid: "bd068ca3",
+		type: "random",
+		table: 0
+	}]
+}

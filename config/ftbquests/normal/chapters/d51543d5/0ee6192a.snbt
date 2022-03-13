@@ -1,0 +1,24 @@
+{
+	x: -18.5d,
+	y: 18.0d,
+	tasks: [{
+		uid: "b2714992",
+		type: "kill",
+		title: "Slay the Naga",
+		tags: [
+			"twilightforest"
+		],
+		entity: "twilightforest:naga",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "9460b6e3",
+		type: "xp_levels",
+		xp_levels: 30
+	},
+	{
+		uid: "573b564f",
+		type: "random",
+		table: 0
+	}]
+}

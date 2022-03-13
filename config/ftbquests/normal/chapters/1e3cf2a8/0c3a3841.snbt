@@ -1,0 +1,17 @@
+{
+	x: -24.0d,
+	y: -8.5d,
+	tasks: [{
+		uid: "c557cee6",
+		type: "dimension",
+		tags: [
+			"betweenlands"
+		],
+		dim: 20
+	}],
+	rewards: [{
+		uid: "4b3248dd",
+		type: "xp_levels",
+		xp_levels: 20
+	}]
+}

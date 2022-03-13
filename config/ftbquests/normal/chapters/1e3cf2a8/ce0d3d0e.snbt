@@ -1,0 +1,17 @@
+{
+	x: -24.0d,
+	y: 1.5d,
+	tasks: [{
+		uid: "e6f52c90",
+		type: "dimension",
+		tags: [
+			"advrocketry"
+		],
+		dim: 3
+	}],
+	rewards: [{
+		uid: "d799a5bf",
+		type: "xp_levels",
+		xp_levels: 30
+	}]
+}

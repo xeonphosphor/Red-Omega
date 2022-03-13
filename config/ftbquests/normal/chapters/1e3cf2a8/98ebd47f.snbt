@@ -1,0 +1,27 @@
+{
+	x: -24.0d,
+	y: -13.5d,
+	tasks: [{
+		uid: "03062940",
+		type: "dimension",
+		tags: [
+			"abyssalcraft"
+		],
+		dim: 50
+	}],
+	rewards: [{
+		uid: "06bc2340",
+		type: "xp_levels",
+		xp_levels: 15
+	},
+	{
+		uid: "d568d660",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "abyssalcraft:transmutationgem"
+		}
+	}]
+}

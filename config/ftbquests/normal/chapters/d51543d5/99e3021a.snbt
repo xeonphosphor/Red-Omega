@@ -1,0 +1,24 @@
+{
+	x: -18.5d,
+	y: 25.5d,
+	tasks: [{
+		uid: "672a7b96",
+		type: "kill",
+		title: "Slay the Abyss Walker King",
+		tags: [
+			"cqr"
+		],
+		entity: "cqrepoured:walker_king",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "9f2d942a",
+		type: "xp_levels",
+		xp_levels: 30
+	},
+	{
+		uid: "129b42e7",
+		type: "random",
+		table: 0
+	}]
+}

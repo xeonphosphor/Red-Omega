@@ -1,0 +1,29 @@
+{
+	x: -17.0d,
+	y: -2.0d,
+	tasks: [{
+		uid: "4ab543e4",
+		type: "kill",
+		title: "Slay Asorah",
+		tags: [
+			"abyssalcraft"
+		],
+		entity: "abyssalcraft:dragonboss",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "db2a489d",
+		type: "xp_levels",
+		xp_levels: 30
+	},
+	{
+		uid: "2584c2b5",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "abyssalcraft:corbow"
+		}
+	}]
+}

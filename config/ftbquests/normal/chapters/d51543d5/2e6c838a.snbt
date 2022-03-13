@@ -1,0 +1,24 @@
+{
+	x: -15.5d,
+	y: -6.0d,
+	tasks: [{
+		uid: "85b10ddd",
+		type: "kill",
+		title: "Slay Miskel",
+		tags: [
+			"aoa3"
+		],
+		entity: "aoa3:miskel",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "059f02c5",
+		type: "xp_levels",
+		xp_levels: 30
+	},
+	{
+		uid: "31f34214",
+		type: "random",
+		table: 0
+	}]
+}

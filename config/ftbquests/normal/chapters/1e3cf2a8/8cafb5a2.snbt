@@ -1,0 +1,30 @@
+{
+	x: -22.5d,
+	y: 4.0d,
+	tasks: [{
+		uid: "ba251a06",
+		type: "dimension",
+		tags: [
+			"dimdoors"
+		],
+		dim: 687
+	}],
+	rewards: [{
+		uid: "3eb7af2d",
+		type: "xp_levels",
+		xp_levels: 15
+	},
+	{
+		uid: "828baecc",
+		type: "item",
+		item: "minecraft:ender_pearl",
+		random_bonus: 2
+	},
+	{
+		uid: "88416f40",
+		type: "item",
+		item: "dimdoors:world_thread",
+		count: 2,
+		random_bonus: 4
+	}]
+}

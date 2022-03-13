@@ -1,0 +1,24 @@
+{
+	x: -15.5d,
+	y: -7.5d,
+	tasks: [{
+		uid: "eb991767",
+		type: "kill",
+		title: "Slay Proshield",
+		tags: [
+			"aoa3"
+		],
+		entity: "aoa3:proshield",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "8a9c7a7c",
+		type: "xp_levels",
+		xp_levels: 30
+	},
+	{
+		uid: "6194031f",
+		type: "random",
+		table: 0
+	}]
+}

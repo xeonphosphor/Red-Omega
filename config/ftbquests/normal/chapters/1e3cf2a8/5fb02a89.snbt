@@ -1,0 +1,17 @@
+{
+	x: -24.0d,
+	y: -3.5d,
+	tasks: [{
+		uid: "49830ce3",
+		type: "dimension",
+		tags: [
+			"extrautils"
+		],
+		dim: -11325
+	}],
+	rewards: [{
+		uid: "f8982f92",
+		type: "xp_levels",
+		xp_levels: 20
+	}]
+}

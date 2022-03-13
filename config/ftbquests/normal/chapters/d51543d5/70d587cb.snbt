@@ -1,0 +1,25 @@
+{
+	x: -18.5d,
+	y: 27.0d,
+	tasks: [{
+		uid: "eee140b1",
+		type: "kill",
+		title: "Slay the Slime Boss",
+		icon: "minecraft:slime_ball",
+		tags: [
+			"cqr"
+		],
+		entity: "cqrepoured:slime_part",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "dbc9d92c",
+		type: "xp_levels",
+		xp_levels: 30
+	},
+	{
+		uid: "3b9e8f16",
+		type: "random",
+		table: 0
+	}]
+}

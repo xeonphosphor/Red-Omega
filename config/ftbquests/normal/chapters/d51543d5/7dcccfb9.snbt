@@ -1,0 +1,24 @@
+{
+	x: -17.0d,
+	y: 18.0d,
+	tasks: [{
+		uid: "1a5ad5fb",
+		type: "kill",
+		title: "Slay the Twilight Lich",
+		tags: [
+			"twilightforest"
+		],
+		entity: "twilightforest:lich",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "d564a813",
+		type: "xp_levels",
+		xp_levels: 30
+	},
+	{
+		uid: "d67b0e0e",
+		type: "random",
+		table: 0
+	}]
+}

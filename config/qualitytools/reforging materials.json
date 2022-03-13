@@ -8,7 +8,8 @@
                 https://bitbucket.org/Tmtravlr/qualitytools/wiki/Home",
     "tool": "any",
     "material": {
-        "item": "enderio:item_xp_transfer:0"
+        "item": "enderio:item_alloy_ingot",
+		"meta": 1
     }
   },
   {

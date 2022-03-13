@@ -1,0 +1,24 @@
+{
+	x: -18.5d,
+	y: 15.5d,
+	tasks: [{
+		uid: "303322aa",
+		type: "kill",
+		title: "Slay the Primordial Malevolence",
+		tags: [
+			"thebetweenlands"
+		],
+		entity: "thebetweenlands:fortress_boss",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "f4a9fe7c",
+		type: "xp_levels",
+		xp_levels: 30
+	},
+	{
+		uid: "e075d273",
+		type: "random",
+		table: 0
+	}]
+}

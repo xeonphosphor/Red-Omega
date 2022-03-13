@@ -1,0 +1,24 @@
+{
+	x: -6.5d,
+	y: -6.0d,
+	tasks: [{
+		uid: "20f46357",
+		type: "kill",
+		title: "Slay Silverfoot",
+		tags: [
+			"aoa3"
+		],
+		entity: "aoa3:silverfoot",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "c9a99fa8",
+		type: "xp_levels",
+		xp_levels: 30
+	},
+	{
+		uid: "52452320",
+		type: "random",
+		table: 0
+	}]
+}

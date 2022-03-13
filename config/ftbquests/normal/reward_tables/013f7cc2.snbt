@@ -1,0 +1,29 @@
+{
+	title: "Boss",
+	loot_size: 1,
+	rewards: [{
+		xp_levels: 10,
+		type: "xp_levels",
+		weight: 100
+	},
+	{
+		item: "minecraft:nether_star",
+		weight: 5
+	},
+	{
+		item: "minecraft:ender_pearl",
+		count: 3,
+		random_bonus: 2,
+		weight: 10
+	},
+	{
+		item: "aoa3:lunar_ingot",
+		count: 3,
+		random_bonus: 3,
+		weight: 5
+	},
+	{
+		item: "minecraft:diamond_block",
+		weight: 15
+	}]
+}

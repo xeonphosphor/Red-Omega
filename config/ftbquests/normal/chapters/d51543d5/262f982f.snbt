@@ -1,0 +1,24 @@
+{
+	x: -8.0d,
+	y: -9.0d,
+	tasks: [{
+		uid: "279441d9",
+		type: "kill",
+		title: "Slay the Gyro",
+		tags: [
+			"aoa3"
+		],
+		entity: "aoa3:gyro",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "3ec4fd3a",
+		type: "xp_levels",
+		xp_levels: 30
+	},
+	{
+		uid: "f4bd7387",
+		type: "random",
+		table: 0
+	}]
+}
