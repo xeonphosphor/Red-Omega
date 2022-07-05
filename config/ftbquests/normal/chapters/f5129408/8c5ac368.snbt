@@ -9,8 +9,8 @@
 		}]
 	}],
 	rewards: [{
-		uid: "d913fe02",
-		type: "xp_levels",
-		xp_levels: 10
+		uid: "e8e468ef",
+		type: "xp",
+		xp: 350
 	}]
 }

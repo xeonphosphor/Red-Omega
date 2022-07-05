@@ -66,3 +66,6 @@ remove(<item:aether_legacy:valkyrie_cape>);
 
 // Thaumic Augmentation
 remove(<item:thaumicaugmentation:thaumostatic_harness>);
+
+// PneumaticCraft
+remove(<item:pneumaticcraft:jet_boots_upgrade>);

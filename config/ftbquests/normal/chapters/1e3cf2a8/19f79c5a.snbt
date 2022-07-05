@@ -1,6 +1,6 @@
 {
 	x: -24.0d,
-	y: -6.0d,
+	y: -8.5d,
 	tasks: [{
 		uid: "3728129a",
 		type: "dimension",
@@ -10,13 +10,13 @@
 		dim: 4
 	}],
 	rewards: [{
-		uid: "68590892",
-		type: "xp_levels",
-		xp_levels: 15
-	},
-	{
 		uid: "04602f6f",
 		type: "item",
 		item: "aether_legacy:present"
+	},
+	{
+		uid: "97255853",
+		type: "xp",
+		xp: 500
 	}]
 }

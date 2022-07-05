@@ -1,6 +1,6 @@
 {
 	x: -14.0d,
-	y: -2.0d,
+	y: 0.5d,
 	tasks: [{
 		uid: "c4d58b7c",
 		type: "kill",
@@ -10,5 +10,10 @@
 		],
 		entity: "abyssalcraft:shadowboss",
 		value: 1L
+	}],
+	rewards: [{
+		uid: "d598c3a4",
+		type: "xp",
+		xp: 1200
 	}]
 }

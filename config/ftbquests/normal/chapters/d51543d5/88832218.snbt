@@ -1,6 +1,6 @@
 {
 	x: -18.5d,
-	y: -2.0d,
+	y: 0.5d,
 	tasks: [{
 		uid: "4693f02d",
 		type: "kill",
@@ -12,11 +12,6 @@
 		value: 1L
 	}],
 	rewards: [{
-		uid: "5dff8070",
-		type: "xp_levels",
-		xp_levels: 30
-	},
-	{
 		uid: "f51cec34",
 		type: "item",
 		item: {
@@ -25,5 +20,10 @@
 			},
 			id: "abyssalcraft:dreadkatana"
 		}
+	},
+	{
+		uid: "f0a7e451",
+		type: "xp",
+		xp: 1200
 	}]
 }

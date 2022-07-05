@@ -12,13 +12,13 @@
 		value: 1L
 	}],
 	rewards: [{
-		uid: "be0cac98",
-		type: "xp_levels",
-		xp_levels: 30
-	},
-	{
 		uid: "341e3fe5",
 		type: "random",
 		table: 0
+	},
+	{
+		uid: "d0626f51",
+		type: "xp",
+		xp: 1200
 	}]
 }

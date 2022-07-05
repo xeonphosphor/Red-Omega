@@ -1,6 +1,6 @@
 {
 	x: -18.5d,
-	y: 3.0d,
+	y: 5.5d,
 	tasks: [{
 		uid: "04fa47bc",
 		type: "kill",
@@ -21,5 +21,10 @@
 		],
 		entity: "botania:doppleganger",
 		value: 1L
+	}],
+	rewards: [{
+		uid: "02609cf4",
+		type: "xp",
+		xp: 1200
 	}]
 }

@@ -24,12 +24,6 @@ mods.jei.JEI.removeAndHide(<item:defiledlands:scarlite_ring>);
 //Remove Ice and Fire Items
 mods.jei.JEI.removeAndHide(<item:iceandfire:hydra_heart>);
 
-//Remove AOA3 Innervation Set
-mods.jei.JEI.removeAndHide(<item:aoa3:innervation_helmet>);
-mods.jei.JEI.removeAndHide(<item:aoa3:innervation_chestplate>);
-mods.jei.JEI.removeAndHide(<item:aoa3:innervation_legs>);
-mods.jei.JEI.removeAndHide(<item:aoa3:innervation_boots>);
-
 //Remove Draconic Evolution Disenchanter
 mods.jei.JEI.removeAndHide(<item:draconicevolution:diss_enchanter>);
 

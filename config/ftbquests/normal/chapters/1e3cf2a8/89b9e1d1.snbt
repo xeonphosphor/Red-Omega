@@ -10,11 +10,6 @@
 		dim: -1
 	}],
 	rewards: [{
-		uid: "c55b0ed6",
-		type: "xp_levels",
-		xp_levels: 10
-	},
-	{
 		uid: "31b1c772",
 		type: "item",
 		item: {
@@ -23,5 +18,10 @@
 				Potion: "minecraft:fire_resistance"
 			}
 		}
+	},
+	{
+		uid: "87ba1665",
+		type: "xp",
+		xp: 500
 	}]
 }

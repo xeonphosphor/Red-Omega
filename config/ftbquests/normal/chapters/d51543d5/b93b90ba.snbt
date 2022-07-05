@@ -1,6 +1,6 @@
 {
 	x: -18.5d,
-	y: 8.0d,
+	y: 10.5d,
 	tasks: [{
 		uid: "15688fcf",
 		type: "kill",
@@ -13,11 +13,6 @@
 		value: 1L
 	}],
 	rewards: [{
-		uid: "5766db95",
-		type: "xp_levels",
-		xp_levels: 30
-	},
-	{
 		uid: "da541236",
 		type: "item",
 		item: {
@@ -26,5 +21,10 @@
 			},
 			id: "red_omega_custom_swords:master_sword"
 		}
+	},
+	{
+		uid: "d3e27f59",
+		type: "xp",
+		xp: 1200
 	}]
 }

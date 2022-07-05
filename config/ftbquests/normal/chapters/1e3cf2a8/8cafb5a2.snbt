@@ -1,6 +1,6 @@
 {
 	x: -22.5d,
-	y: 4.0d,
+	y: 1.5d,
 	tasks: [{
 		uid: "ba251a06",
 		type: "dimension",
@@ -10,11 +10,6 @@
 		dim: 687
 	}],
 	rewards: [{
-		uid: "3eb7af2d",
-		type: "xp_levels",
-		xp_levels: 15
-	},
-	{
 		uid: "828baecc",
 		type: "item",
 		item: "minecraft:ender_pearl",
@@ -26,5 +21,10 @@
 		item: "dimdoors:world_thread",
 		count: 2,
 		random_bonus: 4
+	},
+	{
+		uid: "f7e042c5",
+		type: "xp",
+		xp: 500
 	}]
 }

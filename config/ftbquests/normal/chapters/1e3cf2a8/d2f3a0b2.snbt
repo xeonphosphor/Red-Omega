@@ -10,8 +10,8 @@
 		dim: 52
 	}],
 	rewards: [{
-		uid: "4ec2b8e6",
-		type: "xp_levels",
-		xp_levels: 20
+		uid: "a96e25af",
+		type: "xp",
+		xp: 500
 	}]
 }

@@ -1,6 +1,6 @@
 {
 	x: -24.0d,
-	y: 4.0d,
+	y: 1.5d,
 	tasks: [{
 		uid: "31c8d17e",
 		type: "dimension",
@@ -10,11 +10,6 @@
 		dim: 684
 	}],
 	rewards: [{
-		uid: "fa751d73",
-		type: "xp_levels",
-		xp_levels: 15
-	},
-	{
 		uid: "8876dede",
 		type: "item",
 		item: "dimdoors:world_thread",
@@ -27,5 +22,10 @@
 		item: "minecraft:bread",
 		count: 4,
 		random_bonus: 2
+	},
+	{
+		uid: "336a25e5",
+		type: "xp",
+		xp: 500
 	}]
 }

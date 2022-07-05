@@ -21,7 +21,7 @@
 		item: "aether_legacy:present"
 	},
 	{
-		xp_levels: 5,
-		type: "xp_levels"
+		xp: 350,
+		type: "xp"
 	}]
 }

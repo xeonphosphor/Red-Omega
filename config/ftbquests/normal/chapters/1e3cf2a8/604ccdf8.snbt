@@ -10,13 +10,13 @@
 		dim: 51
 	}],
 	rewards: [{
-		uid: "5d1f40b9",
-		type: "xp_levels",
-		xp_levels: 15
-	},
-	{
 		uid: "3a5c01c9",
 		type: "item",
 		item: "minecraft:golden_apple"
+	},
+	{
+		uid: "d8590a94",
+		type: "xp",
+		xp: 500
 	}]
 }

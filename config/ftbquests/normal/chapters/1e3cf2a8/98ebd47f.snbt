@@ -10,11 +10,6 @@
 		dim: 50
 	}],
 	rewards: [{
-		uid: "06bc2340",
-		type: "xp_levels",
-		xp_levels: 15
-	},
-	{
 		uid: "d568d660",
 		type: "item",
 		item: {
@@ -23,5 +18,10 @@
 			},
 			id: "abyssalcraft:transmutationgem"
 		}
+	},
+	{
+		uid: "15fed5c9",
+		type: "xp",
+		xp: 500
 	}]
 }

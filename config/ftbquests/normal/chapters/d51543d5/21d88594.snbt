@@ -1,6 +1,6 @@
 {
 	x: -15.5d,
-	y: 8.0d,
+	y: 10.5d,
 	tasks: [{
 		uid: "9a8aa412",
 		type: "kill",
@@ -13,13 +13,13 @@
 		value: 1L
 	}],
 	rewards: [{
-		uid: "86041457",
-		type: "xp_levels",
-		xp_levels: 30
-	},
-	{
 		uid: "a33d3ade",
 		type: "random",
 		table: 0
+	},
+	{
+		uid: "8891187e",
+		type: "xp",
+		xp: 1200
 	}]
 }

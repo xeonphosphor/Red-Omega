@@ -10,5 +10,10 @@
 		],
 		entity: "cqrepoured:giant_endermite",
 		value: 1L
+	}],
+	rewards: [{
+		uid: "8cb83e65",
+		type: "xp",
+		xp: 1200
 	}]
 }

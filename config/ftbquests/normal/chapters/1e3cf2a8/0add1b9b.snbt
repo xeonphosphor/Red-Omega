@@ -10,14 +10,14 @@
 		dim: 1
 	}],
 	rewards: [{
-		uid: "e22b11f3",
-		type: "xp_levels",
-		xp_levels: 10
-	},
-	{
 		uid: "d20462ad",
 		type: "item",
 		item: "minecraft:ender_pearl",
 		count: 8
+	},
+	{
+		uid: "44e37f67",
+		type: "xp",
+		xp: 500
 	}]
 }

@@ -16,5 +16,10 @@
 		],
 		entity: "erebus:erebus.umber_golem",
 		value: 1L
+	}],
+	rewards: [{
+		uid: "af15b544",
+		type: "xp",
+		xp: 1200
 	}]
 }

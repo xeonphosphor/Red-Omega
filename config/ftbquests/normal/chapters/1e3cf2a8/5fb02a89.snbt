@@ -1,6 +1,6 @@
 {
 	x: -24.0d,
-	y: -3.5d,
+	y: -6.0d,
 	tasks: [{
 		uid: "49830ce3",
 		type: "dimension",
@@ -10,8 +10,8 @@
 		dim: -11325
 	}],
 	rewards: [{
-		uid: "f8982f92",
-		type: "xp_levels",
-		xp_levels: 20
+		uid: "39592571",
+		type: "xp",
+		xp: 500
 	}]
 }
