@@ -53,3 +53,7 @@ recipes.addShaped(<botania:flugeleye>, [
 	[<botania:dice>, <minecraft:ender_pearl>, <botania:dice>],
 	[null, <botania:dice>, null]
 ]);
+
+//----Special Additions----
+
+mods.botania.RuneAltar.addRecipe(<ebwizardry:crystal_flower> * 32, [<minecraft:dye:15>, <minecraft:dye:15>, <minecraft:dye:15>, <minecraft:dye:15>, <minecraft:red_flower:0>, <ebwizardry:magic_crystal>], 10000);

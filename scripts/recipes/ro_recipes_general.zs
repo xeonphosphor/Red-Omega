@@ -32,3 +32,4 @@ mods.jei.JEI.removeAndHide(<item:bountifulbaubles:trinketbrokenheart>);
 
 //Remove Random Things Spectre Lens
 mods.jei.JEI.removeAndHide(<item:randomthings:spectrelens>);
+mods.jei.JEI.removeAndHide(<item:randomthings:spectrecoil_number>);
