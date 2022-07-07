@@ -8,13 +8,13 @@ Bullets are very damaging.
 Make sure you are prepared for any battles.
 You can increase your difficulty by using Cursed Hearts.
 Cursed Hearts are dropped by bosses.
-Enchanted Hearts reset your difficulty back to 0.
+Enchanted Hearts decrease your Scaling Health difficulty by 10.
+Enchanted Hearts can be crafted.
 If you change a setting and the game appears to freeze, please wait.
-Your Head and Chest health are critical to your life.
-Be careful about Infernal Mobs.
+Your head and chest health are critical to your life.
+Be wary of Infernal Mobs.
 Remember that offhand items can be quite powerful.
-Betweenlands middle gems are very useful.
-If you lack proper protective equipment, avoid Nuclear wastelands.
+If you lack proper protective equipment, avoid nuclear wastelands.
 Deserts can be dangerous.
 There are many dungeons and castles to explore in the world.
 You can claim chunks for multiplayer, and you can chunkload some claimed chunks.
@@ -38,9 +38,15 @@ SecurityCraft blocks are very tough.
 All bosses are blights.
 Be very careful when travelling to the Nether for the first time.
 Expect to be met with heavy resistance when arriving in the Nether.
-In a group of players, the lowest difficulty will be what the group difficulty is.
 Damaged limbs will give you debuffs, make sure to stay healed.
-You can easily customize keybinds using the Key Wizard tool in Controls.
+You can easily customize keybinds using the Controlling mod controls menu.
 Vehicles are excellent ways of moving around.
 The FTB wiki is a great place for information.
 Be wary of radiation.
+The Texas Instruments LMC555CN is a bad IC.
+Sleeping will heal you to full health.
+Completing quests will grant large amounts of experience.
+Complete commissions in villages to earn rewards.
+Unstable Rifts can damage terrain.
+Starting off is very difficult at first, be aware.
+Basic armor will greatly increase survivability.

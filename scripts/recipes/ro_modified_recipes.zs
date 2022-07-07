@@ -1,11 +1,12 @@
-//Imports
+// Imports
 
 import crafttweaker.item.IIngredient;
 import crafttweaker.item.IItemStack;
 import crafttweaker.oredict.IOreDict;
 import crafttweaker.oredict.IOreDictEntry;
+import crafttweaker.recipes.ICraftingRecipe;
 
-//Initial removals
+// Initial removals
 
 recipes.remove(<randomthings:spectreenergyinjector>);
 recipes.remove(<randomthings:slimecube>);
@@ -24,7 +25,7 @@ recipes.remove(<enderio:item_dark_steel_upgrade:1>.withTag({"enderio:dsu": "ende
 recipes.remove(<randomthings:enderletter>);
 recipes.remove(<draconicevolution:wyvern_energy_core>);
 
-//Main recipe modification
+// Main recipe modification
 
 recipes.addShaped(<randomthings:spectreenergyinjector>, [[<minecraft:obsidian>, <randomthings:spectreilluminator>, <ore:obsidian>], [<randomthings:ingredient:12>, <minecraft:beacon>, <randomthings:ingredient:12>], [<ore:obsidian>, <randomthings:ingredient:12>, <ore:obsidian>]]);
 recipes.addShaped(<randomthings:slimecube>, [[<ore:blockSlimeGreen>, <enderio:item_broken_spawner>, <minecraft:slime>], [<enderio:item_broken_spawner>, null, <enderio:item_broken_spawner>], [<ore:blockSlimeGreen>, <enderio:item_broken_spawner>, <ore:blockSlimeGreen>]]);
@@ -53,3 +54,7 @@ recipes.addShaped(<firstaid:bandage> * 2, [[<ore:string>, <ore:wool>, <ore:strin
 recipes.addShaped(<techguns:grimreaper>, [[null, <enderio:block_fused_quartz>, <ore:circuitElite>], [<techguns:itemshared:40>, <techguns:itemshared:40>, <techguns:itemshared:54>], [<techguns:itemshared:40>, <techguns:itemshared:40>, <techguns:itemshared:36>]]);
 recipes.addShaped(<randomthings:enderletter>, [[null, null, null], [<minecraft:paper>, <extrautils2:endershard>, <minecraft:paper>], [null, <minecraft:paper>, null]]);
 recipes.addShaped(<draconicevolution:wyvern_energy_core>, [[<draconicevolution:draconium_ingot>, <minecraft:redstone_block>, <draconicevolution:draconium_ingot>], [<draconicevolution:draconic_core>, <minecraft:nether_star>, <draconicevolution:draconic_core>], [<draconicevolution:draconium_ingot>, <minecraft:redstone_block>, <draconicevolution:draconium_ingot>]]);
+
+// Shapeless
+
+recipes.addShapeless("Quicksilver", <thaumcraft:quicksilver>, [<gregtech:meta_item_1:8103>]);

@@ -69,3 +69,6 @@ remove(<item:thaumicaugmentation:thaumostatic_harness>);
 
 // PneumaticCraft
 remove(<item:pneumaticcraft:jet_boots_upgrade>);
+
+// Advanced Rocketry
+remove(<advancedrocketry:jetpack>);
