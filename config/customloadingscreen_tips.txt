@@ -43,10 +43,12 @@ You can easily customize keybinds using the Controlling mod controls menu.
 Vehicles are excellent ways of moving around.
 The FTB wiki is a great place for information.
 Be wary of radiation.
-The Texas Instruments LMC555CN is a bad IC.
 Sleeping will heal you to full health.
 Completing quests will grant large amounts of experience.
-Complete commissions in villages to earn rewards.
+Complete bounties in villages to earn rewards.
 Unstable Rifts can damage terrain.
 Starting off is very difficult at first, be aware.
 Basic armor will greatly increase survivability.
+Avoid combat without armor.
+Bounty boards require nearby villagers in order to operate.
+Always try to bring a better weapon than your opponent.

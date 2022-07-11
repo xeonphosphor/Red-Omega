@@ -14,8 +14,10 @@ mods.jei.JEI.removeAndHide(<item:aether_legacy:regeneration_stone>);
 //Remove EnderIO Telepad
 mods.jei.JEI.removeAndHide(<item:enderio:block_tele_pad>);
 
-//Remove Dimensional Doors Gold Dimensional Door
+//Remove Dimensional Doors items
 mods.jei.JEI.removeAndHide(<item:dimdoors:gold_dimensional_door>);
+mods.jei.JEI.removeAndHide(<item:dimdoors:oak_dimensional_door>);
+mods.jei.JEI.removeAndHide(<item:dimdoors:rift_signature>);
 mods.jei.JEI.removeAndHide(<item:dimdoors:stabilized_rift_signature>);
 
 //Remove Defiled Lands Items
