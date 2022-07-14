@@ -152,6 +152,7 @@ Performant (by someaddon)
 Phosphor (Forge) (by jellysquid_)
 Placebo (by Shadows_of_Fire)
 PneumaticCraft: Repressurized (by desht_08)
+Portable Crafting Table (by 00theblackwolf00)
 Potion Core (by Tmtravlr)
 Project Intelligence (by brandon3055)
 Project Red - Base (by MrTJP)
@@ -228,7 +229,9 @@ Giraty10 (Ty) - Developer/Artist
 Naigaru - For basically making the No Offhand Wand for us
 ColossusNine - Modpack name
 
-Thanks to our contributors
+Thanks to our development contributors:
+Texas Instruments LMC555CN
+IAmTime
 
 And a special thanks to all players of Red Omega
 
