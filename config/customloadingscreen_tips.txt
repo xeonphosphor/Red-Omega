@@ -52,3 +52,5 @@ Basic armor will greatly increase survivability.
 Avoid combat without armor.
 Bounty boards require nearby villagers in order to operate.
 Always try to bring a better weapon than your opponent.
+Mobs in most cases will not spawn if they are more than 128 blocks from a player.
+Quest progression is shared between team members.
