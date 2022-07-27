@@ -45,6 +45,14 @@ key_key.configurator_mode.desc:47:NONE
 key_key.configurator_filter.desc:48:SHIFT
 key_key.configurator_path.desc:33:SHIFT
 key_keybind.baublesinventory:0:NONE
+key_quark.keybind.toggleAutojump:0:NONE
+key_quark.keybind.dropoff:0:NONE
+key_quark.keybind.changeHotbar:44:SHIFT
+key_quark.keybind.chestSort:0:NONE
+key_quark.keybind.chestDropoff:0:NONE
+key_quark.keybind.chestMerge:0:NONE
+key_quark.keybind.chestRestock:0:NONE
+key_quark.keybind.chestExtract:0:NONE
 key_quark.emote.no:0:NONE
 key_quark.emote.yes:0:NONE
 key_quark.emote.wave:0:NONE
@@ -64,14 +72,6 @@ key_quark.emote.jet:0:NONE
 key_quark.emote.exorcist:0:NONE
 key_quark.emote.zombie:0:NONE
 key_quark.keybind.lockBuilding:37:NONE
-key_quark.keybind.toggleAutojump:0:NONE
-key_quark.keybind.dropoff:0:NONE
-key_quark.keybind.changeHotbar:44:SHIFT
-key_quark.keybind.chestSort:0:NONE
-key_quark.keybind.chestDropoff:0:NONE
-key_quark.keybind.chestMerge:0:NONE
-key_quark.keybind.chestRestock:0:NONE
-key_quark.keybind.chestExtract:0:NONE
 key_key.personalBackpack:0:NONE
 key_bloodmagic.keybind.open_holding:24:NONE
 key_bloodmagic.keybind.cycle_holding_pos:13:SHIFT
@@ -99,6 +99,8 @@ key_key.ftbquests.quests:0:NONE
 key_key.fart.desc:0:NONE
 key_key.vehicle.horn:0:NONE
 key_key.vehicle.cycle_seats:0:NONE
+key_key.moreoverlays.lightoverlay.desc:65:NONE
+key_key.moreoverlays.chunkbounds.desc:67:NONE
 key_openblocks.keybind.vario_switch:47:NONE
 key_openblocks.keybind.vario_vol_up:0:NONE
 key_openblocks.keybind.vario_vol_down:0:NONE
@@ -211,7 +213,7 @@ key_waila.keybind.usage:75:NONE
 key_key.dragon_fireAttack:46:NONE
 key_key.dragon_strike:34:NONE
 key_key.dragon_down:45:NONE
-key_key.dragon_change_view:65:NONE
+key_key.dragon_change_view:64:NONE
 key_invtweaks.key.sort:0:NONE
 key_jecalculation.key.gui_craft:0:NONE
 key_jecalculation.key.gui_math:0:NONE

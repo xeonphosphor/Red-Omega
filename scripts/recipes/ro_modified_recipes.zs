@@ -24,6 +24,7 @@ recipes.remove(<techguns:grimreaper>);
 recipes.remove(<enderio:item_dark_steel_upgrade:1>.withTag({"enderio:dsu": "enderio:glide"}));
 recipes.remove(<randomthings:enderletter>);
 recipes.remove(<draconicevolution:wyvern_energy_core>);
+recipes.remove(<aether_legacy:iron_ring>);
 
 // Main recipe modification
 
@@ -54,6 +55,7 @@ recipes.addShaped(<firstaid:bandage> * 2, [[<ore:string>, <ore:wool>, <ore:strin
 recipes.addShaped(<techguns:grimreaper>, [[null, <enderio:block_fused_quartz>, <ore:circuitElite>], [<techguns:itemshared:40>, <techguns:itemshared:40>, <ore:plateTitanium>], [<techguns:itemshared:40>, <techguns:itemshared:40>, <techguns:itemshared:36>]]);
 recipes.addShaped(<randomthings:enderletter>, [[null, null, null], [<minecraft:paper>, <extrautils2:endershard>, <minecraft:paper>], [null, <minecraft:paper>, null]]);
 recipes.addShaped(<draconicevolution:wyvern_energy_core>, [[<draconicevolution:draconium_ingot>, <minecraft:redstone_block>, <draconicevolution:draconium_ingot>], [<draconicevolution:draconic_core>, <minecraft:nether_star>, <draconicevolution:draconic_core>], [<draconicevolution:draconium_ingot>, <minecraft:redstone_block>, <draconicevolution:draconium_ingot>]]);
+recipes.addShaped(<aether_legacy:iron_ring>, [[<minecraft:iron_nugget>, <minecraft:iron_ingot>, <minecraft:iron_nugget>], [<minecraft:iron_ingot>, null, <minecraft:iron_ingot>], [<minecraft:iron_nugget>, <minecraft:iron_ingot>, <minecraft:iron_nugget>]]);
 
 // Shapeless
 
