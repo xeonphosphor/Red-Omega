@@ -45,7 +45,6 @@ key_key.configurator_mode.desc:47:NONE
 key_key.configurator_filter.desc:48:SHIFT
 key_key.configurator_path.desc:33:SHIFT
 key_keybind.baublesinventory:0:NONE
-key_quark.keybind.lockBuilding:37:NONE
 key_quark.keybind.dropoff:0:NONE
 key_quark.keybind.changeHotbar:44:SHIFT
 key_quark.keybind.chestSort:0:NONE
@@ -53,6 +52,7 @@ key_quark.keybind.chestDropoff:0:NONE
 key_quark.keybind.chestMerge:0:NONE
 key_quark.keybind.chestRestock:0:NONE
 key_quark.keybind.chestExtract:0:NONE
+key_quark.keybind.toggleAutojump:0:NONE
 key_quark.emote.no:0:NONE
 key_quark.emote.yes:0:NONE
 key_quark.emote.wave:0:NONE
@@ -71,7 +71,7 @@ key_quark.emote.dab:0:NONE
 key_quark.emote.jet:0:NONE
 key_quark.emote.exorcist:0:NONE
 key_quark.emote.zombie:0:NONE
-key_quark.keybind.toggleAutojump:0:NONE
+key_quark.keybind.lockBuilding:37:NONE
 key_key.personalBackpack:0:NONE
 key_bloodmagic.keybind.open_holding:24:NONE
 key_bloodmagic.keybind.cycle_holding_pos:13:SHIFT
@@ -201,15 +201,15 @@ key_key.craftingtweaks.decompressStack:0:NONE
 key_key.craftingtweaks.decompressAll:0:NONE
 key_key.craftingtweaks.refill_last:15:NONE
 key_key.craftingtweaks.refill_last_stack:15:NONE
-key_key.elenaidodge2.dodge:56:NONE
-key_key.clipboardPaste:210:NONE
-key_FpsReducer.key.guiOpen:0:NONE
-key_FpsReducer.key.forceIdle:197:NONE
 key_waila.keybind.wailaconfig:82:NONE
 key_waila.keybind.wailadisplay:79:NONE
 key_waila.keybind.liquid:80:NONE
 key_waila.keybind.recipe:81:NONE
 key_waila.keybind.usage:75:NONE
+key_key.elenaidodge2.dodge:56:NONE
+key_key.clipboardPaste:210:NONE
+key_FpsReducer.key.guiOpen:0:NONE
+key_FpsReducer.key.forceIdle:197:NONE
 key_key.dragon_fireAttack:46:NONE
 key_key.dragon_strike:34:NONE
 key_key.dragon_down:45:NONE
@@ -220,6 +220,10 @@ key_jecalculation.key.gui_math:0:NONE
 key_pi.key.open_pi:201:NONE
 key_pi.key.et_gui:0:NONE
 key_pi.key.et_world:23:CONTROL
+key_key.porterNextDestination:27:SHIFT
+key_key.porterPrevDestination:26:SHIFT
+key_key.debugDumpNBTItem:0:NONE
+key_key.debugDumpNBTBlock:0:NONE
 key_key.securitycraft.cameraZoomIn:13:NONE
 key_key.securitycraft.cameraZoomOut:12:NONE
 key_key.securitycraft.cameraEmitRedstone:0:NONE

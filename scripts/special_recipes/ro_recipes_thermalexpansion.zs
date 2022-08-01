@@ -7,4 +7,4 @@ import crafttweaker.oredict.IOreDictEntry;
 import mods.thermalexpansion.Pulverizer;
 
 // Main
-mods.thermalexpansion.Pulverizer.addRecipe(<thermalfoundation:material:16> * 3, <scalinghealth:heartcontainer>, 1500, <minecraft:redstone>, 100);
+mods.thermalexpansion.Pulverizer.addRecipe(<minecraft:diamond> * 2, <scalinghealth:heartcontainer>, 1500, <minecraft:redstone>, 100);

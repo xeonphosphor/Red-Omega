@@ -129,8 +129,8 @@
     {
         "mojang":
         {
-            "text" : "Version: v1.0.0rc7_1",
-            "posX" : -104,
+            "text" : "Version: v1.0.0rc8",
+            "posX" : -92,
             "posY" : -10,
             "color" : -1,
             "alignment" : "bottom_right"

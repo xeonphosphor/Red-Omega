@@ -25,6 +25,7 @@ recipes.remove(<enderio:item_dark_steel_upgrade:1>.withTag({"enderio:dsu": "ende
 recipes.remove(<randomthings:enderletter>);
 recipes.remove(<draconicevolution:wyvern_energy_core>);
 recipes.remove(<aether_legacy:iron_ring>);
+recipes.remove(<aether_legacy:golden_ring>);
 
 // Main recipe modification
 
@@ -32,7 +33,6 @@ recipes.addShaped(<randomthings:spectreenergyinjector>, [[<minecraft:obsidian>, 
 recipes.addShaped(<randomthings:slimecube>, [[<ore:blockSlimeGreen>, <enderio:item_broken_spawner>, <minecraft:slime>], [<enderio:item_broken_spawner>, null, <enderio:item_broken_spawner>], [<ore:blockSlimeGreen>, <enderio:item_broken_spawner>, <ore:blockSlimeGreen>]]);
 recipes.addShaped(<extrautils2:teleporter:1>, [[<extrautils2:compressedcobblestone:1>, <extrautils2:compressedcobblestone:1>, <extrautils2:compressedcobblestone:1>], [<extrautils2:compressedcobblestone:1>, null, <extrautils2:compressedcobblestone:1>], [<extrautils2:compressedcobblestone:1>, <extrautils2:compressedcobblestone:1>, <extrautils2:compressedcobblestone:1>]]);
 recipes.addShaped(<harvestcraft:freshwateritem> * 8, [[<minecraft:water_bucket>]]);
-recipes.addShaped(<botania:overgrowthseed>, [[<minecraft:wheat_seeds>, <ore:dustNickel>, <minecraft:wheat_seeds>], [<ore:dustCopper>, <ore:powderMana>, <ore:dustIron>], [<minecraft:wheat_seeds>, <ore:dustCobalt>, <minecraft:wheat_seeds>]]);
 recipes.addShaped(<techguns:itemshared:60>, [[null, <ore:wool>, null], [<ore:wool>, <ore:leather>, <ore:wool>], [null, <ore:wool>, null]]);
 recipes.addShaped(<techguns:alienblaster>, [[<techguns:itemshared:41>, <techguns:itemshared:74>, <minecraft:lapis_block>], [<techguns:itemshared:68>, <techguns:itemshared:36>, <ore:plateTitanium>], [null, null, <techguns:itemshared:29>]]);
 recipes.addShaped(<techguns:t4_praetor_boots>, [[null, <techguns:itemshared:131>, null], [<techguns:itemshared:76>, <techguns:t3_exo_boots>, <techguns:itemshared:76>], [null, <abyssalcraft:oc>, null]]);
@@ -56,6 +56,7 @@ recipes.addShaped(<techguns:grimreaper>, [[null, <enderio:block_fused_quartz>, <
 recipes.addShaped(<randomthings:enderletter>, [[null, null, null], [<minecraft:paper>, <extrautils2:endershard>, <minecraft:paper>], [null, <minecraft:paper>, null]]);
 recipes.addShaped(<draconicevolution:wyvern_energy_core>, [[<draconicevolution:draconium_ingot>, <minecraft:redstone_block>, <draconicevolution:draconium_ingot>], [<draconicevolution:draconic_core>, <minecraft:nether_star>, <draconicevolution:draconic_core>], [<draconicevolution:draconium_ingot>, <minecraft:redstone_block>, <draconicevolution:draconium_ingot>]]);
 recipes.addShaped(<aether_legacy:iron_ring>, [[<minecraft:iron_nugget>, <minecraft:iron_ingot>, <minecraft:iron_nugget>], [<minecraft:iron_ingot>, null, <minecraft:iron_ingot>], [<minecraft:iron_nugget>, <minecraft:iron_ingot>, <minecraft:iron_nugget>]]);
+recipes.addShaped(<aether_legacy:golden_ring>, [[<minecraft:gold_nugget>, <minecraft:gold_ingot>, <minecraft:gold_nugget>], [<minecraft:gold_ingot>, null, <minecraft:gold_ingot>], [<minecraft:gold_nugget>, <minecraft:gold_ingot>, <minecraft:gold_nugget>]]);
 
 // Shapeless
 
