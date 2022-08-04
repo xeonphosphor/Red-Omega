@@ -32,8 +32,7 @@ Higher difficulties yield much higher experience level drops.
 Higher difficulties greatly increase the power of enemies.
 Defiled Lands can spread when uncontained.
 Eating a variety of food is more efficient towards nourishment.
-Dimensional Doors and Spectre Keys can give you special rooms.
-Dimensional dungeons can potentially lead you to a different dimension.
+Spectre Keys can give you special, personal rooms.
 SecurityCraft blocks are very tough.
 All bosses are blights.
 Be very careful when travelling to the Nether for the first time.

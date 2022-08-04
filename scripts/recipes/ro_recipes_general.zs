@@ -52,3 +52,15 @@ mods.jei.JEI.removeAndHide(<item:actuallyadditions:item_potion_ring_advanced:7>,
 mods.jei.JEI.removeAndHide(<item:actuallyadditions:item_potion_ring_advanced:8>, false);
 mods.jei.JEI.removeAndHide(<item:actuallyadditions:item_potion_ring_advanced:9>, false);
 mods.jei.JEI.removeAndHide(<item:actuallyadditions:item_disenchanting_lens>);
+
+//Hide CoFH Core Enchantments
+mods.jei.JEI.removeAndHide(<minecraft:enchanted_book>.withTag({StoredEnchantments: [{lvl: 1 as short, id: 88}]}));
+mods.jei.JEI.removeAndHide(<minecraft:enchanted_book>.withTag({StoredEnchantments: [{lvl: 2 as short, id: 88}]}));
+mods.jei.JEI.removeAndHide(<minecraft:enchanted_book>.withTag({StoredEnchantments: [{lvl: 3 as short, id: 88}]}));
+mods.jei.JEI.removeAndHide(<minecraft:enchanted_book>.withTag({StoredEnchantments: [{lvl: 1 as short, id: 89}]}));
+mods.jei.JEI.removeAndHide(<minecraft:enchanted_book>.withTag({StoredEnchantments: [{lvl: 2 as short, id: 89}]}));
+mods.jei.JEI.removeAndHide(<minecraft:enchanted_book>.withTag({StoredEnchantments: [{lvl: 3 as short, id: 89}]}));
+mods.jei.JEI.removeAndHide(<minecraft:enchanted_book>.withTag({StoredEnchantments: [{lvl: 1 as short, id: 85}]}));
+mods.jei.JEI.removeAndHide(<minecraft:enchanted_book>.withTag({StoredEnchantments: [{lvl: 2 as short, id: 85}]}));
+mods.jei.JEI.removeAndHide(<minecraft:enchanted_book>.withTag({StoredEnchantments: [{lvl: 3 as short, id: 85}]}));
+mods.jei.JEI.removeAndHide(<minecraft:enchanted_book>.withTag({StoredEnchantments: [{lvl: 4 as short, id: 85}]}));
