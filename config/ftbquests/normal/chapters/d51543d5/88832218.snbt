@@ -15,10 +15,10 @@
 		uid: "f51cec34",
 		type: "item",
 		item: {
+			id: "abyssalcraft:dreadkatana",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "abyssalcraft:dreadkatana"
+			}
 		}
 	},
 	{

@@ -15,10 +15,10 @@
 		uid: "2584c2b5",
 		type: "item",
 		item: {
+			id: "abyssalcraft:corbow",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "abyssalcraft:corbow"
+			}
 		}
 	},
 	{

@@ -1,11 +1,11 @@
 {
-  "editorLastVersion": "0.4.5a",
+  "editorLastVersion": "0.4.7a",
   "editorRecentProjects": [],
   "titleScreenButton": true,
   "serverSettings": {},
   "keybinds": {},
-  "editorSelectMouseButton": 0,
-  "editorMenuMouseButton": 1,
-  "editorRotateMouseButton": 2,
-  "editorDragMouseButton": -1
+  "editorSelectMouseButton": 0.0,
+  "editorMenuMouseButton": 1.0,
+  "editorRotateMouseButton": 2.0,
+  "editorDragMouseButton": -1.0
 }

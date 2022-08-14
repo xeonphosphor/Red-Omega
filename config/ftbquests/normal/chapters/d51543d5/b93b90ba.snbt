@@ -16,10 +16,10 @@
 		uid: "da541236",
 		type: "item",
 		item: {
+			id: "red_omega_custom_swords:master_sword",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "red_omega_custom_swords:master_sword"
+			}
 		}
 	},
 	{
