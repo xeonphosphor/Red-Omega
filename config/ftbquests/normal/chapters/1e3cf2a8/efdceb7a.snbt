@@ -1,0 +1,19 @@
+{
+	x: -22.5d,
+	y: 1.5d,
+	tasks: [{
+		uid: "0a08e2f5",
+		type: "dimension",
+		dim: 687
+	}],
+	rewards: [{
+		uid: "5f560cbe",
+		type: "xp",
+		xp: 500
+	},
+	{
+		uid: "55e5caa2",
+		type: "item",
+		item: "minecraft:ender_pearl"
+	}]
+}

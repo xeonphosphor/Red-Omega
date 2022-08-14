@@ -40,6 +40,9 @@ mods.jei.JEI.removeAndHide(<item:randomthings:spectrecoil_number>);
 //Remove Dark Utilities Portal Charm
 mods.jei.JEI.removeAndHide(<item:darkutils:charm_portal>);
 
+//Remove Dimensional Doors Gold Dimensional Door
+mods.jei.JEI.removeAndHide(<item:dimdoors:gold_dimensional_door>);
+
 //Remove Actually Additions items
 mods.jei.JEI.removeAndHide(<item:actuallyadditions:item_potion_ring_advanced:0>, false);
 mods.jei.JEI.removeAndHide(<item:actuallyadditions:item_potion_ring_advanced:1>, false);

@@ -6,10 +6,10 @@
 		type: "kill",
 		title: "Slay Barako",
 		icon: {
+			id: "mowziesmobs:barako_mask",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "mowziesmobs:barako_mask"
+			}
 		},
 		tags: [
 			"mowziemobs"

@@ -6,14 +6,14 @@
 		type: "kill",
 		title: "Slay the Gaia Guardian",
 		icon: {
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "botania:lexicon",
 			tag: {
 				knowledge.minecraft: 1b,
 				knowledge.alfheim: 1b,
 				knowledge.relic: 1b
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		},
 		tags: [

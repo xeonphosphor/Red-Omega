@@ -3,18 +3,18 @@
 	loot_size: 1,
 	rewards: [{
 		item: {
+			id: "aether_legacy:valkyrie_lance",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "aether_legacy:valkyrie_lance"
+			}
 		}
 	},
 	{
 		item: {
+			id: "aether_legacy:lightning_sword",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "aether_legacy:lightning_sword"
+			}
 		}
 	},
 	{
