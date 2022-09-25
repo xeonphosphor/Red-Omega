@@ -67,3 +67,6 @@ mods.jei.JEI.removeAndHide(<minecraft:enchanted_book>.withTag({StoredEnchantment
 mods.jei.JEI.removeAndHide(<minecraft:enchanted_book>.withTag({StoredEnchantments: [{lvl: 2 as short, id: 85}]}));
 mods.jei.JEI.removeAndHide(<minecraft:enchanted_book>.withTag({StoredEnchantments: [{lvl: 3 as short, id: 85}]}));
 mods.jei.JEI.removeAndHide(<minecraft:enchanted_book>.withTag({StoredEnchantments: [{lvl: 4 as short, id: 85}]}));
+
+// Remove OMT Damage Boost
+mods.jei.JEI.removeAndHide(<item:openmodularturrets:addon_meta:1>);

@@ -64,7 +64,7 @@ GunStats.setWeaponStat("flamethrower","DAMAGE",4);
 GunStats.setWeaponStat("flamethrower","DAMAGE_MIN",1);
 
 //Rocket Launcher
-GunStats.setWeaponStat("rocketlauncher","DAMAGE",40);
+GunStats.setWeaponStat("rocketlauncher","DAMAGE",30);
 GunStats.setWeaponStat("rocketlauncher","DAMAGE_MIN",10);
 
 //Grim Reaper
@@ -169,7 +169,7 @@ GunStats.setWeaponStat("miningdrill","DAMAGE_MIN",10);
 
 //TFG 10k - It should be stressed that the damage type of this weapon is ENERGY, which bypasses most armor
 GunStats.setWeaponStat("tfg","DAMAGE",40);
-GunStats.setWeaponStat("tfg","DAMAGE_MIN",10);
+GunStats.setWeaponStat("tfg","DAMAGE_MIN",20);
 
 //Laser Pistol
 GunStats.setWeaponStat("laserpistol","DAMAGE",7);

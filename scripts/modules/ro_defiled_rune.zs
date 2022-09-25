@@ -39,6 +39,7 @@ remove(<item:projectred-expansion:jetpack>);
 
 // ExtraUtils2
 remove(<item:extrautils2:chickenring>);
+remove(<item:extrautils2:chickenring:1>);
 
 // Botania
 remove(<botania:flighttiara>, true);
@@ -72,3 +73,6 @@ remove(<item:pneumaticcraft:jet_boots_upgrade>);
 
 // Advanced Rocketry
 remove(<advancedrocketry:jetpack>);
+
+// Actually Additions
+remove(<item:actuallyadditions:item_wings_of_the_bats>);
