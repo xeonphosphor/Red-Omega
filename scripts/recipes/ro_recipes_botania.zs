@@ -9,6 +9,7 @@ import crafttweaker.oredict.IOreDictEntry;
 
 //Botania Tainted Blood Pendant
 mods.jei.JEI.removeAndHide(<botania:bloodpendant>, true);
+mods.jei.JEI.removeAndHide(<botania:balancecloak>);
 
 //----Additions----
 
