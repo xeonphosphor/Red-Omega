@@ -8,6 +8,7 @@ Advanced Fishing (by nightkosh)
 Advanced Rocketry (by zmaster587)
 AE2Stuff (by bdew)
 AE2 Unofficial Extended Life (by PrototypeTrousers)
+AE2 Wireless Interface Terminal (by TheRealp455w0rd)
 AE2 Wireless Terminal-LTS (by X_Niter)
 AI Improvements (by QueenOfMissiles)
 AI Reducer (by Charles445)
@@ -43,6 +44,7 @@ Brandon’s Core (by brandon3055)
 BuildCraft (by Covert_Jaguar)
 Building Gadgets (by Direwolf20)
 Calm Down Zombie Guy (by bloodnbonesgaming)
+Camera Mod (by henkelmax)
 CensoredASM (by Rongmario)
 Compact Machines (by davenonymous)
 Controllable (by MrCrayfish)
@@ -92,6 +94,7 @@ Extra Utilities (by rwtema)
 FastFurnace (by Shadows_of_Fire)
 FastWorkbench (by Shadows_of_Fire)
 FirstAid (by ichttt)
+Fishing Made Better (by TheAwesomeGem)
 FoamFix (by asiekierka)
 Forestry (by _ForgeUser7678633)
 ForgeEndertech (by EnderLanky)
@@ -161,7 +164,6 @@ MTLib (by Jaredlll08)
 Mutant Beasts (by Chumbanotz)
 Natura (by mDiyo)
 NetherEx (by LogicTechCorp)
-No Offhand Wand (by Naigaru)
 Nothirium (by meldexun)
 NuclearCraft: Overhauled (by tomdodd4598)
 NuclearCraft Reactor Builder (by sonar_sonic)
@@ -261,7 +263,6 @@ TheImpalerXIII (Julius) - Project Manager/Developer/Programmer/Artist
 StarryXeon (Joshua) - Systems Administrator/Developer/Programmer/Artist/GFX Design
 Giraty10 (Ty) - Developer/Artist
 
-Naigaru - For basically making the No Offhand Wand for us
 ColossusNine - Modpack name
 
 Thanks to our development contributors:
@@ -269,8 +270,3 @@ Texas Instruments LMC555CN
 IAmTime
 
 And a special thanks to all players of Red Omega
-
-
-
-
-

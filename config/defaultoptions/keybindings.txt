@@ -38,7 +38,6 @@ key_Boost Key:29:NONE
 key_Mode Switch Key:50:NONE
 key_Side Inventory Key:0:NONE
 key_Hub Expand Key:45:ALT
-key_key.craftpresence.config_keycode.name:41:NONE
 key_key.staff_mode.desc:50:SHIFT
 key_key.use_cage.desc:48:ALT
 key_key.configurator_mode.desc:47:NONE
@@ -46,7 +45,6 @@ key_key.configurator_filter.desc:48:SHIFT
 key_key.configurator_path.desc:33:SHIFT
 key_keybind.baublesinventory:0:NONE
 key_quark.keybind.lockBuilding:37:NONE
-key_quark.keybind.toggleAutojump:0:NONE
 key_quark.keybind.dropoff:0:NONE
 key_quark.keybind.changeHotbar:44:SHIFT
 key_quark.keybind.chestSort:0:NONE
@@ -54,6 +52,8 @@ key_quark.keybind.chestDropoff:0:NONE
 key_quark.keybind.chestMerge:0:NONE
 key_quark.keybind.chestRestock:0:NONE
 key_quark.keybind.chestExtract:0:NONE
+key_quark.keybind.toggleAutojump:0:NONE
+key_key.toggle_shaders:0:NONE
 key_key.personalBackpack:0:NONE
 key_bloodmagic.keybind.open_holding:24:NONE
 key_bloodmagic.keybind.cycle_holding_pos:13:SHIFT
@@ -99,6 +99,16 @@ key_key.togglePotionParticles:66:CONTROL
 key_Difficulty Meter - Show:45:SHIFT
 key_Difficulty Meter - Show Always:0:NONE
 key_key.spartanweaponry.access_quiver:23:NONE
+key_key.open_wit.desc:0:NONE
+key_key.amulet:45:NONE
+key_key.cloak:46:NONE
+key_key.ring:47:NONE
+key_key.meditate:36:NONE
+key_key.status:25:NONE
+key_key.race_ability:79:NONE
+key_key.race_ability2:80:NONE
+key_key.race_ability3:81:NONE
+key_key.cast_with_amulet:-99:NONE
 key_key.pickup.item:0:NONE
 key_key.dismount:42:NONE
 key_key.narrator:48:CONTROL
@@ -143,6 +153,8 @@ key_key.fuzzy:0:NONE
 key_key.connected_area:199:SHIFT
 key_key.rotate_mirror:50:ALT
 key_key.material_list:38:ALT
+key_key.next_image:208:NONE
+key_key.previous_image:200:NONE
 key_mod.chiselsandbits.chiselmode.single:0:NONE
 key_mod.chiselsandbits.chiselmode.snap2:0:NONE
 key_mod.chiselsandbits.chiselmode.snap4:0:NONE
@@ -203,6 +215,8 @@ key_waila.keybind.recipe:81:NONE
 key_waila.keybind.usage:75:NONE
 key_key.elenaidodge2.dodge:56:NONE
 key_key.clipboardPaste:210:NONE
+key_key.reelIn:203:NONE
+key_key.reelOut:205:NONE
 key_FpsReducer.key.guiOpen:0:NONE
 key_FpsReducer.key.forceIdle:197:NONE
 key_key.dragon_fireAttack:46:NONE
@@ -224,6 +238,10 @@ key_techguns.key.toggleSafemode:0:NONE
 key_techguns.key.toggleStepassist:0:NONE
 key_techguns.key.forceReload:19:NONE
 key_techguns.key.toggleJetpack:36:NONE
+key_key.toolbelt.open:41:NONE
+key_key.toolbelt.cycle.left:0:NONE
+key_key.toolbelt.cycle.right:0:NONE
+key_key.toolbelt.slot:0:NONE
 key_WorldEdit Reference:38:NONE
 key_gui.xaero_switch_waypoint_set:0:NONE
 key_gui.xaero_instant_waypoint:78:NONE
@@ -277,3 +295,4 @@ key_enderio.keybind.fovplus:0:NONE
 key_enderio.keybind.fovminus:0:NONE
 key_enderio.keybind.fovplusfast:0:NONE
 key_enderio.keybind.fovminusfast:0:NONE
+key_key.craftpresence.config_keycode.name:0:NONE

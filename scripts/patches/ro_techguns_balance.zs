@@ -168,8 +168,8 @@ GunStats.setWeaponStat("miningdrill","DAMAGE",10);
 GunStats.setWeaponStat("miningdrill","DAMAGE_MIN",10);
 
 //TFG 10k - It should be stressed that the damage type of this weapon is ENERGY, which bypasses most armor
-GunStats.setWeaponStat("tfg","DAMAGE",40);
-GunStats.setWeaponStat("tfg","DAMAGE_MIN",20);
+GunStats.setWeaponStat("tfg","DAMAGE",50);
+GunStats.setWeaponStat("tfg","DAMAGE_MIN",10);
 
 //Laser Pistol
 GunStats.setWeaponStat("laserpistol","DAMAGE",7);
