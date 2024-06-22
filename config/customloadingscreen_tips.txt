@@ -1,6 +1,6 @@
-Watch the waters for enemies when travelling through the seas.
+Watch the waters for foes when travelling through the seas.
 Don't approach rocks in the ocean.
-If you see dead fish floating in the water, there is a Sea Serpent nearby.
+If you see dead fish floating in the water, be cautious.
 Be careful of dragons when exploring.
 Sleeping in beds heal you completely.
 If you hear wings flapping, it is likely a dragon.
@@ -8,16 +8,16 @@ Bullets are very damaging.
 Make sure you are prepared for any battles.
 You can increase your difficulty by using Cursed Hearts.
 Cursed Hearts are dropped by bosses.
-Enchanted Hearts decrease your Scaling Health difficulty by 10.
+Enchanted Hearts decrease your difficulty by 10.
 Enchanted Hearts can be crafted.
-If you change a setting and the game appears to freeze, please wait.
+If you change a setting and the game freezes, please wait.
 Your head and chest health are critical to your life.
 Be wary of Infernal Mobs.
 Remember that offhand items can be quite powerful.
-If you lack proper protective equipment, avoid nuclear wastelands.
+If you lack proper equipment, avoid nuclear wastelands.
 Deserts can be dangerous.
 There are many dungeons and castles to explore in the world.
-You can claim chunks for multiplayer, and you can chunkload some claimed chunks.
+Chunks are claimable, useful for chunkloading or multiplayer.
 Watch yourself when in unlit areas.
 Some crops only grow well in certain seasons.
 Some enemies are very fast.
@@ -25,20 +25,20 @@ You can dash by pressing your binded dash key (Default: ALT).
 Be wary of warp when travelling to certain dimensions.
 Certain items can greatly influence your combat flow.
 Make sure you light up your base properly.
-Solar and wind energy are the best starting means of RF production.
+Solar and wind are great starting means of RF production.
 Walling off your territory can be very helpful.
-Hotspring Water is one of the most useful items due to its regeneration.
+Hotspring Water is very useful items due to its regeneration.
 Higher difficulties yield much higher experience level drops.
 Higher difficulties greatly increase the power of enemies.
 Defiled Lands can spread when uncontained.
-Eating a variety of food is more efficient towards nourishment.
-Spectre Keys and Quartz Dimensional Doors can give you special, personal rooms.
+Eating a variety is more efficient towards nourishment.
+Spectre Keys and Quartz Dimensional Doors give true privacy.
 SecurityCraft blocks are very tough.
 All bosses are blights.
-Be very careful when travelling to the Nether for the first time.
-Expect to be met with heavy resistance when arriving in the Nether.
-Damaged limbs will give you debuffs, make sure to stay healed.
-You can easily customize keybinds using the Controlling mod controls menu.
+Be careful when travelling to the Nether for the first time.
+Expect to be met with resistance when arriving in the Nether.
+Damaged limbs will give you debuffs, make sure to heal.
+You can customize keybinds using the Controlling mod menu.
 Vehicles are excellent ways of moving around.
 The FTB wiki is a great place for information.
 Be wary of radiation.
@@ -51,7 +51,7 @@ Basic armor will greatly increase survivability.
 Avoid combat without armor.
 Bounty boards require nearby villagers in order to operate.
 Always try to bring a better weapon than your opponent.
-Mobs in most cases will not spawn if they are more than 128 blocks from a player.
+Most mobs don't spawn when more than 128 blocks from a player.
 Quest progression is shared between team members.
-Dimensional Dungeons are full of danger, but they have lots of rewards.
-Dimensional Dungeons can be entered through dimensional gateways in the world.
+Dimensional Dungeons are dangerous, but they are rewarding.
+Dimensional Dungeons can be entered through gateways.

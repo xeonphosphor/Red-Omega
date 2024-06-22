@@ -7,7 +7,7 @@ import crafttweaker.oredict.IOreDictEntry;
 
 //----Remove conflicting recipes----
 
-recipes.remove(<abyssalcraft:coin:0>);
+//recipes.remove(<abyssalcraft:coin:0>);
 recipes.remove(<abyssalcraft:ironp> * 2);
 recipes.remove(<enderio:item_material:9>);
 recipes.remove(<quark:iron_plate>);
@@ -23,11 +23,11 @@ recipes.remove(<immersiveengineering:material:1> * 4);
 //----Add replacement recipes----
 
 //AbyssalCraft Coin Recipe
-recipes.addShaped(<abyssalcraft:coin:0>, [
-	[<ore:nuggetIron>, <minecraft:iron_ingot>, <ore:nuggetIron>],
-	[<minecraft:iron_ingot>, <minecraft:flint>, <minecraft:iron_ingot>],
-	[<ore:nuggetIron>, <minecraft:iron_ingot>, <ore:nuggetIron>]
-]);
+//recipes.addShaped(<abyssalcraft:coin:0>, [
+//	[<ore:nuggetIron>, <minecraft:iron_ingot>, <ore:nuggetIron>],
+//	[<minecraft:iron_ingot>, <minecraft:flint>, <minecraft:iron_ingot>],
+//	[<ore:nuggetIron>, <minecraft:iron_ingot>, <ore:nuggetIron>]
+//]);
 
 //AbyssalCraft Iron Plate
 recipes.addShaped(<abyssalcraft:ironp> * 3, [
