@@ -27,7 +27,7 @@ Certain items can greatly influence your combat flow.
 Make sure you light up your base properly.
 Solar and wind are great starting means of RF production.
 Walling off your territory can be very helpful.
-Hotspring Water is very useful items due to its regeneration.
+Hotspring Water is a very useful item due to its regeneration.
 Higher difficulties yield much higher experience level drops.
 Higher difficulties greatly increase the power of enemies.
 Defiled Lands can spread when uncontained.
@@ -35,7 +35,7 @@ Eating a variety is more efficient towards nourishment.
 Spectre Keys and Quartz Dimensional Doors give true privacy.
 SecurityCraft blocks are very tough.
 All bosses are blights.
-Be careful when travelling to the Nether for the first time.
+Be careful when traveling to the Nether for the first time.
 Expect to be met with resistance when arriving in the Nether.
 Damaged limbs will give you debuffs, make sure to heal.
 You can customize keybinds using the Controlling mod menu.
