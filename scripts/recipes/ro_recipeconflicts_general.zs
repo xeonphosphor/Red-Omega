@@ -19,6 +19,7 @@ recipes.remove(<ic2:te:111>);
 recipes.remove(<cfm:wreath>);
 recipes.remove(<randomthings:soundbox>);
 recipes.remove(<immersiveengineering:material:1> * 4);
+recipes.remove(<libvulpes:coil0:2>);
 
 //----Add replacement recipes----
 
@@ -104,4 +105,11 @@ recipes.addShaped(<immersiveengineering:material:1> * 4, [
 	[null, <minecraft:iron_ingot>, null],
 	[null, <minecraft:iron_ingot>, null],
 	[null, <minecraft:iron_ingot>, null]
+]);
+
+//Vulpes Library Golden Coil
+recipes.addShaped(<libvulpes:coil0:2>, [
+	[<minecraft:gold_ingot>, <minecraft:gold_ingot>, <minecraft:gold_ingot>],
+	[<minecraft:gold_ingot>, <minecraft:gold_nugget>, <minecraft:gold_ingot>],
+	[<minecraft:gold_ingot>, <minecraft:gold_ingot>, <minecraft:gold_ingot>]
 ]);
