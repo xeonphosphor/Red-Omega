@@ -104,7 +104,18 @@
 		92,
 		93,
 		94,
-		95
+		95,
+		1000,
+		1001,
+		1002,
+		1003,
+		1004,
+		1005,
+		1006,
+		1007,
+		1008,
+		1009,
+		1010
 	],
     "mob": [
       "techguns:zombiesoldier",
@@ -116,13 +127,32 @@
 	  "techguns:zombiepoliceman",
 	  "techguns:outcast",
 	  "techguns:dictatordave",
-	  "techguns:armysoldier",
-	  "techguns:stormtrooper",
-	  "techguns:supermutantbasic",
-	  "techguns:supermutantelite",
-	  "techguns:supermutantheavy"
+	  "techguns:armysoldier"
     ],
 	"onjoin": true,
+    "result": "deny"
+  },
+  {
+	  "dimension": [
+		1000,
+		1001,
+		1002,
+		1003,
+		1005,
+		1006,
+		1007,
+		1008,
+		1009,
+		1010
+	],
+	"mob": [
+      "techguns:stormtrooper",
+	  "techguns:supermutantbasic",
+	  "techguns:supermutantelite",
+	  "techguns:supermutantheavy",
+	  "techguns:alienbug"
+    ],
+    "mincount": 10,
     "result": "deny"
   }
 ]
