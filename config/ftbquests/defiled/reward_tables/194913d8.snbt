@@ -1,0 +1,20 @@
+{
+	title: "Swords",
+	loot_size: 1,
+	rewards: [{
+		item: {
+			id: "red_omega_custom_swords:crucible",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}
+	},
+	{
+		item: {
+			id: "red_omega_custom_swords:energy_sword",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}
+	}]
+}

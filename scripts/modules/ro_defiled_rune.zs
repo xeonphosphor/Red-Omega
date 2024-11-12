@@ -1,3 +1,5 @@
+#packmode defiled
+
 // This script is dedicated towards creating a harder experience by removing several movement items
 // This script is intended to be able to be removed by player choice
 
@@ -6,6 +8,7 @@ import crafttweaker.item.IItemStack;
 import crafttweaker.oredict.IOreDict;
 import crafttweaker.oredict.IOreDictEntry;
 import mods.jei.JEI.removeAndHide as remove;
+import mods.thaumcraft.Infusion as TInfusion;
 
 // FLIGHT
 
@@ -66,7 +69,20 @@ remove(<item:aether_legacy:cold_parachute>);
 remove(<item:aether_legacy:valkyrie_cape>);
 
 // Thaumic Augmentation
-remove(<item:thaumicaugmentation:thaumostatic_harness>);
+TInfusion.removeRecipe("thaumicaugmentation:thaumostatic_harness");
+mods.jei.JEI.removeAndHide(<thaumicaugmentation:thaumostatic_harness>);
+
+// Thaumic Additions
+remove(<item:thaumadditions:mithminite_hood>);
+TInfusion.removeRecipe("thaumadditions:mithminite_hood");
+remove(<item:thaumadditions:mithminite_robe>);
+TInfusion.removeRecipe("thaumadditions:mithminite_robe");
+remove(<item:thaumadditions:mithminite_belt>);
+TInfusion.removeRecipe("thaumadditions:mithminite_belt");
+remove(<item:thaumadditions:mithminite_boots>);
+TInfusion.removeRecipe("thaumadditions:mithminite_boots");
+remove(<item:thaumadditions:mithminite_fabric>);
+remove(<item:thaumadditions:levitation_device>);
 
 // PneumaticCraft
 remove(<item:pneumaticcraft:jet_boots_upgrade>);
@@ -76,3 +92,14 @@ remove(<advancedrocketry:jetpack>);
 
 // Actually Additions
 remove(<item:actuallyadditions:item_wings_of_the_bats>);
+
+// Gregtech CE
+remove(<gregtech:gt_armor:2>);
+remove(<gregtech:gt_armor:3>);
+remove(<gregtech:gt_armor:4>);
+remove(<gregtech:gt_armor:30>);
+remove(<gregtech:gt_armor:40>);
+remove(<gregtech:gt_armor:41>);
+remove(<gregtech:gt_armor:42>);
+remove(<gregtech:gt_armor:43>);
+remove(<gregtech:gt_armor:50>);

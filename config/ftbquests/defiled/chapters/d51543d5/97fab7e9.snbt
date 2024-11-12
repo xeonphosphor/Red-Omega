@@ -1,0 +1,24 @@
+{
+	x: -8.0d,
+	y: 18.0d,
+	tasks: [{
+		uid: "d0d100c1",
+		type: "kill",
+		title: "Slay the Knight Phantom",
+		tags: [
+			"twilightforest"
+		],
+		entity: "twilightforest:knight_phantom",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "43adc279",
+		type: "random",
+		table: 0
+	},
+	{
+		uid: "f45ca5f1",
+		type: "xp",
+		xp: 1200
+	}]
+}

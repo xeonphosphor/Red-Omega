@@ -1,0 +1,23 @@
+{
+	title: "Visit Dimension: The Aether",
+	x: -24.0d,
+	y: -8.5d,
+	tasks: [{
+		uid: "3728129a",
+		type: "dimension",
+		tags: [
+			"aether"
+		],
+		dim: 4
+	}],
+	rewards: [{
+		uid: "04602f6f",
+		type: "item",
+		item: "aether_legacy:present"
+	},
+	{
+		uid: "97255853",
+		type: "xp",
+		xp: 500
+	}]
+}

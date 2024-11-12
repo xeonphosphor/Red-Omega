@@ -1,0 +1,30 @@
+{
+	x: -18.5d,
+	y: 32.0d,
+	tasks: [{
+		uid: "ed1d69b7",
+		type: "kill",
+		title: "Slay Barako",
+		icon: {
+			id: "mowziesmobs:barako_mask",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		},
+		tags: [
+			"mowziemobs"
+		],
+		entity: "mowziesmobs:barako",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "91e65362",
+		type: "random",
+		table: 0
+	},
+	{
+		uid: "dad81229",
+		type: "xp",
+		xp: 1200
+	}]
+}

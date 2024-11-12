@@ -1,22 +1,80 @@
 [
   {
+    "content": "minecraft:iron_ingot",
+    "unitWorth": 200,
+    "weight": 100
+  },
+  {
     "content": "minecraft:gold_ingot",
-    "unitWorth": 300,
+    "unitWorth": 400,
+    "weight": 100
+  },
+  {
+    "content": "minecraft:gunpowder",
+    "unitWorth": 400,
     "weight": 100
   },
   {
     "content": "minecraft:emerald",
-    "unitWorth": 600,
+    "unitWorth": 800,
     "weight": 95
   },
   {
-    "content": "minecraft:diamond",
-    "unitWorth": 1400,
-    "weight": 50
+    "content": "minecraft:blaze_rod",
+    "unitWorth": 1200,
+    "weight": 75
   },
   {
     "content": "minecraft:ender_pearl",
     "unitWorth": 1600,
-    "weight": 30
+    "weight": 50
+  },
+  {
+    "content": "minecraft:diamond",
+    "unitWorth": 1600,
+    "weight": 50
+  },
+  {
+    "content": "thermalfoundation:material:134",
+    "unitWorth": 3200,
+    "weight": 20
+  },
+  {
+    "content": "thermalfoundation:material:135",
+    "unitWorth": 3200,
+    "weight": 20
+  },
+  {
+    "content": "minecraft:enchanted_book",
+    "unitWorth": 6400,
+    "weight": 15,
+    "nbt_data": "{StoredEnchantments:[{id:66,lvl:1s}]}"
+  },
+  {
+    "content": "minecraft:enchanted_book",
+    "unitWorth": 6400,
+    "weight": 15,
+    "nbt_data": "{StoredEnchantments:[{id:65,lvl:1s}]}"
+  },
+  {
+    "content": "minecraft:enchanted_book",
+    "unitWorth": 6400,
+    "weight": 15,
+    "nbt_data": "{StoredEnchantments:[{id:63,lvl:1s}]}"
+  },
+  {
+    "content": "minecraft:nether_star",
+    "unitWorth": 25600,
+    "weight": 10
+  },
+  {
+    "content": "abyssalcraft:oc",
+    "unitWorth": 25600,
+    "weight": 10
+  },
+  {
+    "content": "grimoireofgaia:misc_elytra",
+    "unitWorth": 32000,
+    "weight": 10
   }
 ]

@@ -1,0 +1,575 @@
+
+[ 
+    { 
+        "mode": "REMOVE", 
+        "result": "draconicevolution:draconic_helm", 
+        "catalyst": "draconicevolution:wyvern_helm"
+    },
+
+    { 
+        "mode": "REMOVE", 
+        "result": "draconicevolution:draconic_chest", 
+        "catalyst": "draconicevolution:wyvern_chest"
+    },
+
+    { 
+        "mode": "REMOVE", 
+        "result": "draconicevolution:draconic_legs", 
+        "catalyst": "draconicevolution:wyvern_legs"
+    },
+
+    { 
+        "mode": "REMOVE", 
+        "result": "draconicevolution:draconic_boots", 
+        "catalyst": "draconicevolution:wyvern_boots"
+    },
+
+    { 
+        "mode": "REMOVE", 
+        "result": "draconicevolution:draconic_sword", 
+        "catalyst": "draconicevolution:wyvern_sword"
+    },
+
+    { 
+        "mode": "REMOVE", 
+        "result": "draconicevolution:draconic_hoe", 
+        "catalyst": "minecraft:diamond_hoe"
+    },
+
+    { 
+        "mode": "REMOVE", 
+        "result": "draconicevolution:draconic_bow", 
+        "catalyst": "draconicevolution:wyvern_bow"
+    },
+
+    { 
+        "mode": "REMOVE", 
+        "result": "draconicevolution:draconic_staff_of_power", 
+        "catalyst": "draconicevolution:draconic_pick"
+    },
+
+    { 
+        "mode": "REMOVE", 
+        "result": "draconicadditions:chaotic_helm", 
+        "catalyst": "draconicevolution:draconic_helm"
+    },
+
+    { 
+        "mode": "REMOVE", 
+        "result": "draconicadditions:chaotic_chest", 
+        "catalyst": "draconicevolution:draconic_chest"
+    },
+
+    { 
+        "mode": "REMOVE", 
+        "result": "draconicadditions:chaotic_legs", 
+        "catalyst": "draconicevolution:draconic_legs"
+    },
+
+    { 
+        "mode": "REMOVE", 
+        "result": "draconicadditions:chaotic_boots", 
+        "catalyst": "draconicevolution:draconic_boots"
+    },
+
+    { 
+        "mode": "REMOVE", 
+        "result": "draconicadditions:chaotic_staff_of_power", 
+        "catalyst": "draconicevolution:draconic_staff_of_power"
+    },
+
+    { 
+        "mode": "REMOVE", 
+        "result": "draconicadditions:chaotic_bow", 
+        "catalyst": "draconicevolution:draconic_bow"
+    },
+
+    { 
+        "mode": "ADD", 
+        "result": "draconicevolution:draconic_helm, 1, 0, {Unbreakable: 1b}",
+        "catalyst": "draconicevolution:wyvern_helm", 
+        "energy": 50000000, 
+        "tier": 2, 
+        "ingredients": [ 
+            "avaritia:endest_pearl",
+            "avaritia:ultimate_stew",
+            "1x[extrautils2:opinium]:8",
+            "1x[avaritia:resource]:5",
+            "minecraft:dragon_egg",
+            "draconicevolution:draconic_block",
+            "draconicevolution:draconic_block",
+            "draconicevolution:draconic_energy_core",
+            "draconicevolution:draconic_energy_core",
+            "draconicevolution:awakened_core",
+            "draconicevolution:awakened_core",
+            "draconicevolution:chaotic_core"
+        ] 
+    },
+
+    { 
+        "mode": "ADD", 
+        "result": "draconicevolution:draconic_chest, 1, 0, {Unbreakable: 1b}",
+        "catalyst": "draconicevolution:wyvern_chest", 
+        "energy": 50000000, 
+        "tier": 2, 
+        "ingredients": [ 
+            "avaritia:endest_pearl",
+            "avaritia:ultimate_stew",
+            "1x[extrautils2:opinium]:8",
+            "1x[avaritia:resource]:5",
+            "minecraft:dragon_egg",
+            "draconicevolution:draconic_block",
+            "draconicevolution:draconic_block",
+            "draconicevolution:draconic_energy_core",
+            "draconicevolution:draconic_energy_core",
+            "draconicevolution:awakened_core",
+            "draconicevolution:awakened_core",
+            "draconicevolution:chaotic_core"
+        ] 
+    },
+
+    { 
+        "mode": "ADD", 
+        "result": "draconicevolution:draconic_legs, 1, 0, {Unbreakable: 1b}",
+        "catalyst": "draconicevolution:wyvern_legs", 
+        "energy": 50000000, 
+        "tier": 2, 
+        "ingredients": [ 
+            "avaritia:endest_pearl",
+            "avaritia:ultimate_stew",
+            "1x[extrautils2:opinium]:8",
+            "1x[avaritia:resource]:5",
+            "minecraft:dragon_egg",
+            "draconicevolution:draconic_block",
+            "draconicevolution:draconic_block",
+            "draconicevolution:draconic_energy_core",
+            "draconicevolution:draconic_energy_core",
+            "draconicevolution:awakened_core",
+            "draconicevolution:awakened_core",
+            "draconicevolution:chaotic_core"
+        ] 
+    },
+
+    { 
+        "mode": "ADD", 
+        "result": "draconicevolution:draconic_boots, 1, 0, {Unbreakable: 1b}",
+        "catalyst": "draconicevolution:wyvern_boots", 
+        "energy": 50000000, 
+        "tier": 2, 
+        "ingredients": [ 
+            "avaritia:endest_pearl",
+            "avaritia:ultimate_stew",
+            "1x[extrautils2:opinium]:8",
+            "1x[avaritia:resource]:5",
+            "minecraft:dragon_egg",
+            "draconicevolution:draconic_block",
+            "draconicevolution:draconic_block",
+            "draconicevolution:draconic_energy_core",
+            "draconicevolution:draconic_energy_core",
+            "draconicevolution:awakened_core",
+            "draconicevolution:awakened_core",
+            "draconicevolution:chaotic_core"
+        ] 
+    },
+
+    { 
+        "mode": "ADD", 
+        "result": "draconicevolution:draconic_sword", 
+        "catalyst": "draconicevolution:wyvern_sword",
+        "energy": 50000000, 
+        "tier": 2, 
+        "ingredients": [ 
+            "avaritia:endest_pearl",
+            "1x[avaritia:resource]:4",
+            "1x[extrautils2:opinium]:8",
+            "1x[avaritia:resource]:5",
+            "minecraft:dragon_egg",
+            "draconicevolution:draconic_block",
+            "draconicevolution:draconic_block",
+            "draconicevolution:draconic_energy_core",
+            "draconicevolution:draconic_energy_core",
+            "draconicevolution:awakened_core",
+            "draconicevolution:awakened_core",
+            "draconicevolution:chaotic_core"
+        ] 
+    },
+
+    { 
+        "mode": "ADD", 
+        "result": "draconicevolution:draconic_hoe", 
+        "catalyst": "iceandfire:dragonbone_hoe",
+        "energy": 512000, 
+        "tier": 2, 
+        "ingredients": [ 
+            "draconicevolution:draconic_energy_core",
+            "draconicevolution:awakened_core",
+            "draconicevolution:draconic_block",
+            "draconicevolution:draconic_block"
+        ] 
+    },
+    
+    { 
+        "mode": "ADD", 
+        "result": "draconicevolution:wyvern_bow", 
+        "catalyst": "extrautils2:compoundbow",
+        "energy": 25000000, 
+        "tier": 1, 
+        "ingredients": [ 
+            "avaritia:endest_pearl",
+            "avaritia:endest_pearl",
+            "1x[extrautils2:opinium]:8",
+            "1x[avaritia:resource]:5",
+            "minecraft:dragon_egg",
+            "iceandfire:dragonscales_amethyst",
+            "iceandfire:dragonscales_amethyst",
+            "draconicevolution:draconium_block",
+            "draconicevolution:draconium_block",
+            "draconicevolution:wyvern_energy_core", 
+            "draconicevolution:wyvern_core",
+            "draconicevolution:chaotic_core"
+        ] 
+    },
+
+    { 
+        "mode": "ADD", 
+        "result": "draconicevolution:draconic_bow", 
+        "catalyst": "draconicevolution:wyvern_bow",
+        "energy": 250000000, 
+        "tier": 2, 
+        "ingredients": [ 
+            "avaritia:endest_pearl",
+            "avaritia:endest_pearl",
+            "1x[avaritia:resource]:5",
+            "1x[avaritia:resource]:5",
+            "1x[minecraft:skull]:5",
+            "draconicevolution:draconic_block",
+            "draconicevolution:draconic_block",
+            "draconicevolution:draconic_energy_core",
+            "draconicevolution:draconic_energy_core",
+            "draconicevolution:chaotic_core", 
+            "draconicevolution:chaotic_core",
+            "draconicevolution:chaotic_core"
+        ]
+    },
+
+    { 
+        "mode": "ADD", 
+        "result": "draconicevolution:draconic_staff_of_power", 
+        "catalyst": "draconicevolution:draconic_pick",
+        "energy": 100000000, 
+        "tier": 2, 
+        "ingredients": [ 
+            "1x[avaritia:resource]:5",
+            "1x[avaritia:resource]:5",
+            "1x[minecraft:skull]:5",
+            "draconicevolution:draconic_sword",
+            "draconicevolution:draconic_shovel",
+            "draconicevolution:draconic_hoe",
+            "draconicevolution:draconic_block",
+            "draconicevolution:draconic_block",
+            "draconicevolution:draconic_energy_core",
+            "draconicevolution:draconic_energy_core",
+            "draconicevolution:awakened_core",
+            "draconicevolution:chaotic_core"
+        ]
+    },
+
+    { 
+        "mode": "ADD", 
+        "result": "draconicadditions:chaotic_helm, 1, 0, {Unbreakable: 1b}",
+        "catalyst": "draconicevolution:draconic_helm", 
+        "energy": 200000000, 
+        "tier": 3, 
+        "ingredients": [ 
+            "1x[avaritia:resource]:6",
+            "1x[avaritia:resource]:6",
+            "draconicadditions:chaos_crystal_stable",
+            "draconicadditions:chaos_crystal_stable",
+            "draconicadditions:chaotic_energy_core",
+            "draconicadditions:chaotic_energy_core",
+            "draconicadditions:chaos_stabilizer_core",
+            "draconicadditions:chaos_stabilizer_core",
+            "draconicevolution:chaotic_core",
+            "draconicevolution:chaotic_core",
+            "draconicevolution:chaotic_core",
+            "draconicevolution:chaotic_core"
+        ]
+    },
+
+    { 
+        "mode": "ADD", 
+        "result": "draconicadditions:chaotic_chest, 1, 0, {Unbreakable: 1b}",
+        "catalyst": "draconicevolution:draconic_chest", 
+        "energy": 200000000, 
+        "tier": 3, 
+        "ingredients": [ 
+            "1x[avaritia:resource]:6",
+            "1x[avaritia:resource]:6",
+            "draconicadditions:chaos_crystal_stable",
+            "draconicadditions:chaos_crystal_stable",
+            "draconicadditions:chaotic_energy_core",
+            "draconicadditions:chaotic_energy_core",
+            "draconicadditions:chaos_stabilizer_core",
+            "draconicadditions:chaos_stabilizer_core",
+            "draconicevolution:chaotic_core",
+            "draconicevolution:chaotic_core",
+            "draconicevolution:chaotic_core",
+            "draconicevolution:chaotic_core"
+        ]
+    },
+
+    { 
+        "mode": "ADD", 
+        "result": "draconicadditions:chaotic_legs, 1, 0, {Unbreakable: 1b}",
+        "catalyst": "draconicevolution:draconic_legs", 
+        "energy": 200000000, 
+        "tier": 3, 
+        "ingredients": [ 
+            "1x[avaritia:resource]:6",
+            "1x[avaritia:resource]:6",
+            "draconicadditions:chaos_crystal_stable",
+            "draconicadditions:chaos_crystal_stable",
+            "draconicadditions:chaotic_energy_core",
+            "draconicadditions:chaotic_energy_core",
+            "draconicadditions:chaos_stabilizer_core",
+            "draconicadditions:chaos_stabilizer_core",
+            "draconicevolution:chaotic_core",
+            "draconicevolution:chaotic_core",
+            "draconicevolution:chaotic_core",
+            "draconicevolution:chaotic_core"
+        ]
+    },
+
+    { 
+        "mode": "ADD", 
+        "result": "draconicadditions:chaotic_boots, 1, 0, {Unbreakable: 1b}",
+        "catalyst": "draconicevolution:draconic_boots", 
+        "energy": 200000000, 
+        "tier": 3, 
+        "ingredients": [ 
+            "1x[avaritia:resource]:6",
+            "1x[avaritia:resource]:6",
+            "draconicadditions:chaos_crystal_stable",
+            "draconicadditions:chaos_crystal_stable",
+            "draconicadditions:chaotic_energy_core",
+            "draconicadditions:chaotic_energy_core",
+            "draconicadditions:chaos_stabilizer_core",
+            "draconicadditions:chaos_stabilizer_core",
+            "draconicevolution:chaotic_core",
+            "draconicevolution:chaotic_core",
+            "draconicevolution:chaotic_core",
+            "draconicevolution:chaotic_core"
+        ]
+    },
+
+
+    { 
+        "mode": "ADD", 
+        "result": "draconicadditions:chaotic_bow", 
+        "catalyst": "draconicevolution:draconic_bow",
+        "energy": 1000000000, 
+        "tier": 3, 
+        "ingredients": [ 
+            "1x[avaritia:resource]:6",
+            "1x[avaritia:resource]:6",
+            "draconicadditions:chaos_crystal_stable",
+            "draconicadditions:chaos_crystal_stable",
+            "draconicadditions:chaotic_energy_core",
+            "draconicadditions:chaotic_energy_core",
+            "draconicadditions:chaos_stabilizer_core",
+            "draconicadditions:chaos_stabilizer_core",
+            "draconicevolution:chaotic_core",
+            "draconicevolution:chaotic_core",
+            "draconicevolution:chaotic_core",
+            "draconicevolution:chaotic_core"
+        ]
+    },
+
+    { 
+        "mode": "ADD", 
+        "result": "draconicadditions:chaotic_staff_of_power", 
+        "catalyst": "draconicevolution:draconic_staff_of_power",
+        "energy": 1000000000, 
+        "tier": 3, 
+        "ingredients": [ 
+            "1x[avaritia:resource]:6",
+            "1x[avaritia:resource]:6",
+            "draconicadditions:chaos_crystal_stable",
+            "draconicadditions:chaos_crystal_stable",
+            "draconicadditions:chaotic_energy_core",
+            "draconicadditions:chaotic_energy_core",
+            "draconicadditions:chaos_stabilizer_core",
+            "draconicadditions:chaos_stabilizer_core",
+            "draconicevolution:chaotic_core",
+            "draconicevolution:chaotic_core",
+            "draconicevolution:chaotic_core",
+            "draconicevolution:chaotic_core"
+        ]
+    },
+
+    { 
+        "mode": "ADD", 
+        "result": "abyssalcraft:transmutationgem",
+        "catalyst": "abyssalcraft:cpearl",
+        "energy": 300000, 
+        "tier": 0, 
+        "ingredients": [ 
+            "minecraft:diamond",
+            "minecraft:blaze_powder",
+            "minecraft:ender_pearl",
+            "minecraft:blaze_powder",
+            "minecraft:diamond",
+            "minecraft:blaze_powder",
+            "minecraft:ender_pearl",
+            "minecraft:blaze_powder"
+        ] 
+    },
+
+    { 
+        "mode": "ADD", 
+        "result": "abyssalcraft:oc",
+        "catalyst": "minecraft:nether_star",
+        "energy": 5000000, 
+        "tier": 1, 
+        "ingredients": [ 
+            "minecraft:redstone",
+            "abyssalcraft:oblivionshard",
+            "minecraft:ender_eye",
+            "minecraft:redstone",
+            "abyssalcraft:oblivionshard",
+            "minecraft:ender_eye",
+            "minecraft:redstone",
+            "abyssalcraft:oblivionshard",
+            "minecraft:ender_eye",
+            "minecraft:redstone",
+            "abyssalcraft:oblivionshard",
+            "minecraft:ender_eye"
+        ] 
+    },
+
+    { 
+        "mode": "ADD", 
+        "result": "minecraft:spawn_egg, 1, 0, {EntityTag:{id:\"abyssalcraft:shadowboss\"}}",
+        "catalyst": "minecraft:dragon_egg",
+        "energy": 10000000, 
+        "tier": 1, 
+        "ingredients": [ 
+            "abyssalcraft:oc",
+            "minecraft:obsidian",
+            "forge:bucketfilled, 1, 0, {FluidName: liquidcoralium, Amount: 1000}",
+            "minecraft:obsidian",
+            "forge:bucketfilled, 1, 0, {FluidName: liquidantimatter, Amount: 1000}",
+            "minecraft:obsidian",
+            "abyssalcraft:odbcore",
+            "minecraft:obsidian"
+        ] 
+    },
+
+
+    { 
+        "mode": "ADD", 
+        "result": "minecraft:spawn_egg, 1, 0, {EntityTag:{id:\"abyssalcraft:dragonboss\"}}",
+        "catalyst": "minecraft:dragon_egg",
+        "energy": 10000000, 
+        "tier": 1, 
+        "ingredients": [ 
+            "minecraft:nether_star",
+            "minecraft:gold_ingot",
+            "abyssalcraft:transmutationgem",
+            "minecraft:gold_ingot",
+            "forge:bucketfilled, 1, 0, {FluidName: liquidcoralium, Amount: 1000}",
+            "minecraft:gold_ingot",
+            "minecraft:enchanting_table",
+            "minecraft:gold_ingot"
+        ] 
+    },
+
+    { 
+        "mode": "ADD", 
+        "result": "abyssalcraft:gatewaykeydl",
+        "catalyst": "abyssalcraft:gatewaykey",
+        "energy": 10000000, 
+        "tier": 2, 
+        "ingredients": [ 
+            "abyssalcraft:transmutationgem",
+            "abyssalcraft:psdl",
+            "abyssalcraft:eoa",
+            "abyssalcraft:powerstonetracker",
+            "abyssalcraft:powerstonetracker",
+            "abyssalcraft:powerstonetracker",
+            "abyssalcraft:powerstonetracker"
+        ] 
+    },
+
+    { 
+        "mode": "ADD", 
+        "result": "abyssalcraft:dreadaltartop",
+        "catalyst": "minecraft:bucket",
+        "energy": 20000000, 
+        "tier": 2, 
+        "ingredients": [ 
+            "minecraft:nether_star",
+            "ore:stickWood",
+            "abyssalcraft:dreadcloth",
+            "abyssalcraft:dreadiumingot",
+            "abyssalcraft:dreadcloth",
+            "abyssalcraft:dreadiumingot",
+            "abyssalcraft:dreadcloth",
+            "ore:stickWood"
+        ] 
+    },
+
+    { 
+        "mode": "ADD", 
+        "result": "abyssalcraft:dreadaltarbottom",
+        "catalyst": "abyssalcraft:gatewaykeydl",
+        "energy": 20000000, 
+        "tier": 2, 
+        "ingredients": [ 
+            "abyssalcraft:dreadcloth",
+            "minecraft:bone",
+            "abyssalcraft:dreadiumingot",
+            "1x[abyssalcraft:stone]:2",
+            "minecraft:nether_star",
+            "1x[abyssalcraft:stone]:2",
+            "abyssalcraft:dreadiumingot",
+            "minecraft:bone"
+        ] 
+    },
+
+    { 
+        "mode": "ADD", 
+        "result": "minecraft:spawn_egg, 1, 0, {EntityTag:{id:\"abyssalcraft:jzahar\"}}",
+        "catalyst": "minecraft:dragon_egg",
+        "energy": 20000000, 
+        "tier": 2, 
+        "ingredients": [ 
+            "abyssalcraft:jzaharcoin",
+            "abyssalcraft:oc",
+            "abyssalcraft:jzaharcoin",
+            "abyssalcraft:oc",
+            "abyssalcraft:jzaharcoin",
+            "abyssalcraft:oc",
+            "abyssalcraft:jzaharcoin",
+            "abyssalcraft:oc"
+        ] 
+    },
+
+    { 
+        "mode": "ADD", 
+        "result": "abyssalcraft:psdl",
+        "catalyst": "abyssalcraft:coraliumstone",
+        "energy": 5000000, 
+        "tier": 1, 
+        "ingredients": [ 
+            "1x[abyssalcraft:ingotblock]:2",
+            "abyssalcraft:ingotblock",
+            "1x[abyssalcraft:ingotblock]:2",
+            "abyssalcraft:ingotblock",
+            "1x[abyssalcraft:ingotblock]:2",
+            "abyssalcraft:ingotblock",
+            "1x[abyssalcraft:ingotblock]:2",
+            "abyssalcraft:ingotblock"
+        ] 
+    }
+]

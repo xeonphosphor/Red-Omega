@@ -1,0 +1,12 @@
+{
+	title: "Bosses",
+	icon: {
+		id: "minecraft:iron_sword",
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		}
+	},
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

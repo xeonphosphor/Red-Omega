@@ -1,0 +1,24 @@
+{
+	x: -18.5d,
+	y: 29.5d,
+	tasks: [{
+		uid: "19702dd3",
+		type: "kill",
+		title: "Slay The Destroyer",
+		tags: [
+			"defiledlands"
+		],
+		entity: "defiledlands:the_destroyer",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "ebe81745",
+		type: "random",
+		table: 0
+	},
+	{
+		uid: "cef465eb",
+		type: "xp",
+		xp: 1200
+	}]
+}

@@ -1,0 +1,24 @@
+{
+	x: -9.5d,
+	y: 18.0d,
+	tasks: [{
+		uid: "f96b7e1c",
+		type: "kill",
+		title: "Slay the Snow Queen",
+		tags: [
+			"twilightforest"
+		],
+		entity: "twilightforest:snow_queen",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "341e3fe5",
+		type: "random",
+		table: 0
+	},
+	{
+		uid: "d0626f51",
+		type: "xp",
+		xp: 1200
+	}]
+}

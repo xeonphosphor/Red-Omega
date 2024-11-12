@@ -1,0 +1,24 @@
+{
+	x: -12.5d,
+	y: 25.5d,
+	tasks: [{
+		uid: "d9b94857",
+		type: "kill",
+		title: "Slay the Necromancer",
+		tags: [
+			"cqr"
+		],
+		entity: "cqrepoured:necromancer",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "d7688f08",
+		type: "random",
+		table: 0
+	},
+	{
+		uid: "3b823397",
+		type: "xp",
+		xp: 1200
+	}]
+}

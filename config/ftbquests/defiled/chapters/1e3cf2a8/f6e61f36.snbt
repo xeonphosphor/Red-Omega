@@ -1,0 +1,20 @@
+{
+	x: -24.0d,
+	y: 1.5d,
+	tasks: [{
+		uid: "3a2385aa",
+		type: "dimension",
+		dim: 684
+	}],
+	rewards: [{
+		uid: "4497e376",
+		type: "xp",
+		xp: 500
+	},
+	{
+		uid: "a45fa0ef",
+		type: "item",
+		item: "dimdoors:world_thread",
+		random_bonus: 3
+	}]
+}

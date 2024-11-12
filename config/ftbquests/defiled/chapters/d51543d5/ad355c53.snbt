@@ -1,0 +1,24 @@
+{
+	x: -12.5d,
+	y: 18.0d,
+	tasks: [{
+		uid: "02da7958",
+		type: "kill",
+		title: "Slay the Ur-Ghast",
+		tags: [
+			"twilightforest"
+		],
+		entity: "twilightforest:ur_ghast",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "76fcdb00",
+		type: "random",
+		table: 0
+	},
+	{
+		uid: "6a02a5c8",
+		type: "xp",
+		xp: 1200
+	}]
+}

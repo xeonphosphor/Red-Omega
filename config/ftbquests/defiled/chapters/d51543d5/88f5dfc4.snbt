@@ -1,0 +1,24 @@
+{
+	x: -15.5d,
+	y: 23.0d,
+	tasks: [{
+		uid: "373c2554",
+		type: "kill",
+		title: "Slay the Locust",
+		tags: [
+			"erebus"
+		],
+		entity: "erebus:erebus.locust",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "ab3a8bb3",
+		type: "random",
+		table: 0
+	},
+	{
+		uid: "02165be3",
+		type: "xp",
+		xp: 1200
+	}]
+}
