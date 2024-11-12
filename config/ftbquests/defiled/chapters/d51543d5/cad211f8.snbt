@@ -1,0 +1,25 @@
+{
+	x: -18.5d,
+	y: 3.0d,
+	tasks: [{
+		uid: "1bd4c2c5",
+		type: "kill",
+		title: "Slay the Valkyrie Queen",
+		icon: "aether_legacy:enchanted_aether_grass",
+		tags: [
+			"aether"
+		],
+		entity: "aether_legacy:valkyrie_queen",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "c7301dd4",
+		type: "random",
+		table: 1
+	},
+	{
+		uid: "864cb382",
+		type: "xp",
+		xp: 1200
+	}]
+}

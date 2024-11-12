@@ -1,0 +1,24 @@
+{
+	x: -6.5d,
+	y: 25.5d,
+	tasks: [{
+		uid: "b6ac49f2",
+		type: "kill",
+		title: "Slay the Shelob",
+		tags: [
+			"cqr"
+		],
+		entity: "cqrepoured:giant_spider",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "91bef268",
+		type: "random",
+		table: 0
+	},
+	{
+		uid: "35913c7d",
+		type: "xp",
+		xp: 1200
+	}]
+}

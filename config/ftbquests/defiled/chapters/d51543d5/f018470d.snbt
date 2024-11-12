@@ -1,0 +1,24 @@
+{
+	x: -9.5d,
+	y: 25.5d,
+	tasks: [{
+		uid: "63e3a3e7",
+		type: "kill",
+		title: "Slay the Pirate Captain",
+		tags: [
+			"cqr"
+		],
+		entity: "cqrepoured:pirate_captain",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "8d3f9579",
+		type: "random",
+		table: 0
+	},
+	{
+		uid: "cbd691ed",
+		type: "xp",
+		xp: 1200
+	}]
+}

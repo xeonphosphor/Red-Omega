@@ -11,7 +11,3 @@ mods.jei.JEI.removeAndHide(<thaumcraft:verdant_charm>);
 // Remove Runic Shielding
 
 TInfusion.removeRecipe("thaumcraft:runicarmor");
-
-// Remove Thaumostatic Harness
-
-TInfusion.removeRecipe("thaumicaugmentation:thaumostatic_harness");

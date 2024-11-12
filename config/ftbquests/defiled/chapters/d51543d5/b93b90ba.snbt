@@ -1,0 +1,30 @@
+{
+	x: -18.5d,
+	y: 10.5d,
+	tasks: [{
+		uid: "15688fcf",
+		type: "kill",
+		title: "Slay the Ender Dragon",
+		icon: "minecraft:dragon_egg",
+		tags: [
+			"vanilla"
+		],
+		entity: "minecraft:ender_dragon",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "da541236",
+		type: "item",
+		item: {
+			id: "red_omega_custom_swords:master_sword",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}
+	},
+	{
+		uid: "d3e27f59",
+		type: "xp",
+		xp: 1200
+	}]
+}

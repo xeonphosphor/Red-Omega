@@ -1,0 +1,24 @@
+{
+	x: -17.0d,
+	y: 10.5d,
+	tasks: [{
+		uid: "7254f83c",
+		type: "kill",
+		title: "Slay the Elder Guardian",
+		tags: [
+			"vanilla"
+		],
+		entity: "minecraft:elder_guardian",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "e04f8117",
+		type: "item",
+		item: "minecraft:golden_apple 1 1"
+	},
+	{
+		uid: "784f8495",
+		type: "xp",
+		xp: 1200
+	}]
+}

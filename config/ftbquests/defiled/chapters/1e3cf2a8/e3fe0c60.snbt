@@ -1,0 +1,17 @@
+{
+	x: -24.0d,
+	y: -3.5d,
+	tasks: [{
+		uid: "98ed6712",
+		type: "dimension",
+		tags: [
+			"twilightforest"
+		],
+		dim: 7
+	}],
+	rewards: [{
+		uid: "971efd84",
+		type: "xp",
+		xp: 500
+	}]
+}

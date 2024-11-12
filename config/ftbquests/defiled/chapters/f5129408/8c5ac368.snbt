@@ -1,0 +1,16 @@
+{
+	x: -4.0d,
+	y: -3.5d,
+	tasks: [{
+		uid: "1d577fad",
+		type: "item",
+		items: [{
+			item: "scalinghealth:difficultychanger 1 1"
+		}]
+	}],
+	rewards: [{
+		uid: "e8e468ef",
+		type: "xp",
+		xp: 350
+	}]
+}

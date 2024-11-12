@@ -1,0 +1,22 @@
+{
+	x: -22.5d,
+	y: -13.5d,
+	tasks: [{
+		uid: "71a6c2ef",
+		type: "dimension",
+		tags: [
+			"abyssalcraft"
+		],
+		dim: 51
+	}],
+	rewards: [{
+		uid: "3a5c01c9",
+		type: "item",
+		item: "minecraft:golden_apple"
+	},
+	{
+		uid: "d8590a94",
+		type: "xp",
+		xp: 500
+	}]
+}

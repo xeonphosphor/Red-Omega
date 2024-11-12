@@ -1,0 +1,27 @@
+{
+	x: -22.5d,
+	y: -16.0d,
+	tasks: [{
+		uid: "7aee1789",
+		type: "dimension",
+		tags: [
+			"vanilla"
+		],
+		dim: -1
+	}],
+	rewards: [{
+		uid: "31b1c772",
+		type: "item",
+		item: {
+			id: "minecraft:potion",
+			tag: {
+				Potion: "minecraft:fire_resistance"
+			}
+		}
+	},
+	{
+		uid: "87ba1665",
+		type: "xp",
+		xp: 500
+	}]
+}

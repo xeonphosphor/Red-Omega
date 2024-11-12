@@ -1,0 +1,24 @@
+{
+	x: -5.0d,
+	y: 25.5d,
+	tasks: [{
+		uid: "5f369814",
+		type: "kill",
+		title: "Slay the Spectre",
+		tags: [
+			"cqr"
+		],
+		entity: "cqrepoured:spectre",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "41aab20f",
+		type: "random",
+		table: 0
+	},
+	{
+		uid: "e5a914cd",
+		type: "xp",
+		xp: 1200
+	}]
+}

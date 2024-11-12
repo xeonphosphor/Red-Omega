@@ -1,0 +1,24 @@
+{
+	x: -17.0d,
+	y: 29.5d,
+	tasks: [{
+		uid: "f0126035",
+		type: "kill",
+		title: "Slay The Mourner",
+		tags: [
+			"defiledlands"
+		],
+		entity: "defiledlands:the_mourner",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "7b13fa82",
+		type: "random",
+		table: 0
+	},
+	{
+		uid: "341044bf",
+		type: "xp",
+		xp: 1200
+	}]
+}

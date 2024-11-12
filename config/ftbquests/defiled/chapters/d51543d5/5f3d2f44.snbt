@@ -1,0 +1,24 @@
+{
+	x: -11.0d,
+	y: 25.5d,
+	tasks: [{
+		uid: "c3a0e87e",
+		type: "kill",
+		title: "Slay the Nether Dragon",
+		tags: [
+			"cqr"
+		],
+		entity: "cqrepoured:nether_dragon",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "824af19d",
+		type: "random",
+		table: 0
+	},
+	{
+		uid: "2395f1d5",
+		type: "xp",
+		xp: 1200
+	}]
+}

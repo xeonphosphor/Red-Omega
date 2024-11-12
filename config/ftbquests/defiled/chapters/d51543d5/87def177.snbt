@@ -1,0 +1,19 @@
+{
+	x: -17.0d,
+	y: 27.0d,
+	tasks: [{
+		uid: "5516b125",
+		type: "kill",
+		title: "Slay the Giant Endermite",
+		tags: [
+			"cqr"
+		],
+		entity: "cqrepoured:giant_endermite",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "8cb83e65",
+		type: "xp",
+		xp: 1200
+	}]
+}
