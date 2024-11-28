@@ -31,7 +31,6 @@
 			"erebus:erebus.tarantula_mini_boss",
 			"cqrepoured:walker_king",
 			"cqrepoured:minotaur",
-			"cqrepoured:gremlin",
 			"cqrepoured:lich",
 			"cqrepoured:necromancer",
 			"cqrepoured:nether_dragon",
@@ -50,7 +49,12 @@
 			"defiledlands:the_mourner",
 			"mowziesmobs:barako",
 			"extrabotany:gaiaiii",
-			"extrabotany:voidherrscher"
+			"extrabotany:voidherrscher",
+			"thaumicaugmentation:eldritch_golem",
+			"thaumicaugmentation:eldritch_warden",
+			"thaumcraft:eldritchgolem",
+			"thaumcraft:eldritchwarden",
+			"thaumcraft:taintaclegiant"
 		],
 		"player": true,
 		"item": [

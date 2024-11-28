@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<enderio:recipes xmlns:enderio="http://enderio.com/recipes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://enderio.com/recipes recipes.xsd ">
+
+  <recipe name="Spawner" required="true">
+    <spawning>
+      <entity name="*boss*"                        soulvial="false"/> <!-- all modded bosses -->
+	  <entity name="cqrepoured:spectre"            soulvial="false"/>
+	  <entity name="iceandfire:firedragon"         soulvial="false"/>
+	  <entity name="iceandfire:icedragon"          soulvial="false"/>
+	  <entity name="iceandfire:lightningdragon"    soulvial="false"/>
+    </spawning>
+  </recipe>
+
+</enderio:recipes>
