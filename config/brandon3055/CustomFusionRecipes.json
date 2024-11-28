@@ -85,6 +85,12 @@
     },
 
     { 
+        "mode": "REMOVE", 
+        "result": "draconicadditions:chaos_crystal_stable", 
+        "catalyst": "draconicevolution:chaos_shard"
+    },
+
+    { 
         "mode": "ADD", 
         "result": "draconicevolution:draconic_helm, 1, 0, {Unbreakable: 1b}",
         "catalyst": "draconicevolution:wyvern_helm", 
@@ -211,7 +217,7 @@
     { 
         "mode": "ADD", 
         "result": "draconicevolution:wyvern_bow", 
-        "catalyst": "extrautils2:compoundbow",
+        "catalyst": "iceandfire:dragonbone_bow",
         "energy": 25000000, 
         "tier": 1, 
         "ingredients": [ 
@@ -220,11 +226,11 @@
             "1x[extrautils2:opinium]:8",
             "1x[avaritia:resource]:5",
             "minecraft:dragon_egg",
-            "iceandfire:dragonscales_amethyst",
-            "iceandfire:dragonscales_amethyst",
             "draconicevolution:draconium_block",
             "draconicevolution:draconium_block",
             "draconicevolution:wyvern_energy_core", 
+            "draconicevolution:wyvern_energy_core", 
+            "draconicevolution:wyvern_core",
             "draconicevolution:wyvern_core",
             "draconicevolution:chaotic_core"
         ] 
@@ -405,6 +411,20 @@
             "draconicevolution:chaotic_core",
             "draconicevolution:chaotic_core"
         ]
+    },
+
+    { 
+        "mode": "ADD", 
+        "result": "draconicadditions:chaos_crystal_stable", 
+        "catalyst": "draconicevolution:chaos_shard",
+        "energy": 2000000000, 
+        "tier": 3, 
+        "ingredients": [ 
+            "draconicevolution:chaotic_core",
+            "draconicevolution:chaotic_core",
+            "draconicevolution:chaotic_core",
+            "draconicevolution:chaotic_core"
+        ] 
     },
 
     { 

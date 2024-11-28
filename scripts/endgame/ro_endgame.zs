@@ -34,7 +34,51 @@ val wyvern_helm = <draconicevolution:wyvern_helm>;
 val u_wyvern_helm = wyvern_helm.withTag({Unbreakable: 1 as byte});
 
 recipes.addShaped(u_wyvern_helm,   [[<draconicevolution:draconium_block>,   <draconicevolution:awakened_core>,          <draconicevolution:draconium_block>],
+                                    [<minecraft:nether_star>,               <iceandfire:armor_red_helmet>,              <minecraft:nether_star>],
+                                    [<draconicevolution:draconium_block>,   <draconicevolution:wyvern_energy_core>,     <draconicevolution:draconium_block>]]);
+
+recipes.addShaped(u_wyvern_helm,   [[<draconicevolution:draconium_block>,   <draconicevolution:awakened_core>,          <draconicevolution:draconium_block>],
+                                    [<minecraft:nether_star>,               <iceandfire:armor_bronze_helmet>,           <minecraft:nether_star>],
+                                    [<draconicevolution:draconium_block>,   <draconicevolution:wyvern_energy_core>,     <draconicevolution:draconium_block>]]);
+
+recipes.addShaped(u_wyvern_helm,   [[<draconicevolution:draconium_block>,   <draconicevolution:awakened_core>,          <draconicevolution:draconium_block>],
+                                    [<minecraft:nether_star>,               <iceandfire:armor_green_helmet>,            <minecraft:nether_star>],
+                                    [<draconicevolution:draconium_block>,   <draconicevolution:wyvern_energy_core>,     <draconicevolution:draconium_block>]]);
+
+recipes.addShaped(u_wyvern_helm,   [[<draconicevolution:draconium_block>,   <draconicevolution:awakened_core>,          <draconicevolution:draconium_block>],
+                                    [<minecraft:nether_star>,               <iceandfire:armor_gray_helmet>,             <minecraft:nether_star>],
+                                    [<draconicevolution:draconium_block>,   <draconicevolution:wyvern_energy_core>,     <draconicevolution:draconium_block>]]);
+
+recipes.addShaped(u_wyvern_helm,   [[<draconicevolution:draconium_block>,   <draconicevolution:awakened_core>,          <draconicevolution:draconium_block>],
+                                    [<minecraft:nether_star>,               <iceandfire:armor_blue_helmet>,             <minecraft:nether_star>],
+                                    [<draconicevolution:draconium_block>,   <draconicevolution:wyvern_energy_core>,     <draconicevolution:draconium_block>]]);
+
+recipes.addShaped(u_wyvern_helm,   [[<draconicevolution:draconium_block>,   <draconicevolution:awakened_core>,          <draconicevolution:draconium_block>],
+                                    [<minecraft:nether_star>,               <iceandfire:armor_white_helmet>,            <minecraft:nether_star>],
+                                    [<draconicevolution:draconium_block>,   <draconicevolution:wyvern_energy_core>,     <draconicevolution:draconium_block>]]);
+
+recipes.addShaped(u_wyvern_helm,   [[<draconicevolution:draconium_block>,   <draconicevolution:awakened_core>,          <draconicevolution:draconium_block>],
+                                    [<minecraft:nether_star>,               <iceandfire:armor_sapphire_helmet>,         <minecraft:nether_star>],
+                                    [<draconicevolution:draconium_block>,   <draconicevolution:wyvern_energy_core>,     <draconicevolution:draconium_block>]]);
+
+recipes.addShaped(u_wyvern_helm,   [[<draconicevolution:draconium_block>,   <draconicevolution:awakened_core>,          <draconicevolution:draconium_block>],
+                                    [<minecraft:nether_star>,               <iceandfire:armor_silver_helmet>,           <minecraft:nether_star>],
+                                    [<draconicevolution:draconium_block>,   <draconicevolution:wyvern_energy_core>,     <draconicevolution:draconium_block>]]);
+
+recipes.addShaped(u_wyvern_helm,   [[<draconicevolution:draconium_block>,   <draconicevolution:awakened_core>,          <draconicevolution:draconium_block>],
+                                    [<minecraft:nether_star>,               <iceandfire:armor_electric_helmet>,         <minecraft:nether_star>],
+                                    [<draconicevolution:draconium_block>,   <draconicevolution:wyvern_energy_core>,     <draconicevolution:draconium_block>]]);
+
+recipes.addShaped(u_wyvern_helm,   [[<draconicevolution:draconium_block>,   <draconicevolution:awakened_core>,          <draconicevolution:draconium_block>],
                                     [<minecraft:nether_star>,               <iceandfire:armor_amethyst_helmet>,         <minecraft:nether_star>],
+                                    [<draconicevolution:draconium_block>,   <draconicevolution:wyvern_energy_core>,     <draconicevolution:draconium_block>]]);
+
+recipes.addShaped(u_wyvern_helm,   [[<draconicevolution:draconium_block>,   <draconicevolution:awakened_core>,          <draconicevolution:draconium_block>],
+                                    [<minecraft:nether_star>,               <iceandfire:armor_copper_helmet>,           <minecraft:nether_star>],
+                                    [<draconicevolution:draconium_block>,   <draconicevolution:wyvern_energy_core>,     <draconicevolution:draconium_block>]]);
+
+recipes.addShaped(u_wyvern_helm,   [[<draconicevolution:draconium_block>,   <draconicevolution:awakened_core>,          <draconicevolution:draconium_block>],
+                                    [<minecraft:nether_star>,               <iceandfire:armor_black_helmet>,            <minecraft:nether_star>],
                                     [<draconicevolution:draconium_block>,   <draconicevolution:wyvern_energy_core>,     <draconicevolution:draconium_block>]]);
 
 //recipes.addShaped(u_wyvern_helm,   [[<draconicevolution:draconium_block>,   <draconicevolution:awakened_core>,          <draconicevolution:draconium_block>],
@@ -46,20 +90,107 @@ val wyvern_chest = <draconicevolution:wyvern_chest>;
 val u_wyvern_chest = wyvern_chest.withTag({Unbreakable: 1 as byte});
 
 recipes.addShaped(u_wyvern_chest,  [[<draconicevolution:draconium_block>,   <draconicevolution:awakened_core>,          <draconicevolution:draconium_block>],
+                                    [<minecraft:nether_star>,               <iceandfire:armor_red_chestplate>,          <minecraft:nether_star>],
+                                    [<draconicevolution:draconium_block>,   <draconicevolution:wyvern_energy_core>,     <draconicevolution:draconium_block>]]);
+
+recipes.addShaped(u_wyvern_chest,  [[<draconicevolution:draconium_block>,   <draconicevolution:awakened_core>,          <draconicevolution:draconium_block>],
+                                    [<minecraft:nether_star>,               <iceandfire:armor_bronze_chestplate>,       <minecraft:nether_star>],
+                                    [<draconicevolution:draconium_block>,   <draconicevolution:wyvern_energy_core>,     <draconicevolution:draconium_block>]]);
+
+recipes.addShaped(u_wyvern_chest,  [[<draconicevolution:draconium_block>,   <draconicevolution:awakened_core>,          <draconicevolution:draconium_block>],
+                                    [<minecraft:nether_star>,               <iceandfire:armor_green_chestplate>,        <minecraft:nether_star>],
+                                    [<draconicevolution:draconium_block>,   <draconicevolution:wyvern_energy_core>,     <draconicevolution:draconium_block>]]);
+
+recipes.addShaped(u_wyvern_chest,  [[<draconicevolution:draconium_block>,   <draconicevolution:awakened_core>,          <draconicevolution:draconium_block>],
+                                    [<minecraft:nether_star>,               <iceandfire:armor_gray_chestplate>,         <minecraft:nether_star>],
+                                    [<draconicevolution:draconium_block>,   <draconicevolution:wyvern_energy_core>,     <draconicevolution:draconium_block>]]);
+
+recipes.addShaped(u_wyvern_chest,  [[<draconicevolution:draconium_block>,   <draconicevolution:awakened_core>,          <draconicevolution:draconium_block>],
+                                    [<minecraft:nether_star>,               <iceandfire:armor_blue_chestplate>,         <minecraft:nether_star>],
+                                    [<draconicevolution:draconium_block>,   <draconicevolution:wyvern_energy_core>,     <draconicevolution:draconium_block>]]);
+
+recipes.addShaped(u_wyvern_chest,  [[<draconicevolution:draconium_block>,   <draconicevolution:awakened_core>,          <draconicevolution:draconium_block>],
+                                    [<minecraft:nether_star>,               <iceandfire:armor_white_chestplate>,        <minecraft:nether_star>],
+                                    [<draconicevolution:draconium_block>,   <draconicevolution:wyvern_energy_core>,     <draconicevolution:draconium_block>]]);
+
+recipes.addShaped(u_wyvern_chest,  [[<draconicevolution:draconium_block>,   <draconicevolution:awakened_core>,          <draconicevolution:draconium_block>],
+                                    [<minecraft:nether_star>,               <iceandfire:armor_sapphire_chestplate>,     <minecraft:nether_star>],
+                                    [<draconicevolution:draconium_block>,   <draconicevolution:wyvern_energy_core>,     <draconicevolution:draconium_block>]]);
+
+recipes.addShaped(u_wyvern_chest,  [[<draconicevolution:draconium_block>,   <draconicevolution:awakened_core>,          <draconicevolution:draconium_block>],
+                                    [<minecraft:nether_star>,               <iceandfire:armor_silver_chestplate>,       <minecraft:nether_star>],
+                                    [<draconicevolution:draconium_block>,   <draconicevolution:wyvern_energy_core>,     <draconicevolution:draconium_block>]]);
+
+recipes.addShaped(u_wyvern_chest,  [[<draconicevolution:draconium_block>,   <draconicevolution:awakened_core>,          <draconicevolution:draconium_block>],
+                                    [<minecraft:nether_star>,               <iceandfire:armor_electric_chestplate>,     <minecraft:nether_star>],
+                                    [<draconicevolution:draconium_block>,   <draconicevolution:wyvern_energy_core>,     <draconicevolution:draconium_block>]]);
+
+recipes.addShaped(u_wyvern_chest,  [[<draconicevolution:draconium_block>,   <draconicevolution:awakened_core>,          <draconicevolution:draconium_block>],
                                     [<minecraft:nether_star>,               <iceandfire:armor_amethyst_chestplate>,     <minecraft:nether_star>],
+                                    [<draconicevolution:draconium_block>,   <draconicevolution:wyvern_energy_core>,     <draconicevolution:draconium_block>]]);
+
+recipes.addShaped(u_wyvern_chest,  [[<draconicevolution:draconium_block>,   <draconicevolution:awakened_core>,          <draconicevolution:draconium_block>],
+                                    [<minecraft:nether_star>,               <iceandfire:armor_copper_chestplate>,       <minecraft:nether_star>],
+                                    [<draconicevolution:draconium_block>,   <draconicevolution:wyvern_energy_core>,     <draconicevolution:draconium_block>]]);
+
+recipes.addShaped(u_wyvern_chest,  [[<draconicevolution:draconium_block>,   <draconicevolution:awakened_core>,          <draconicevolution:draconium_block>],
+                                    [<minecraft:nether_star>,               <iceandfire:armor_black_chestplate>,        <minecraft:nether_star>],
                                     [<draconicevolution:draconium_block>,   <draconicevolution:wyvern_energy_core>,     <draconicevolution:draconium_block>]]);
 
 //recipes.addShaped(u_wyvern_chest,  [[<draconicevolution:draconium_block>,   <draconicevolution:awakened_core>,          <draconicevolution:draconium_block>],
 //                                    [<minecraft:nether_star>,               <iceandfire:dragonsteel_ice_chestplate>,    <minecraft:nether_star>],
 //                                    [<draconicevolution:draconium_block>,   <draconicevolution:wyvern_energy_core>,     <draconicevolution:draconium_block>]]);
 
-
 // Wyvern Legs
 val wyvern_legs = <draconicevolution:wyvern_legs>;
 val u_wyvern_legs = wyvern_legs.withTag({Unbreakable: 1 as byte});
 
 recipes.addShaped(u_wyvern_legs,   [[<draconicevolution:draconium_block>,   <draconicevolution:awakened_core>,          <draconicevolution:draconium_block>],
+                                    [<minecraft:nether_star>,               <iceandfire:armor_red_leggings>,            <minecraft:nether_star>],
+                                    [<draconicevolution:draconium_block>,   <draconicevolution:wyvern_energy_core>,     <draconicevolution:draconium_block>]]);
+
+recipes.addShaped(u_wyvern_legs,   [[<draconicevolution:draconium_block>,   <draconicevolution:awakened_core>,          <draconicevolution:draconium_block>],
+                                    [<minecraft:nether_star>,               <iceandfire:armor_bronze_leggings>,         <minecraft:nether_star>],
+                                    [<draconicevolution:draconium_block>,   <draconicevolution:wyvern_energy_core>,     <draconicevolution:draconium_block>]]);
+
+recipes.addShaped(u_wyvern_legs,   [[<draconicevolution:draconium_block>,   <draconicevolution:awakened_core>,          <draconicevolution:draconium_block>],
+                                    [<minecraft:nether_star>,               <iceandfire:armor_green_leggings>,          <minecraft:nether_star>],
+                                    [<draconicevolution:draconium_block>,   <draconicevolution:wyvern_energy_core>,     <draconicevolution:draconium_block>]]);
+
+recipes.addShaped(u_wyvern_legs,   [[<draconicevolution:draconium_block>,   <draconicevolution:awakened_core>,          <draconicevolution:draconium_block>],
+                                    [<minecraft:nether_star>,               <iceandfire:armor_gray_leggings>,           <minecraft:nether_star>],
+                                    [<draconicevolution:draconium_block>,   <draconicevolution:wyvern_energy_core>,     <draconicevolution:draconium_block>]]);
+
+recipes.addShaped(u_wyvern_legs,   [[<draconicevolution:draconium_block>,   <draconicevolution:awakened_core>,          <draconicevolution:draconium_block>],
+                                    [<minecraft:nether_star>,               <iceandfire:armor_blue_leggings>,           <minecraft:nether_star>],
+                                    [<draconicevolution:draconium_block>,   <draconicevolution:wyvern_energy_core>,     <draconicevolution:draconium_block>]]);
+
+recipes.addShaped(u_wyvern_legs,   [[<draconicevolution:draconium_block>,   <draconicevolution:awakened_core>,          <draconicevolution:draconium_block>],
+                                    [<minecraft:nether_star>,               <iceandfire:armor_white_leggings>,          <minecraft:nether_star>],
+                                    [<draconicevolution:draconium_block>,   <draconicevolution:wyvern_energy_core>,     <draconicevolution:draconium_block>]]);
+
+recipes.addShaped(u_wyvern_legs,   [[<draconicevolution:draconium_block>,   <draconicevolution:awakened_core>,          <draconicevolution:draconium_block>],
+                                    [<minecraft:nether_star>,               <iceandfire:armor_sapphire_leggings>,       <minecraft:nether_star>],
+                                    [<draconicevolution:draconium_block>,   <draconicevolution:wyvern_energy_core>,     <draconicevolution:draconium_block>]]);
+
+recipes.addShaped(u_wyvern_legs,   [[<draconicevolution:draconium_block>,   <draconicevolution:awakened_core>,          <draconicevolution:draconium_block>],
+                                    [<minecraft:nether_star>,               <iceandfire:armor_silver_leggings>,         <minecraft:nether_star>],
+                                    [<draconicevolution:draconium_block>,   <draconicevolution:wyvern_energy_core>,     <draconicevolution:draconium_block>]]);
+
+recipes.addShaped(u_wyvern_legs,   [[<draconicevolution:draconium_block>,   <draconicevolution:awakened_core>,          <draconicevolution:draconium_block>],
+                                    [<minecraft:nether_star>,               <iceandfire:armor_electric_leggings>,       <minecraft:nether_star>],
+                                    [<draconicevolution:draconium_block>,   <draconicevolution:wyvern_energy_core>,     <draconicevolution:draconium_block>]]);
+
+recipes.addShaped(u_wyvern_legs,   [[<draconicevolution:draconium_block>,   <draconicevolution:awakened_core>,          <draconicevolution:draconium_block>],
                                     [<minecraft:nether_star>,               <iceandfire:armor_amethyst_leggings>,       <minecraft:nether_star>],
+                                    [<draconicevolution:draconium_block>,   <draconicevolution:wyvern_energy_core>,     <draconicevolution:draconium_block>]]);
+
+recipes.addShaped(u_wyvern_legs,   [[<draconicevolution:draconium_block>,   <draconicevolution:awakened_core>,          <draconicevolution:draconium_block>],
+                                    [<minecraft:nether_star>,               <iceandfire:armor_copper_leggings>,         <minecraft:nether_star>],
+                                    [<draconicevolution:draconium_block>,   <draconicevolution:wyvern_energy_core>,     <draconicevolution:draconium_block>]]);
+
+recipes.addShaped(u_wyvern_legs,   [[<draconicevolution:draconium_block>,   <draconicevolution:awakened_core>,          <draconicevolution:draconium_block>],
+                                    [<minecraft:nether_star>,               <iceandfire:armor_black_leggings>,          <minecraft:nether_star>],
                                     [<draconicevolution:draconium_block>,   <draconicevolution:wyvern_energy_core>,     <draconicevolution:draconium_block>]]);
 
 //recipes.addShaped(u_wyvern_legs,   [[<draconicevolution:draconium_block>,   <draconicevolution:awakened_core>,          <draconicevolution:draconium_block>],
@@ -71,7 +202,51 @@ val wyvern_boots = <draconicevolution:wyvern_boots>;
 val u_wyvern_boots = wyvern_boots.withTag({Unbreakable: 1 as byte});
 
 recipes.addShaped(u_wyvern_boots,  [[<draconicevolution:draconium_block>,   <draconicevolution:awakened_core>,          <draconicevolution:draconium_block>],
+                                    [<minecraft:nether_star>,               <iceandfire:armor_red_boots>,               <minecraft:nether_star>],
+                                    [<draconicevolution:draconium_block>,   <draconicevolution:wyvern_energy_core>,     <draconicevolution:draconium_block>]]);
+
+recipes.addShaped(u_wyvern_boots,  [[<draconicevolution:draconium_block>,   <draconicevolution:awakened_core>,          <draconicevolution:draconium_block>],
+                                    [<minecraft:nether_star>,               <iceandfire:armor_bronze_boots>,            <minecraft:nether_star>],
+                                    [<draconicevolution:draconium_block>,   <draconicevolution:wyvern_energy_core>,     <draconicevolution:draconium_block>]]);
+
+recipes.addShaped(u_wyvern_boots,  [[<draconicevolution:draconium_block>,   <draconicevolution:awakened_core>,          <draconicevolution:draconium_block>],
+                                    [<minecraft:nether_star>,               <iceandfire:armor_green_boots>,             <minecraft:nether_star>],
+                                    [<draconicevolution:draconium_block>,   <draconicevolution:wyvern_energy_core>,     <draconicevolution:draconium_block>]]);
+
+recipes.addShaped(u_wyvern_boots,  [[<draconicevolution:draconium_block>,   <draconicevolution:awakened_core>,          <draconicevolution:draconium_block>],
+                                    [<minecraft:nether_star>,               <iceandfire:armor_gray_boots>,              <minecraft:nether_star>],
+                                    [<draconicevolution:draconium_block>,   <draconicevolution:wyvern_energy_core>,     <draconicevolution:draconium_block>]]);
+
+recipes.addShaped(u_wyvern_boots,  [[<draconicevolution:draconium_block>,   <draconicevolution:awakened_core>,          <draconicevolution:draconium_block>],
+                                    [<minecraft:nether_star>,               <iceandfire:armor_blue_boots>,              <minecraft:nether_star>],
+                                    [<draconicevolution:draconium_block>,   <draconicevolution:wyvern_energy_core>,     <draconicevolution:draconium_block>]]);
+
+recipes.addShaped(u_wyvern_boots,  [[<draconicevolution:draconium_block>,   <draconicevolution:awakened_core>,          <draconicevolution:draconium_block>],
+                                    [<minecraft:nether_star>,               <iceandfire:armor_white_boots>,             <minecraft:nether_star>],
+                                    [<draconicevolution:draconium_block>,   <draconicevolution:wyvern_energy_core>,     <draconicevolution:draconium_block>]]);
+
+recipes.addShaped(u_wyvern_boots,  [[<draconicevolution:draconium_block>,   <draconicevolution:awakened_core>,          <draconicevolution:draconium_block>],
+                                    [<minecraft:nether_star>,               <iceandfire:armor_sapphire_boots>,          <minecraft:nether_star>],
+                                    [<draconicevolution:draconium_block>,   <draconicevolution:wyvern_energy_core>,     <draconicevolution:draconium_block>]]);
+
+recipes.addShaped(u_wyvern_boots,  [[<draconicevolution:draconium_block>,   <draconicevolution:awakened_core>,          <draconicevolution:draconium_block>],
+                                    [<minecraft:nether_star>,               <iceandfire:armor_silver_boots>,            <minecraft:nether_star>],
+                                    [<draconicevolution:draconium_block>,   <draconicevolution:wyvern_energy_core>,     <draconicevolution:draconium_block>]]);
+
+recipes.addShaped(u_wyvern_boots,  [[<draconicevolution:draconium_block>,   <draconicevolution:awakened_core>,          <draconicevolution:draconium_block>],
+                                    [<minecraft:nether_star>,               <iceandfire:armor_electric_boots>,          <minecraft:nether_star>],
+                                    [<draconicevolution:draconium_block>,   <draconicevolution:wyvern_energy_core>,     <draconicevolution:draconium_block>]]);
+
+recipes.addShaped(u_wyvern_boots,  [[<draconicevolution:draconium_block>,   <draconicevolution:awakened_core>,          <draconicevolution:draconium_block>],
                                     [<minecraft:nether_star>,               <iceandfire:armor_amethyst_boots>,          <minecraft:nether_star>],
+                                    [<draconicevolution:draconium_block>,   <draconicevolution:wyvern_energy_core>,     <draconicevolution:draconium_block>]]);
+
+recipes.addShaped(u_wyvern_boots,  [[<draconicevolution:draconium_block>,   <draconicevolution:awakened_core>,          <draconicevolution:draconium_block>],
+                                    [<minecraft:nether_star>,               <iceandfire:armor_copper_boots>,            <minecraft:nether_star>],
+                                    [<draconicevolution:draconium_block>,   <draconicevolution:wyvern_energy_core>,     <draconicevolution:draconium_block>]]);
+
+recipes.addShaped(u_wyvern_boots,  [[<draconicevolution:draconium_block>,   <draconicevolution:awakened_core>,          <draconicevolution:draconium_block>],
+                                    [<minecraft:nether_star>,               <iceandfire:armor_black_boots>,             <minecraft:nether_star>],
                                     [<draconicevolution:draconium_block>,   <draconicevolution:wyvern_energy_core>,     <draconicevolution:draconium_block>]]);
 
 //recipes.addShaped(u_wyvern_boots,  [[<draconicevolution:draconium_block>,   <draconicevolution:awakened_core>,          <draconicevolution:draconium_block>],

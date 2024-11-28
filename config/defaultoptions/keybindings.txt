@@ -44,7 +44,6 @@ key_key.configurator_mode.desc:47:NONE
 key_key.configurator_filter.desc:48:SHIFT
 key_key.configurator_path.desc:33:SHIFT
 key_keybind.baublesinventory:0:NONE
-key_quark.keybind.lockBuilding:37:NONE
 key_quark.keybind.dropoff:0:NONE
 key_quark.keybind.changeHotbar:44:SHIFT
 key_quark.keybind.chestSort:0:NONE
@@ -53,6 +52,7 @@ key_quark.keybind.chestMerge:0:NONE
 key_quark.keybind.chestRestock:0:NONE
 key_quark.keybind.chestExtract:0:NONE
 key_quark.keybind.toggleAutojump:0:NONE
+key_quark.keybind.lockBuilding:37:NONE
 key_key.toggle_shaders:0:NONE
 key_key.personalBackpack:0:NONE
 key_bloodmagic.keybind.open_holding:24:NONE
@@ -79,6 +79,11 @@ key_key.ftbutilities.nbt:49:CONTROL
 key_key.ftbutilities.trash:211:NONE
 key_key.ftbquests.quests:0:NONE
 key_key.fart.desc:0:NONE
+key_gregtech.key.armor_mode_switch:50:NONE
+key_gregtech.key.armor_hover:35:NONE
+key_gregtech.key.armor_charging:49:NONE
+key_gregtech.key.tool_aoe_change:47:NONE
+key_keybind.hammercorerenderstack:77:NONE
 key_key.vehicle.horn:0:NONE
 key_key.vehicle.cycle_seats:0:NONE
 key_key.moreoverlays.lightoverlay.desc:65:NONE
@@ -117,6 +122,7 @@ key_key.securitycraft.cameraZoomIn:13:NONE
 key_key.securitycraft.cameraZoomOut:12:NONE
 key_key.securitycraft.cameraEmitRedstone:0:NONE
 key_key.securitycraft.cameraActivateNightVision:49:SHIFT
+key_key.securitycraft.setDefaultViewingDirection:22:NONE
 key_key.jei.toggleOverlay:24:CONTROL
 key_key.jei.focusSearch:33:CONTROL
 key_key.jei.toggleCheatMode:0:NONE
@@ -142,9 +148,15 @@ key_key.unhook:45:NONE
 key_key.immersiveengineering.magnetEquip:31:NONE
 key_key.immersiveengineering.chemthrowerSwitch:0:NONE
 key_key.toggle_focus.desc:15:NONE
+key_key.open_wireless_terminal.desc:20:SHIFT
+key_key.open_wireless_crafting_terminal.desc:18:SHIFT
+key_key.open_wireless_pattern_terminal.desc:19:SHIFT
+key_key.open_wireless_fluid_terminal.desc:33:SHIFT
 key_key.aether.accessory_menu:0:NONE
-key_Seamoth descend:0:NONE
+key_key.aquaacrobatics.toggle_crawling:29:SHIFT
+key_astraladditions.key.ring_toggle:82:NONE
 key_nei.options.keys.gui.botania_corporea_request:0:NONE
+key_Seamoth descend:0:NONE
 key_key.settings_menu:34:ALT
 key_key.range:24:ALT
 key_key.undo:22:CONTROL
@@ -208,11 +220,23 @@ key_key.cpm.qa_3:0:NONE
 key_key.cpm.qa_4:0:NONE
 key_key.cpm.qa_5:0:NONE
 key_key.cpm.qa_6:0:NONE
+key_key.cpm.qa_7:0:NONE
+key_key.cpm.qa_8:0:NONE
+key_key.cpm.qa_9:0:NONE
+key_key.cpm.qa_10:0:NONE
+key_key.cpm.qa_11:0:NONE
+key_key.cpm.qa_12:0:NONE
+key_key.cpm.qa_13:0:NONE
+key_key.cpm.qa_14:0:NONE
+key_key.cpm.qa_15:0:NONE
+key_key.cpm.qa_16:0:NONE
 key_waila.keybind.wailaconfig:82:NONE
 key_waila.keybind.wailadisplay:79:NONE
 key_waila.keybind.liquid:80:NONE
 key_waila.keybind.recipe:81:NONE
 key_waila.keybind.usage:75:NONE
+key_key.overload:33:SHIFT
+key_key.chaosInjection:34:SHIFT
 key_key.elenaidodge2.dodge:56:NONE
 key_key.clipboardPaste:210:NONE
 key_key.reelIn:203:NONE
@@ -243,6 +267,30 @@ key_key.toolbelt.cycle.left:0:NONE
 key_key.toolbelt.cycle.right:0:NONE
 key_key.toolbelt.slot:0:NONE
 key_WorldEdit Reference:38:NONE
+key_Show Render Distance:0:NONE
+key_Switch to Overworld:0:NONE
+key_Show Render Distance WorldMap:0:NONE
+key_PortalSkip Detection:0:NONE
+key_Nether Cave Fix:0:NONE
+key_Always Render Player Icon:0:NONE
+key_Switch to Nether:0:NONE
+key_Transparent Obsidian Roof:0:NONE
+key_Portal Highlights:0:NONE
+key_NewChunks Highlighting:0:NONE
+key_Save/Load NewChunks to Disk:0:NONE
+key_Waystones Dimension Sync:0:NONE
+key_Baritone Goal Waypoint:0:NONE
+key_Always Render Player Name:0:NONE
+key_Switch to End:0:NONE
+key_WDL Highlight:0:NONE
+key_Waystones Waypoint Sync:0:NONE
+key_Fast Mapping:0:NONE
+key_Transparent Background:0:NONE
+key_Show Waypoint Distances:0:NONE
+key_Persist Dim Switch:0:NONE
+key_Fix Main Entity Dot:0:NONE
+key_Skip Background Render:0:NONE
+key_null OW Dim Dir:0:NONE
 key_gui.xaero_switch_waypoint_set:0:NONE
 key_gui.xaero_instant_waypoint:78:NONE
 key_gui.xaero_toggle_slime:0:NONE
@@ -260,12 +308,40 @@ key_gui.xaero_toggle_light_overlay:0:NONE
 key_gui.xaero_toggle_entity_radar:0:NONE
 key_gui.xaero_reverse_entity_radar:0:NONE
 key_gui.xaero_toggle_manual_cave_mode:0:NONE
+key_gui.xaero_alternative_list_players:0:NONE
+key_gui.xaero_toggle_tracked_players_on_map:0:NONE
+key_gui.xaero_toggle_tracked_players_in_world:0:NONE
+key_Show Render Distance:0:NONE
+key_Switch to Overworld:0:NONE
+key_Show Render Distance WorldMap:0:NONE
+key_PortalSkip Detection:0:NONE
+key_Nether Cave Fix:0:NONE
+key_Always Render Player Icon:0:NONE
+key_Switch to Nether:0:NONE
+key_Transparent Obsidian Roof:0:NONE
+key_Portal Highlights:0:NONE
+key_NewChunks Highlighting:0:NONE
+key_Save/Load NewChunks to Disk:0:NONE
+key_Waystones Dimension Sync:0:NONE
+key_Baritone Goal Waypoint:0:NONE
+key_Always Render Player Name:0:NONE
+key_Switch to End:0:NONE
+key_WDL Highlight:0:NONE
+key_Waystones Waypoint Sync:0:NONE
+key_Fast Mapping:0:NONE
+key_Transparent Background:0:NONE
+key_Show Waypoint Distances:0:NONE
+key_Persist Dim Switch:0:NONE
+key_Fix Main Entity Dot:0:NONE
+key_Skip Background Render:0:NONE
+key_null OW Dim Dir:0:NONE
 key_gui.xaero_minimap_settings:22:SHIFT
 key_gui.xaero_open_map:157:NONE
 key_gui.xaero_open_settings:27:NONE
 key_gui.xaero_map_zoom_in:0:NONE
 key_gui.xaero_map_zoom_out:0:NONE
 key_gui.xaero_quick_confirm:54:NONE
+key_gui.xaero_toggle_dimension:0:NONE
 key_Toggle Jetpack:0:NONE
 key_Open Rocket GUI:0:NONE
 key_Toggle RCS:39:NONE
@@ -295,4 +371,4 @@ key_enderio.keybind.fovplus:0:NONE
 key_enderio.keybind.fovminus:0:NONE
 key_enderio.keybind.fovplusfast:0:NONE
 key_enderio.keybind.fovminusfast:0:NONE
-key_key.craftpresence.config_keycode.name:0:NONE
+key_key.craftpresence.config_keycode.name:41:NONE

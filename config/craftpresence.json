@@ -109,7 +109,7 @@
     "stripTranslationColors": false,
     "stripTranslationFormatting": false,
     "stripExtraGuiElements": false,
-    "configKeyCode": 0
+    "configKeyCode": 41
   },
   "displaySettings": {
     "presenceData": {
