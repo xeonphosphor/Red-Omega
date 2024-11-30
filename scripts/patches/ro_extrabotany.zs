@@ -21,3 +21,6 @@ mods.botania.RuneAltar.addRecipe(buffed_firstfractal,[<extrabotany:gildedmashedp
 
 //Complete Removals
 mods.jei.JEI.removeAndHide(<extrabotany:achilleshield>);
+mods.jei.JEI.removeAndHide(<extrabotany:judahoath:0>);
+mods.jei.JEI.removeAndHide(<extrabotany:judahoath:1>);
+mods.jei.JEI.removeAndHide(<extrabotany:judahoath:2>);

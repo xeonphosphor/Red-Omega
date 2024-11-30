@@ -26,6 +26,7 @@ recipes.remove(<randomthings:enderletter>);
 //recipes.remove(<draconicevolution:wyvern_energy_core>);
 recipes.remove(<aether_legacy:iron_ring>);
 recipes.remove(<aether_legacy:golden_ring>);
+recipes.remove(<minecraft:tnt>);
 
 // Main recipe modification
 
@@ -57,6 +58,7 @@ recipes.addShaped(<randomthings:enderletter>, [[null, null, null], [<minecraft:p
 //recipes.addShaped(<draconicevolution:wyvern_energy_core>, [[<draconicevolution:draconium_ingot>, <minecraft:redstone_block>, <draconicevolution:draconium_ingot>], [<draconicevolution:draconic_core>, <minecraft:nether_star>, <draconicevolution:draconic_core>], [<draconicevolution:draconium_ingot>, <minecraft:redstone_block>, <draconicevolution:draconium_ingot>]]);
 recipes.addShaped(<aether_legacy:iron_ring>, [[<minecraft:iron_nugget>, <minecraft:iron_ingot>, <minecraft:iron_nugget>], [<minecraft:iron_ingot>, null, <minecraft:iron_ingot>], [<minecraft:iron_nugget>, <minecraft:iron_ingot>, <minecraft:iron_nugget>]]);
 recipes.addShaped(<aether_legacy:golden_ring>, [[<minecraft:gold_nugget>, <minecraft:gold_ingot>, <minecraft:gold_nugget>], [<minecraft:gold_ingot>, null, <minecraft:gold_ingot>], [<minecraft:gold_nugget>, <minecraft:gold_ingot>, <minecraft:gold_nugget>]]);
+recipes.addShaped(<minecraft:tnt>, [[<minecraft:gunpowder>, <minecraft:sand>, <minecraft:gunpowder>], [<minecraft:sand>, <minecraft:gunpowder>, <minecraft:sand>], [<minecraft:gunpowder>, <minecraft:sand>, <minecraft:gunpowder>]]);
 
 // Shapeless
 
