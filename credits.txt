@@ -273,7 +273,6 @@ WorldEdit (by sk89q)
 Worley’s Caves (by super_fluke)
 Xaero’s Minimap (by xaero96)
 Xaero’s World Map (by xaero96)
-XaeroPlus (by CoinRS)
 YUNG's Better Mineshafts (by YUNGNICKYOUNG)
 
 And thanks to the other modpack developers:
