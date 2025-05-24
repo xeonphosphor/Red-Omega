@@ -429,6 +429,18 @@
 
     { 
         "mode": "ADD", 
+        "result": "draconicevolution:dragon_heart,8", 
+        "catalyst": "draconicadditions:chaos_heart",
+        "energy": 20000000, 
+        "tier": 2, 
+        "ingredients": [ 
+            "1x[tconstruct:throwball]:1",
+            "ebwizardry:purifying_elixir"
+        ] 
+    },
+
+    { 
+        "mode": "ADD", 
         "result": "abyssalcraft:transmutationgem",
         "catalyst": "abyssalcraft:cpearl",
         "energy": 300000, 

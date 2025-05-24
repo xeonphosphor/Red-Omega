@@ -1,5 +1,5 @@
 {
-  "_schemaVersion": 6,
+  "_schemaVersion": 7,
   "_lastMCVersionId": 340,
   "generalSettings": {
     "detectATLauncherInstance": true,
@@ -101,8 +101,7 @@
     "playerSkinEndpoint": "https://crafatar.com/avatars/%1$s",
     "allowDuplicatePackets": false,
     "maxConnectionAttempts": 10,
-    "enableClassGraph": false,
-    "useClassLoader": true
+    "enableClassGraph": false
   },
   "accessibilitySettings": {
     "languageId": "en_us",
@@ -126,20 +125,13 @@
       "smallImageText": "{server.message}",
       "startTimestamp": "{data.general.time}",
       "endTimestamp": "",
-      "buttons": {
-        "default": {
-          "label": "Example Text",
-          "url": "https://google.com"
-        }
-      }
+      "buttons": {}
     },
     "dynamicIcons": {
-      "default": "https://via.placeholder.com/256.png",
       "1ab": "https://crafatar.com/avatars/f5f3b30960594c97a847b2b226ec60cb",
       "Vorteksian": "https://crafatar.com/avatars/636764674d5c418db146e77a8ede7dde"
     },
     "dynamicVariables": {
-      "default": "Example Text",
       "mods": "{general.mods} Mod(s)",
       "player_info_coordinate": "At {player.position.x}, {player.position.z}",
       "players": "{server.players.current} / {server.players.max} Players",

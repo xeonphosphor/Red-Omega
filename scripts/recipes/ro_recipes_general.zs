@@ -79,8 +79,6 @@ mods.jei.JEI.removeAndHide(<item:red_omega_custom_swords:henticle>);
 
 //Remove ExtraBotany Nature Orb
 mods.jei.JEI.removeAndHide(<item:extrabotany:natureorb>);
-mods.jei.JEI.removeAndHide(<item:extrabotany:coregod:0>);
-mods.jei.JEI.removeAndHide(<item:extrabotany:coregod:1>);
-mods.jei.JEI.removeAndHide(<item:extrabotany:coregod:2>);
-mods.jei.JEI.removeAndHide(<item:extrabotany:coregod:3>);
-mods.jei.JEI.removeAndHide(<item:extrabotany:coregod:4>);
+
+//Remove IC2 Chunkloader
+mods.jei.JEI.removeAndHide(<ic2:te:82>);

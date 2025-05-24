@@ -20,25 +20,6 @@
 				<atmosphereDensity>0</atmosphereDensity>
 			</planet>
 		</planet>
-		<planet name="Swift" DIMID="1001" temp="750" customIcon="lava">
-			<biomeIds>biomesoplenty:volcanic_island</biomeIds>
-			<skyColor>0,0,0</skyColor>
-			<atmosphereDensity>120</atmosphereDensity>
-			<gravitationalMultiplier>38</gravitationalMultiplier>
-			<orbitalDistance>40</orbitalDistance>
-			<rotationalPeriod>1400000</rotationalPeriod>
-		</planet>
-		<planet name="Radiance" DIMID="1002" temp="750" customIcon="lava">
-			<oceanBlock>minecraft:lava</oceanBlock>
-			<biomeIds>biomesoplenty:volcanic_island, minecraft:ocean</biomeIds>
-			<skyColor>0,0,0</skyColor>
-			<fogColor>0.9,0.9,0.9</fogColor>
-			<atmosphereDensity>120</atmosphereDensity>
-			<gravitationalMultiplier>90</gravitationalMultiplier>
-			<orbitalDistance>72</orbitalDistance>
-			<rotationalPeriod>2784000</rotationalPeriod>
-			<spawnable weight="100" groupMin="1" groupMax="3">techguns:supermutantbasic</spawnable>
-		</planet>
 		<planet name="Rust" DIMID="1003" temp="400" customIcon="marslike">
 			<biomeIds>advancedrocketry:hotdryrock</biomeIds>
 			<skyColor>1,0.2,0</skyColor>
@@ -48,74 +29,6 @@
 			<gravitationalMultiplier>38</gravitationalMultiplier>
 			<rotationalPeriod>20000</rotationalPeriod>
 			<spawnable weight="100" groupMin="1" groupMax="3">techguns:alienbug</spawnable>
-		</planet>
-		<planet name="Titan" DIMID="1004" customIcon="gasgiantred">
-			<GasGiant>true</GasGiant>
-			<gas>hydrogen</gas>
-			<gas>helium</gas>
-			<orbitalDistance>120</orbitalDistance>
-			<rotationalPeriod>9900</rotationalPeriod>
-			<planet name="Ash" DIMID="1005" temp="200" customIcon="moon">
-				<biomeIds>advancedrocketry:volcano</biomeIds>
-				<skyColor>0.9,0.5,0.2</skyColor>
-				<fogColor>0.6,0.4,0.3</fogColor>
-				<atmosphereDensity>0</atmosphereDensity>
-				<gravitationalMultiplier>30</gravitationalMultiplier>
-				<orbitalDistance>70</orbitalDistance>
-				<rotationalPeriod>10000</rotationalPeriod>
-				<spawnable weight="25" groupMin="1" groupMax="3">techguns:supermutantbasic</spawnable>
-				<spawnable weight="25" groupMin="1" groupMax="3">techguns:supermutantelite</spawnable>
-				<spawnable weight="25" groupMin="1" groupMax="3">techguns:supermutantheavy</spawnable>
-			</planet>
-			<planet name="Oceanus" DIMID="1006" temp="200" customIcon="waterworld">
-				<biomeIds>minecraft:frozen_ocean</biomeIds>
-				<skyColor>0.6,0.8,1</skyColor>
-				<fogColor>0.8,0.9,1</fogColor>
-				<atmosphereDensity>0</atmosphereDensity>
-				<gravitationalMultiplier>30</gravitationalMultiplier>
-				<orbitalDistance>90</orbitalDistance>
-				<orbitalPhi>90</orbitalPhi>
-				<rotationalPeriod>10000</rotationalPeriod>
-				<spawnable weight="100" groupMin="1" groupMax="5">techguns:stormtrooper</spawnable>
-			</planet>
-		</planet>
-		<planet name="Ringmaster" DIMID="1007" customIcon="gasgiantblue">
-			<GasGiant>true</GasGiant>
-			<gas>hydrogen</gas>
-			<gas>helium</gas>
-			<hasRings>true</hasRings>
-			<orbitalDistance>130</orbitalDistance>
-			<rotationalPeriod>10600</rotationalPeriod>
-			<planet name="Haze" DIMID="1008" temp="200" customIcon="moon">
-				<biomeIds>biomesoplenty:crag, biomesoplenty:bog</biomeIds>
-				<skyColor>0.8,0.4,0.1</skyColor>
-				<fogColor>0.7,0.5,0.3</fogColor>
-				<atmosphereDensity>0</atmosphereDensity>
-				<gravitationalMultiplier>30</gravitationalMultiplier>
-				<orbitalDistance>100</orbitalDistance>
-				<orbitalPhi>120</orbitalPhi>
-				<rotationalPeriod>12000</rotationalPeriod>
-				<spawnable weight="100" groupMin="1" groupMax="3">techguns:stormtrooper</spawnable>
-			</planet>
-		</planet>
-		<planet name="Tilt" DIMID="1009" temp="100" customIcon="iceworld">
-			<biomeIds>biomesoplenty:alps, biomesoplenty:alps_foothills, biomesoplenty:glacier</biomeIds>
-			<skyColor>0,0.9,1</skyColor>
-			<fogColor>0.9,0.9,0.9</fogColor>
-			<atmosphereDensity>0</atmosphereDensity>
-			<orbitalDistance>150</orbitalDistance>
-			<gravitationalMultiplier>89</gravitationalMultiplier>
-			<rotationalPeriod>17250</rotationalPeriod>
-			<spawnable weight="100" groupMin="1" groupMax="3">techguns:stormtrooper</spawnable>
-		</planet>
-		<planet name="Aqua" DIMID="1010" temp="80" customIcon="iceworld">
-			<biomeIds>biomesoplenty:alps, biomesoplenty:alps_foothills, biomesoplenty:glacier, minecraft:frozen_ocean</biomeIds>
-			<skyColor>0,0.5,1</skyColor>
-			<atmosphereDensity>0</atmosphereDensity>
-			<orbitalDistance>180</orbitalDistance>
-			<gravitationalMultiplier>110</gravitationalMultiplier>
-			<rotationalPeriod>21100</rotationalPeriod>
-			<spawnable weight="100" groupMin="1" groupMax="3">techguns:stormtrooper</spawnable>
 		</planet>
 	</star>
 </galaxy>
