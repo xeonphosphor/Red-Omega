@@ -33,225 +33,65 @@ mods.avaritia.ExtremeCrafting.remove(<botania:specialflower>.withTag({type: "asg
 val wyvern_helm = <draconicevolution:wyvern_helm>;
 val u_wyvern_helm = wyvern_helm.withTag({Unbreakable: 1 as byte});
 
-recipes.addShaped(u_wyvern_helm,   [[<draconicevolution:draconium_block>,   <draconicevolution:awakened_core>,          <draconicevolution:draconium_block>],
-                                    [<minecraft:nether_star>,               <iceandfire:armor_red_helmet>,              <minecraft:nether_star>],
-                                    [<draconicevolution:draconium_block>,   <draconicevolution:wyvern_energy_core>,     <draconicevolution:draconium_block>]]);
+recipes.addShaped(u_wyvern_helm,   [[<draconicevolution:draconium_block>,   <draconicevolution:awakened_core>,                  <draconicevolution:draconium_block>],
+                                    [<minecraft:nether_star>,               <iceandfire:dragonsteel_fire_helmet>,               <minecraft:nether_star>],
+                                    [<draconicevolution:draconium_block>,   <draconicevolution:wyvern_energy_core>,             <draconicevolution:draconium_block>]]);
 
-recipes.addShaped(u_wyvern_helm,   [[<draconicevolution:draconium_block>,   <draconicevolution:awakened_core>,          <draconicevolution:draconium_block>],
-                                    [<minecraft:nether_star>,               <iceandfire:armor_bronze_helmet>,           <minecraft:nether_star>],
-                                    [<draconicevolution:draconium_block>,   <draconicevolution:wyvern_energy_core>,     <draconicevolution:draconium_block>]]);
+recipes.addShaped(u_wyvern_helm,   [[<draconicevolution:draconium_block>,   <draconicevolution:awakened_core>,                  <draconicevolution:draconium_block>],
+                                    [<minecraft:nether_star>,               <iceandfire:dragonsteel_ice_helmet>,                <minecraft:nether_star>],
+                                    [<draconicevolution:draconium_block>,   <draconicevolution:wyvern_energy_core>,             <draconicevolution:draconium_block>]]);
 
-recipes.addShaped(u_wyvern_helm,   [[<draconicevolution:draconium_block>,   <draconicevolution:awakened_core>,          <draconicevolution:draconium_block>],
-                                    [<minecraft:nether_star>,               <iceandfire:armor_green_helmet>,            <minecraft:nether_star>],
-                                    [<draconicevolution:draconium_block>,   <draconicevolution:wyvern_energy_core>,     <draconicevolution:draconium_block>]]);
-
-recipes.addShaped(u_wyvern_helm,   [[<draconicevolution:draconium_block>,   <draconicevolution:awakened_core>,          <draconicevolution:draconium_block>],
-                                    [<minecraft:nether_star>,               <iceandfire:armor_gray_helmet>,             <minecraft:nether_star>],
-                                    [<draconicevolution:draconium_block>,   <draconicevolution:wyvern_energy_core>,     <draconicevolution:draconium_block>]]);
-
-recipes.addShaped(u_wyvern_helm,   [[<draconicevolution:draconium_block>,   <draconicevolution:awakened_core>,          <draconicevolution:draconium_block>],
-                                    [<minecraft:nether_star>,               <iceandfire:armor_blue_helmet>,             <minecraft:nether_star>],
-                                    [<draconicevolution:draconium_block>,   <draconicevolution:wyvern_energy_core>,     <draconicevolution:draconium_block>]]);
-
-recipes.addShaped(u_wyvern_helm,   [[<draconicevolution:draconium_block>,   <draconicevolution:awakened_core>,          <draconicevolution:draconium_block>],
-                                    [<minecraft:nether_star>,               <iceandfire:armor_white_helmet>,            <minecraft:nether_star>],
-                                    [<draconicevolution:draconium_block>,   <draconicevolution:wyvern_energy_core>,     <draconicevolution:draconium_block>]]);
-
-recipes.addShaped(u_wyvern_helm,   [[<draconicevolution:draconium_block>,   <draconicevolution:awakened_core>,          <draconicevolution:draconium_block>],
-                                    [<minecraft:nether_star>,               <iceandfire:armor_sapphire_helmet>,         <minecraft:nether_star>],
-                                    [<draconicevolution:draconium_block>,   <draconicevolution:wyvern_energy_core>,     <draconicevolution:draconium_block>]]);
-
-recipes.addShaped(u_wyvern_helm,   [[<draconicevolution:draconium_block>,   <draconicevolution:awakened_core>,          <draconicevolution:draconium_block>],
-                                    [<minecraft:nether_star>,               <iceandfire:armor_silver_helmet>,           <minecraft:nether_star>],
-                                    [<draconicevolution:draconium_block>,   <draconicevolution:wyvern_energy_core>,     <draconicevolution:draconium_block>]]);
-
-recipes.addShaped(u_wyvern_helm,   [[<draconicevolution:draconium_block>,   <draconicevolution:awakened_core>,          <draconicevolution:draconium_block>],
-                                    [<minecraft:nether_star>,               <iceandfire:armor_electric_helmet>,         <minecraft:nether_star>],
-                                    [<draconicevolution:draconium_block>,   <draconicevolution:wyvern_energy_core>,     <draconicevolution:draconium_block>]]);
-
-recipes.addShaped(u_wyvern_helm,   [[<draconicevolution:draconium_block>,   <draconicevolution:awakened_core>,          <draconicevolution:draconium_block>],
-                                    [<minecraft:nether_star>,               <iceandfire:armor_amethyst_helmet>,         <minecraft:nether_star>],
-                                    [<draconicevolution:draconium_block>,   <draconicevolution:wyvern_energy_core>,     <draconicevolution:draconium_block>]]);
-
-recipes.addShaped(u_wyvern_helm,   [[<draconicevolution:draconium_block>,   <draconicevolution:awakened_core>,          <draconicevolution:draconium_block>],
-                                    [<minecraft:nether_star>,               <iceandfire:armor_copper_helmet>,           <minecraft:nether_star>],
-                                    [<draconicevolution:draconium_block>,   <draconicevolution:wyvern_energy_core>,     <draconicevolution:draconium_block>]]);
-
-recipes.addShaped(u_wyvern_helm,   [[<draconicevolution:draconium_block>,   <draconicevolution:awakened_core>,          <draconicevolution:draconium_block>],
-                                    [<minecraft:nether_star>,               <iceandfire:armor_black_helmet>,            <minecraft:nether_star>],
-                                    [<draconicevolution:draconium_block>,   <draconicevolution:wyvern_energy_core>,     <draconicevolution:draconium_block>]]);
-
-//recipes.addShaped(u_wyvern_helm,   [[<draconicevolution:draconium_block>,   <draconicevolution:awakened_core>,          <draconicevolution:draconium_block>],
-//                                    [<minecraft:nether_star>,               <iceandfire:dragonsteel_ice_helmet>,        <minecraft:nether_star>],
-//                                    [<draconicevolution:draconium_block>,   <draconicevolution:wyvern_energy_core>,     <draconicevolution:draconium_block>]]);
+recipes.addShaped(u_wyvern_helm,   [[<draconicevolution:draconium_block>,   <draconicevolution:awakened_core>,                  <draconicevolution:draconium_block>],
+                                    [<minecraft:nether_star>,               <iceandfire:dragonsteel_lightning_helmet>,          <minecraft:nether_star>],
+                                    [<draconicevolution:draconium_block>,   <draconicevolution:wyvern_energy_core>,             <draconicevolution:draconium_block>]]);
 
 // Wyvern Chest
 val wyvern_chest = <draconicevolution:wyvern_chest>;
 val u_wyvern_chest = wyvern_chest.withTag({Unbreakable: 1 as byte});
 
-recipes.addShaped(u_wyvern_chest,  [[<draconicevolution:draconium_block>,   <draconicevolution:awakened_core>,          <draconicevolution:draconium_block>],
-                                    [<minecraft:nether_star>,               <iceandfire:armor_red_chestplate>,          <minecraft:nether_star>],
-                                    [<draconicevolution:draconium_block>,   <draconicevolution:wyvern_energy_core>,     <draconicevolution:draconium_block>]]);
+recipes.addShaped(u_wyvern_chest,  [[<draconicevolution:draconium_block>,   <draconicevolution:awakened_core>,                  <draconicevolution:draconium_block>],
+                                    [<minecraft:nether_star>,               <iceandfire:dragonsteel_fire_chestplate>,           <minecraft:nether_star>],
+                                    [<draconicevolution:draconium_block>,   <draconicevolution:wyvern_energy_core>,             <draconicevolution:draconium_block>]]);
 
-recipes.addShaped(u_wyvern_chest,  [[<draconicevolution:draconium_block>,   <draconicevolution:awakened_core>,          <draconicevolution:draconium_block>],
-                                    [<minecraft:nether_star>,               <iceandfire:armor_bronze_chestplate>,       <minecraft:nether_star>],
-                                    [<draconicevolution:draconium_block>,   <draconicevolution:wyvern_energy_core>,     <draconicevolution:draconium_block>]]);
+recipes.addShaped(u_wyvern_chest,  [[<draconicevolution:draconium_block>,   <draconicevolution:awakened_core>,                  <draconicevolution:draconium_block>],
+                                    [<minecraft:nether_star>,               <iceandfire:dragonsteel_ice_chestplate>,            <minecraft:nether_star>],
+                                    [<draconicevolution:draconium_block>,   <draconicevolution:wyvern_energy_core>,             <draconicevolution:draconium_block>]]);
 
-recipes.addShaped(u_wyvern_chest,  [[<draconicevolution:draconium_block>,   <draconicevolution:awakened_core>,          <draconicevolution:draconium_block>],
-                                    [<minecraft:nether_star>,               <iceandfire:armor_green_chestplate>,        <minecraft:nether_star>],
-                                    [<draconicevolution:draconium_block>,   <draconicevolution:wyvern_energy_core>,     <draconicevolution:draconium_block>]]);
-
-recipes.addShaped(u_wyvern_chest,  [[<draconicevolution:draconium_block>,   <draconicevolution:awakened_core>,          <draconicevolution:draconium_block>],
-                                    [<minecraft:nether_star>,               <iceandfire:armor_gray_chestplate>,         <minecraft:nether_star>],
-                                    [<draconicevolution:draconium_block>,   <draconicevolution:wyvern_energy_core>,     <draconicevolution:draconium_block>]]);
-
-recipes.addShaped(u_wyvern_chest,  [[<draconicevolution:draconium_block>,   <draconicevolution:awakened_core>,          <draconicevolution:draconium_block>],
-                                    [<minecraft:nether_star>,               <iceandfire:armor_blue_chestplate>,         <minecraft:nether_star>],
-                                    [<draconicevolution:draconium_block>,   <draconicevolution:wyvern_energy_core>,     <draconicevolution:draconium_block>]]);
-
-recipes.addShaped(u_wyvern_chest,  [[<draconicevolution:draconium_block>,   <draconicevolution:awakened_core>,          <draconicevolution:draconium_block>],
-                                    [<minecraft:nether_star>,               <iceandfire:armor_white_chestplate>,        <minecraft:nether_star>],
-                                    [<draconicevolution:draconium_block>,   <draconicevolution:wyvern_energy_core>,     <draconicevolution:draconium_block>]]);
-
-recipes.addShaped(u_wyvern_chest,  [[<draconicevolution:draconium_block>,   <draconicevolution:awakened_core>,          <draconicevolution:draconium_block>],
-                                    [<minecraft:nether_star>,               <iceandfire:armor_sapphire_chestplate>,     <minecraft:nether_star>],
-                                    [<draconicevolution:draconium_block>,   <draconicevolution:wyvern_energy_core>,     <draconicevolution:draconium_block>]]);
-
-recipes.addShaped(u_wyvern_chest,  [[<draconicevolution:draconium_block>,   <draconicevolution:awakened_core>,          <draconicevolution:draconium_block>],
-                                    [<minecraft:nether_star>,               <iceandfire:armor_silver_chestplate>,       <minecraft:nether_star>],
-                                    [<draconicevolution:draconium_block>,   <draconicevolution:wyvern_energy_core>,     <draconicevolution:draconium_block>]]);
-
-recipes.addShaped(u_wyvern_chest,  [[<draconicevolution:draconium_block>,   <draconicevolution:awakened_core>,          <draconicevolution:draconium_block>],
-                                    [<minecraft:nether_star>,               <iceandfire:armor_electric_chestplate>,     <minecraft:nether_star>],
-                                    [<draconicevolution:draconium_block>,   <draconicevolution:wyvern_energy_core>,     <draconicevolution:draconium_block>]]);
-
-recipes.addShaped(u_wyvern_chest,  [[<draconicevolution:draconium_block>,   <draconicevolution:awakened_core>,          <draconicevolution:draconium_block>],
-                                    [<minecraft:nether_star>,               <iceandfire:armor_amethyst_chestplate>,     <minecraft:nether_star>],
-                                    [<draconicevolution:draconium_block>,   <draconicevolution:wyvern_energy_core>,     <draconicevolution:draconium_block>]]);
-
-recipes.addShaped(u_wyvern_chest,  [[<draconicevolution:draconium_block>,   <draconicevolution:awakened_core>,          <draconicevolution:draconium_block>],
-                                    [<minecraft:nether_star>,               <iceandfire:armor_copper_chestplate>,       <minecraft:nether_star>],
-                                    [<draconicevolution:draconium_block>,   <draconicevolution:wyvern_energy_core>,     <draconicevolution:draconium_block>]]);
-
-recipes.addShaped(u_wyvern_chest,  [[<draconicevolution:draconium_block>,   <draconicevolution:awakened_core>,          <draconicevolution:draconium_block>],
-                                    [<minecraft:nether_star>,               <iceandfire:armor_black_chestplate>,        <minecraft:nether_star>],
-                                    [<draconicevolution:draconium_block>,   <draconicevolution:wyvern_energy_core>,     <draconicevolution:draconium_block>]]);
-
-//recipes.addShaped(u_wyvern_chest,  [[<draconicevolution:draconium_block>,   <draconicevolution:awakened_core>,          <draconicevolution:draconium_block>],
-//                                    [<minecraft:nether_star>,               <iceandfire:dragonsteel_ice_chestplate>,    <minecraft:nether_star>],
-//                                    [<draconicevolution:draconium_block>,   <draconicevolution:wyvern_energy_core>,     <draconicevolution:draconium_block>]]);
+recipes.addShaped(u_wyvern_chest,  [[<draconicevolution:draconium_block>,   <draconicevolution:awakened_core>,                  <draconicevolution:draconium_block>],
+                                    [<minecraft:nether_star>,               <iceandfire:dragonsteel_lightning_chestplate>,      <minecraft:nether_star>],
+                                    [<draconicevolution:draconium_block>,   <draconicevolution:wyvern_energy_core>,             <draconicevolution:draconium_block>]]);
 
 // Wyvern Legs
 val wyvern_legs = <draconicevolution:wyvern_legs>;
 val u_wyvern_legs = wyvern_legs.withTag({Unbreakable: 1 as byte});
 
-recipes.addShaped(u_wyvern_legs,   [[<draconicevolution:draconium_block>,   <draconicevolution:awakened_core>,          <draconicevolution:draconium_block>],
-                                    [<minecraft:nether_star>,               <iceandfire:armor_red_leggings>,            <minecraft:nether_star>],
-                                    [<draconicevolution:draconium_block>,   <draconicevolution:wyvern_energy_core>,     <draconicevolution:draconium_block>]]);
+recipes.addShaped(u_wyvern_legs,   [[<draconicevolution:draconium_block>,   <draconicevolution:awakened_core>,                  <draconicevolution:draconium_block>],
+                                    [<minecraft:nether_star>,               <iceandfire:dragonsteel_fire_leggings>,             <minecraft:nether_star>],
+                                    [<draconicevolution:draconium_block>,   <draconicevolution:wyvern_energy_core>,             <draconicevolution:draconium_block>]]);
 
-recipes.addShaped(u_wyvern_legs,   [[<draconicevolution:draconium_block>,   <draconicevolution:awakened_core>,          <draconicevolution:draconium_block>],
-                                    [<minecraft:nether_star>,               <iceandfire:armor_bronze_leggings>,         <minecraft:nether_star>],
-                                    [<draconicevolution:draconium_block>,   <draconicevolution:wyvern_energy_core>,     <draconicevolution:draconium_block>]]);
+recipes.addShaped(u_wyvern_legs,   [[<draconicevolution:draconium_block>,   <draconicevolution:awakened_core>,                  <draconicevolution:draconium_block>],
+                                    [<minecraft:nether_star>,               <iceandfire:dragonsteel_ice_leggings>,              <minecraft:nether_star>],
+                                    [<draconicevolution:draconium_block>,   <draconicevolution:wyvern_energy_core>,             <draconicevolution:draconium_block>]]);
 
-recipes.addShaped(u_wyvern_legs,   [[<draconicevolution:draconium_block>,   <draconicevolution:awakened_core>,          <draconicevolution:draconium_block>],
-                                    [<minecraft:nether_star>,               <iceandfire:armor_green_leggings>,          <minecraft:nether_star>],
-                                    [<draconicevolution:draconium_block>,   <draconicevolution:wyvern_energy_core>,     <draconicevolution:draconium_block>]]);
-
-recipes.addShaped(u_wyvern_legs,   [[<draconicevolution:draconium_block>,   <draconicevolution:awakened_core>,          <draconicevolution:draconium_block>],
-                                    [<minecraft:nether_star>,               <iceandfire:armor_gray_leggings>,           <minecraft:nether_star>],
-                                    [<draconicevolution:draconium_block>,   <draconicevolution:wyvern_energy_core>,     <draconicevolution:draconium_block>]]);
-
-recipes.addShaped(u_wyvern_legs,   [[<draconicevolution:draconium_block>,   <draconicevolution:awakened_core>,          <draconicevolution:draconium_block>],
-                                    [<minecraft:nether_star>,               <iceandfire:armor_blue_leggings>,           <minecraft:nether_star>],
-                                    [<draconicevolution:draconium_block>,   <draconicevolution:wyvern_energy_core>,     <draconicevolution:draconium_block>]]);
-
-recipes.addShaped(u_wyvern_legs,   [[<draconicevolution:draconium_block>,   <draconicevolution:awakened_core>,          <draconicevolution:draconium_block>],
-                                    [<minecraft:nether_star>,               <iceandfire:armor_white_leggings>,          <minecraft:nether_star>],
-                                    [<draconicevolution:draconium_block>,   <draconicevolution:wyvern_energy_core>,     <draconicevolution:draconium_block>]]);
-
-recipes.addShaped(u_wyvern_legs,   [[<draconicevolution:draconium_block>,   <draconicevolution:awakened_core>,          <draconicevolution:draconium_block>],
-                                    [<minecraft:nether_star>,               <iceandfire:armor_sapphire_leggings>,       <minecraft:nether_star>],
-                                    [<draconicevolution:draconium_block>,   <draconicevolution:wyvern_energy_core>,     <draconicevolution:draconium_block>]]);
-
-recipes.addShaped(u_wyvern_legs,   [[<draconicevolution:draconium_block>,   <draconicevolution:awakened_core>,          <draconicevolution:draconium_block>],
-                                    [<minecraft:nether_star>,               <iceandfire:armor_silver_leggings>,         <minecraft:nether_star>],
-                                    [<draconicevolution:draconium_block>,   <draconicevolution:wyvern_energy_core>,     <draconicevolution:draconium_block>]]);
-
-recipes.addShaped(u_wyvern_legs,   [[<draconicevolution:draconium_block>,   <draconicevolution:awakened_core>,          <draconicevolution:draconium_block>],
-                                    [<minecraft:nether_star>,               <iceandfire:armor_electric_leggings>,       <minecraft:nether_star>],
-                                    [<draconicevolution:draconium_block>,   <draconicevolution:wyvern_energy_core>,     <draconicevolution:draconium_block>]]);
-
-recipes.addShaped(u_wyvern_legs,   [[<draconicevolution:draconium_block>,   <draconicevolution:awakened_core>,          <draconicevolution:draconium_block>],
-                                    [<minecraft:nether_star>,               <iceandfire:armor_amethyst_leggings>,       <minecraft:nether_star>],
-                                    [<draconicevolution:draconium_block>,   <draconicevolution:wyvern_energy_core>,     <draconicevolution:draconium_block>]]);
-
-recipes.addShaped(u_wyvern_legs,   [[<draconicevolution:draconium_block>,   <draconicevolution:awakened_core>,          <draconicevolution:draconium_block>],
-                                    [<minecraft:nether_star>,               <iceandfire:armor_copper_leggings>,         <minecraft:nether_star>],
-                                    [<draconicevolution:draconium_block>,   <draconicevolution:wyvern_energy_core>,     <draconicevolution:draconium_block>]]);
-
-recipes.addShaped(u_wyvern_legs,   [[<draconicevolution:draconium_block>,   <draconicevolution:awakened_core>,          <draconicevolution:draconium_block>],
-                                    [<minecraft:nether_star>,               <iceandfire:armor_black_leggings>,          <minecraft:nether_star>],
-                                    [<draconicevolution:draconium_block>,   <draconicevolution:wyvern_energy_core>,     <draconicevolution:draconium_block>]]);
-
-//recipes.addShaped(u_wyvern_legs,   [[<draconicevolution:draconium_block>,   <draconicevolution:awakened_core>,          <draconicevolution:draconium_block>],
-//                                    [<minecraft:nether_star>,               <iceandfire:dragonsteel_ice_leggings>,      <minecraft:nether_star>],
-//                                    [<draconicevolution:draconium_block>,   <draconicevolution:wyvern_energy_core>,     <draconicevolution:draconium_block>]]);
+recipes.addShaped(u_wyvern_legs,   [[<draconicevolution:draconium_block>,   <draconicevolution:awakened_core>,                  <draconicevolution:draconium_block>],
+                                    [<minecraft:nether_star>,               <iceandfire:dragonsteel_lightning_leggings>,        <minecraft:nether_star>],
+                                    [<draconicevolution:draconium_block>,   <draconicevolution:wyvern_energy_core>,             <draconicevolution:draconium_block>]]);
 
 // Wyvern Boots
 val wyvern_boots = <draconicevolution:wyvern_boots>;
 val u_wyvern_boots = wyvern_boots.withTag({Unbreakable: 1 as byte});
 
-recipes.addShaped(u_wyvern_boots,  [[<draconicevolution:draconium_block>,   <draconicevolution:awakened_core>,          <draconicevolution:draconium_block>],
-                                    [<minecraft:nether_star>,               <iceandfire:armor_red_boots>,               <minecraft:nether_star>],
-                                    [<draconicevolution:draconium_block>,   <draconicevolution:wyvern_energy_core>,     <draconicevolution:draconium_block>]]);
+recipes.addShaped(u_wyvern_boots,  [[<draconicevolution:draconium_block>,   <draconicevolution:awakened_core>,                  <draconicevolution:draconium_block>],
+                                    [<minecraft:nether_star>,               <iceandfire:dragonsteel_fire_boots>,                <minecraft:nether_star>],
+                                    [<draconicevolution:draconium_block>,   <draconicevolution:wyvern_energy_core>,             <draconicevolution:draconium_block>]]);
 
-recipes.addShaped(u_wyvern_boots,  [[<draconicevolution:draconium_block>,   <draconicevolution:awakened_core>,          <draconicevolution:draconium_block>],
-                                    [<minecraft:nether_star>,               <iceandfire:armor_bronze_boots>,            <minecraft:nether_star>],
-                                    [<draconicevolution:draconium_block>,   <draconicevolution:wyvern_energy_core>,     <draconicevolution:draconium_block>]]);
+recipes.addShaped(u_wyvern_boots,  [[<draconicevolution:draconium_block>,   <draconicevolution:awakened_core>,                  <draconicevolution:draconium_block>],
+                                    [<minecraft:nether_star>,               <iceandfire:dragonsteel_ice_boots>,                 <minecraft:nether_star>],
+                                    [<draconicevolution:draconium_block>,   <draconicevolution:wyvern_energy_core>,             <draconicevolution:draconium_block>]]);
 
-recipes.addShaped(u_wyvern_boots,  [[<draconicevolution:draconium_block>,   <draconicevolution:awakened_core>,          <draconicevolution:draconium_block>],
-                                    [<minecraft:nether_star>,               <iceandfire:armor_green_boots>,             <minecraft:nether_star>],
-                                    [<draconicevolution:draconium_block>,   <draconicevolution:wyvern_energy_core>,     <draconicevolution:draconium_block>]]);
-
-recipes.addShaped(u_wyvern_boots,  [[<draconicevolution:draconium_block>,   <draconicevolution:awakened_core>,          <draconicevolution:draconium_block>],
-                                    [<minecraft:nether_star>,               <iceandfire:armor_gray_boots>,              <minecraft:nether_star>],
-                                    [<draconicevolution:draconium_block>,   <draconicevolution:wyvern_energy_core>,     <draconicevolution:draconium_block>]]);
-
-recipes.addShaped(u_wyvern_boots,  [[<draconicevolution:draconium_block>,   <draconicevolution:awakened_core>,          <draconicevolution:draconium_block>],
-                                    [<minecraft:nether_star>,               <iceandfire:armor_blue_boots>,              <minecraft:nether_star>],
-                                    [<draconicevolution:draconium_block>,   <draconicevolution:wyvern_energy_core>,     <draconicevolution:draconium_block>]]);
-
-recipes.addShaped(u_wyvern_boots,  [[<draconicevolution:draconium_block>,   <draconicevolution:awakened_core>,          <draconicevolution:draconium_block>],
-                                    [<minecraft:nether_star>,               <iceandfire:armor_white_boots>,             <minecraft:nether_star>],
-                                    [<draconicevolution:draconium_block>,   <draconicevolution:wyvern_energy_core>,     <draconicevolution:draconium_block>]]);
-
-recipes.addShaped(u_wyvern_boots,  [[<draconicevolution:draconium_block>,   <draconicevolution:awakened_core>,          <draconicevolution:draconium_block>],
-                                    [<minecraft:nether_star>,               <iceandfire:armor_sapphire_boots>,          <minecraft:nether_star>],
-                                    [<draconicevolution:draconium_block>,   <draconicevolution:wyvern_energy_core>,     <draconicevolution:draconium_block>]]);
-
-recipes.addShaped(u_wyvern_boots,  [[<draconicevolution:draconium_block>,   <draconicevolution:awakened_core>,          <draconicevolution:draconium_block>],
-                                    [<minecraft:nether_star>,               <iceandfire:armor_silver_boots>,            <minecraft:nether_star>],
-                                    [<draconicevolution:draconium_block>,   <draconicevolution:wyvern_energy_core>,     <draconicevolution:draconium_block>]]);
-
-recipes.addShaped(u_wyvern_boots,  [[<draconicevolution:draconium_block>,   <draconicevolution:awakened_core>,          <draconicevolution:draconium_block>],
-                                    [<minecraft:nether_star>,               <iceandfire:armor_electric_boots>,          <minecraft:nether_star>],
-                                    [<draconicevolution:draconium_block>,   <draconicevolution:wyvern_energy_core>,     <draconicevolution:draconium_block>]]);
-
-recipes.addShaped(u_wyvern_boots,  [[<draconicevolution:draconium_block>,   <draconicevolution:awakened_core>,          <draconicevolution:draconium_block>],
-                                    [<minecraft:nether_star>,               <iceandfire:armor_amethyst_boots>,          <minecraft:nether_star>],
-                                    [<draconicevolution:draconium_block>,   <draconicevolution:wyvern_energy_core>,     <draconicevolution:draconium_block>]]);
-
-recipes.addShaped(u_wyvern_boots,  [[<draconicevolution:draconium_block>,   <draconicevolution:awakened_core>,          <draconicevolution:draconium_block>],
-                                    [<minecraft:nether_star>,               <iceandfire:armor_copper_boots>,            <minecraft:nether_star>],
-                                    [<draconicevolution:draconium_block>,   <draconicevolution:wyvern_energy_core>,     <draconicevolution:draconium_block>]]);
-
-recipes.addShaped(u_wyvern_boots,  [[<draconicevolution:draconium_block>,   <draconicevolution:awakened_core>,          <draconicevolution:draconium_block>],
-                                    [<minecraft:nether_star>,               <iceandfire:armor_black_boots>,             <minecraft:nether_star>],
-                                    [<draconicevolution:draconium_block>,   <draconicevolution:wyvern_energy_core>,     <draconicevolution:draconium_block>]]);
-
-//recipes.addShaped(u_wyvern_boots,  [[<draconicevolution:draconium_block>,   <draconicevolution:awakened_core>,          <draconicevolution:draconium_block>],
-//                                    [<minecraft:nether_star>,               <iceandfire:dragonsteel_ice_boots>,         <minecraft:nether_star>],
-//                                    [<draconicevolution:draconium_block>,   <draconicevolution:wyvern_energy_core>,     <draconicevolution:draconium_block>]]);
+recipes.addShaped(u_wyvern_boots,  [[<draconicevolution:draconium_block>,   <draconicevolution:awakened_core>,                  <draconicevolution:draconium_block>],
+                                    [<minecraft:nether_star>,               <iceandfire:dragonsteel_lightning_boots>,           <minecraft:nether_star>],
+                                    [<draconicevolution:draconium_block>,   <draconicevolution:wyvern_energy_core>,             <draconicevolution:draconium_block>]]);
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 // Wyvern Tools
@@ -315,7 +155,7 @@ mods.avaritia.ExtremeCrafting.addShaped("Longbow of the Heavens", <avaritia:infi
 ]);
 
 mods.avaritia.ExtremeCrafting.addShaped("Sword of the Cosmos", <avaritia:infinity_sword>, [
-    [<erebus:wasp_sword>,                   <draconicevolution:chaotic_core>,       <psi:psimetal_sword>,                   <draconicevolution:chaotic_core>,       <draconicadditions:chaotic_staff_of_power>.withTag({DEUpgrades: {attackDmg: 4 as byte, digSpeed: 4 as byte, digAOE: 4 as byte, rfCap: 4 as byte, attackAOE: 4 as byte}, Energy: 1920000000}),   <draconicevolution:chaotic_core>,       <draconicevolution:chaotic_core>,                                   <avaritia:resource:6>,                      <avaritia:resource:6>], 
+    [<abyssalcraft:soulreaper>,              <draconicevolution:chaotic_core>,       <psi:psimetal_sword>,                   <draconicevolution:chaotic_core>,       <draconicadditions:chaotic_staff_of_power>.withTag({DEUpgrades: {attackDmg: 4 as byte, digSpeed: 4 as byte, digAOE: 4 as byte, rfCap: 4 as byte, attackAOE: 4 as byte}, Energy: 1920000000}),   <draconicevolution:chaotic_core>,       <draconicevolution:chaotic_core>,                                   <avaritia:resource:6>,                      <avaritia:resource:6>], 
     [<draconicevolution:chaotic_core>,      <aether_legacy:holy_sword>,             <draconicevolution:chaotic_core>,       <red_omega_custom_swords:energy_sword>, <draconicevolution:chaotic_core>,                                                                                                                                                               <draconicevolution:chaotic_core>,       <avaritia:resource:6>,                                              <avaritia:resource:6>,                      <avaritia:resource:6>], 
     [<cqrepoured:sword_turtle>,             <draconicevolution:chaotic_core>,       <extrautils2:lawsword>,                 <draconicevolution:chaotic_core>,       <draconicevolution:chaotic_core>,                                                                                                                                                               <avaritia:resource:6>,                  <avaritia:resource:6>,                                              <avaritia:resource:6>,                      <draconicevolution:chaotic_core>], 
     [<draconicevolution:chaotic_core>,      <draconicevolution:chaotic_core>,       <draconicevolution:chaotic_core>,       <draconicevolution:chaotic_core>,       <avaritia:resource:6>,                                                                                                                                                                          <avaritia:resource:6>,                  <avaritia:resource:6>,                                              <draconicevolution:chaotic_core>,           <draconicevolution:chaotic_core>], 
@@ -337,7 +177,7 @@ mods.avaritia.ExtremeCrafting.addShaped("Infinity Helmet", <avaritia:infinity_he
     [<draconicevolution:chaotic_core>,      <avaritia:resource:4>,                  <avaritia:resource:6>,                                                                                                                                                                                                                                                                                                                                                                                                          <avaritia:resource:6>,                                          <avaritia:resource:6>,                                                                                                                                              <avaritia:resource:6>,                  <avaritia:resource:6>,                                                                                                                                              <avaritia:resource:4>,                  <draconicevolution:chaotic_core>], 
     [<draconicevolution:chaotic_core>,      <avaritia:resource:4>,                  <avaritia:resource:6>,                                                                                                                                                                                                                                                                                                                                                                                                          <draconicevolution:chaotic_core>,                               <avaritia:resource:6>,                                                                                                                                              <draconicevolution:chaotic_core>,       <avaritia:resource:6>,                                                                                                                                              <avaritia:resource:4>,                  <draconicevolution:chaotic_core>], 
     [<draconicevolution:chaotic_core>,      <draconicevolution:chaotic_core>,       <enderio:item_end_steel_helmet>.withTag({"enderio.darksteel.upgrade.soundDetector": {level: 0}, "enderio.darksteel.upgrade.energyUpgrade": {level: 4, energy: 2500000}, "enderio.darksteel.upgrade.inv": {level: 2}, "enderio.darksteel.upgrade.nightVision": {level: 0}, "enderio.darksteel.upgrade.padding": {level: 0}, "enderio.darksteel.upgrade.solar": {level: 3}, "enderio.darksteel.upgrade.anvil": {level: 2}}),      <draconicevolution:chaotic_core>,                               <draconicadditions:chaotic_helm>.withTag({DEUpgrades: {shieldRec: 4 as byte, shieldCap: 4 as byte, rfCap: 4 as byte}, Energy: 512000000, isStable: 1 as byte}),     <draconicevolution:chaotic_core>,       <botania:terrasteelhelm>.withTag({AncientWill3: 1 as byte, AncientWill5: 1 as byte, AncientWill4: 1 as byte, AncientWill1: 1 as byte, AncientWill0: 1 as byte}),    <draconicevolution:chaotic_core>,       <draconicevolution:chaotic_core>], 
-    [<draconicevolution:chaotic_core>,      <erebus:mushroom_helmet>,               <draconicevolution:chaotic_core>,                                                                                                                                                                                                                                                                                                                                                                                               <gregtech:gt_armor:20>.withTag({Charge: 6400000 as long}),      <draconicevolution:chaotic_core>,                                                                                                                                   <psi:psimetal_exosuit_helmet>,          <draconicevolution:chaotic_core>,                                                                                                                                   <pneumaticcraft:pneumatic_helmet>,      <draconicevolution:chaotic_core>], 
+    [<draconicevolution:chaotic_core>,      <abyssalcraft:corhelmetp>,              <draconicevolution:chaotic_core>,                                                                                                                                                                                                                                                                                                                                                                                               <gregtech:gt_armor:20>.withTag({Charge: 6400000 as long}),      <draconicevolution:chaotic_core>,                                                                                                                                   <psi:psimetal_exosuit_helmet>,          <draconicevolution:chaotic_core>,                                                                                                                                   <pneumaticcraft:pneumatic_helmet>,      <draconicevolution:chaotic_core>], 
     [<techguns:t4_power_helmet>,            <draconicevolution:chaotic_core>,       <cqrepoured:helmet_turtle>,                                                                                                                                                                                                                                                                                                                                                                                                     <draconicevolution:chaotic_core>,                               <aether_legacy:valkyrie_helmet>,                                                                                                                                    <draconicevolution:chaotic_core>,       <ebwizardry:battlemage_helmet>,                                                                                                                                     <draconicevolution:chaotic_core>,       <twilightforest:yeti_helmet>]
 ]);
 
@@ -349,7 +189,7 @@ mods.avaritia.ExtremeCrafting.addShaped("Infinity Helmet Revealing", <avaritia:i
     [<draconicevolution:chaotic_core>,      <avaritia:resource:4>,                  <avaritia:resource:6>,                                                                                                                                                                                                                                                                                                                                                                                                          <avaritia:resource:6>,                                          <avaritia:resource:6>,                                                                                                                                              <avaritia:resource:6>,                  <avaritia:resource:6>,                                                                                                                                                      <avaritia:resource:4>,                  <draconicevolution:chaotic_core>], 
     [<draconicevolution:chaotic_core>,      <avaritia:resource:4>,                  <avaritia:resource:6>,                                                                                                                                                                                                                                                                                                                                                                                                          <draconicevolution:chaotic_core>,                               <avaritia:resource:6>,                                                                                                                                              <draconicevolution:chaotic_core>,       <avaritia:resource:6>,                                                                                                                                                      <avaritia:resource:4>,                  <draconicevolution:chaotic_core>], 
     [<draconicevolution:chaotic_core>,      <draconicevolution:chaotic_core>,       <enderio:item_end_steel_helmet>.withTag({"enderio.darksteel.upgrade.soundDetector": {level: 0}, "enderio.darksteel.upgrade.energyUpgrade": {level: 4, energy: 2500000}, "enderio.darksteel.upgrade.inv": {level: 2}, "enderio.darksteel.upgrade.nightVision": {level: 0}, "enderio.darksteel.upgrade.padding": {level: 0}, "enderio.darksteel.upgrade.solar": {level: 3}, "enderio.darksteel.upgrade.anvil": {level: 2}}),      <draconicevolution:chaotic_core>,                               <draconicadditions:chaotic_helm>.withTag({DEUpgrades: {shieldRec: 4 as byte, shieldCap: 4 as byte, rfCap: 4 as byte}, Energy: 512000000, isStable: 1 as byte}),     <draconicevolution:chaotic_core>,       <botania:terrasteelhelmreveal>.withTag({AncientWill3: 1 as byte, AncientWill5: 1 as byte, AncientWill4: 1 as byte, AncientWill1: 1 as byte, AncientWill0: 1 as byte}),      <draconicevolution:chaotic_core>,       <draconicevolution:chaotic_core>], 
-    [<draconicevolution:chaotic_core>,      <erebus:mushroom_helmet>,               <draconicevolution:chaotic_core>,                                                                                                                                                                                                                                                                                                                                                                                               <gregtech:gt_armor:20>.withTag({Charge: 6400000 as long}),      <draconicevolution:chaotic_core>,                                                                                                                                   <psi:psimetal_exosuit_helmet>,          <draconicevolution:chaotic_core>,                                                                                                                                           <pneumaticcraft:pneumatic_helmet>,      <draconicevolution:chaotic_core>], 
+    [<draconicevolution:chaotic_core>,      <abyssalcraft:corhelmetp>,              <draconicevolution:chaotic_core>,                                                                                                                                                                                                                                                                                                                                                                                               <gregtech:gt_armor:20>.withTag({Charge: 6400000 as long}),      <draconicevolution:chaotic_core>,                                                                                                                                   <psi:psimetal_exosuit_helmet>,          <draconicevolution:chaotic_core>,                                                                                                                                           <pneumaticcraft:pneumatic_helmet>,      <draconicevolution:chaotic_core>], 
     [<techguns:t4_power_helmet>,            <draconicevolution:chaotic_core>,       <cqrepoured:helmet_turtle>,                                                                                                                                                                                                                                                                                                                                                                                                     <draconicevolution:chaotic_core>,                               <aether_legacy:valkyrie_helmet>,                                                                                                                                    <draconicevolution:chaotic_core>,       <ebwizardry:battlemage_helmet>,                                                                                                                                             <draconicevolution:chaotic_core>,       <twilightforest:yeti_helmet>]
 ]);
 
@@ -362,7 +202,7 @@ mods.avaritia.ExtremeCrafting.addShaped("Infinity Breastplate", <avaritia:infini
     [<draconicevolution:chaotic_core>,                              <avaritia:resource:4>,                  <avaritia:resource:6>,      <avaritia:resource:6>,                                                                                                                                                                                                                                                  <avaritia:resource:6>,                                                                                                                                                                      <avaritia:resource:6>,                  <avaritia:resource:6>,      <avaritia:resource:4>,                  <draconicevolution:chaotic_core>], 
     [<techguns:t4_power_chestplate>,                                <avaritia:resource:4>,                  <avaritia:resource:6>,      <avaritia:resource:6>,                                                                                                                                                                                                                                                  <avaritia:resource:6>,                                                                                                                                                                      <avaritia:resource:6>,                  <avaritia:resource:6>,      <avaritia:resource:4>,                  <ebwizardry:battlemage_chestplate>], 
     [<draconicevolution:chaotic_core>,                              <avaritia:resource:4>,                  <avaritia:resource:6>,      <avaritia:resource:6>,                                                                                                                                                                                                                                                  <avaritia:resource:6>,                                                                                                                                                                      <avaritia:resource:6>,                  <avaritia:resource:6>,      <avaritia:resource:4>,                  <draconicevolution:chaotic_core>], 
-    [<aether_legacy:valkyrie_chestplate>,                           <draconicevolution:chaotic_core>,       <avaritia:resource:4>,      <avaritia:resource:4>,                                                                                                                                                                                                                                                  <avaritia:resource:4>,                                                                                                                                                                      <avaritia:resource:4>,                  <avaritia:resource:4>,      <draconicevolution:chaotic_core>,       <erebus:spider_t_shirt>]
+    [<aether_legacy:valkyrie_chestplate>,                           <draconicevolution:chaotic_core>,       <avaritia:resource:4>,      <avaritia:resource:4>,                                                                                                                                                                                                                                                  <avaritia:resource:4>,                                                                                                                                                                      <avaritia:resource:4>,                  <avaritia:resource:4>,      <draconicevolution:chaotic_core>,       <abyssalcraft:corplatep>]
 ]);
 
 mods.avaritia.ExtremeCrafting.addShaped("Infinity Leggings", <avaritia:infinity_pants>, [
@@ -374,7 +214,7 @@ mods.avaritia.ExtremeCrafting.addShaped("Infinity Leggings", <avaritia:infinity_
     [<avaritia:resource:4>,     <avaritia:resource:6>,          <avaritia:resource:4>,      <draconicevolution:chaotic_core>,                                                                                                                                                                                                                                       <psi:psimetal_exosuit_leggings>,                                                                                                                                                        <draconicevolution:chaotic_core>,                               <avaritia:resource:4>,      <avaritia:resource:6>,          <avaritia:resource:4>], 
     [<avaritia:resource:4>,     <avaritia:resource:6>,          <avaritia:resource:4>,      <pneumaticcraft:pneumatic_leggings>,                                                                                                                                                                                                                                    <ebwizardry:battlemage_leggings>,                                                                                                                                                       <gregtech:gt_armor:22>.withTag({Charge: 6400000 as long}),      <avaritia:resource:4>,      <avaritia:resource:6>,          <avaritia:resource:4>], 
     [<avaritia:resource:4>,     <avaritia:resource:6>,          <avaritia:resource:4>,      <draconicevolution:chaotic_core>,                                                                                                                                                                                                                                       <twilightforest:yeti_leggings>,                                                                                                                                                         <draconicevolution:chaotic_core>,                               <avaritia:resource:4>,      <avaritia:resource:6>,          <avaritia:resource:4>], 
-    [<avaritia:resource:4>,     <avaritia:resource:4>,          <avaritia:resource:4>,      <cqrepoured:leggings_turtle>,                                                                                                                                                                                                                                           <erebus:sprint_leggings>.withTag({upgradeTier: 9 as byte}),                                                                                                                             <aether_legacy:valkyrie_leggings>,                              <avaritia:resource:4>,      <avaritia:resource:4>,          <avaritia:resource:4>]
+    [<avaritia:resource:4>,     <avaritia:resource:4>,          <avaritia:resource:4>,      <cqrepoured:leggings_turtle>,                                                                                                                                                                                                                                           <abyssalcraft:corlegsp>,                                                                                                                                                                <aether_legacy:valkyrie_leggings>,                              <avaritia:resource:4>,      <avaritia:resource:4>,          <avaritia:resource:4>]
 ]);
 
 mods.avaritia.ExtremeCrafting.addShaped("Infinity Boots", <avaritia:infinity_boots>, [
@@ -385,7 +225,7 @@ mods.avaritia.ExtremeCrafting.addShaped("Infinity Boots", <avaritia:infinity_boo
     [<avaritia:resource:4>,                 <avaritia:resource:6>,                      <avaritia:resource:6>,                                                                                                                                                                                                                                                                                                                                                  <avaritia:resource:4>,                                          <draconicevolution:chaotic_core>,                                                                                                                                                           <avaritia:resource:4>,                  <avaritia:resource:6>,                  <avaritia:resource:6>,                  <avaritia:resource:4>], 
     [<avaritia:resource:4>,                 <avaritia:resource:4>,                      <avaritia:resource:4>,                                                                                                                                                                                                                                                                                                                                                  <avaritia:resource:4>,                                          <draconicevolution:chaotic_core>,                                                                                                                                                           <avaritia:resource:4>,                  <avaritia:resource:4>,                  <avaritia:resource:4>,                  <avaritia:resource:4>], 
     [<draconicevolution:chaotic_core>,      <draconicevolution:chaotic_core>,           <enderio:item_end_steel_boots>.withTag({"enderio.darksteel.upgrade.jumpBoost": {level: 3}, "enderio.darksteel.upgrade.swim": {level: 0}, "enderio.darksteel.upgrade.energyUpgrade": {level: 4, energy: 2500000}, "enderio.darksteel.upgrade.inv": {level: 2}, "enderio.darksteel.upgrade.anvil": {level: 2}, "enderio.darksteel.upgrade.step_assist": {level: 0}}),     <draconicevolution:chaotic_core>,                               <draconicadditions:chaotic_boots>.withTag({DEUpgrades: {shieldRec: 4 as byte, shieldCap: 4 as byte, rfCap: 4 as byte, jumpBoost: 4 as byte}, Energy: 512000000, isStable: 1 as byte}),      <draconicevolution:chaotic_core>,       <botania:terrasteelboots>,              <draconicevolution:chaotic_core>,       <draconicevolution:chaotic_core>], 
-    [<draconicevolution:chaotic_core>,      <erebus:water_striders>,                    <draconicevolution:chaotic_core>,                                                                                                                                                                                                                                                                                                                                       <gregtech:gt_armor:23>.withTag({Charge: 6400000 as long}),      <draconicevolution:chaotic_core>,                                                                                                                                                           <psi:psimetal_exosuit_boots>,           <draconicevolution:chaotic_core>,       <pneumaticcraft:pneumatic_boots>,        <draconicevolution:chaotic_core>], 
+    [<draconicevolution:chaotic_core>,      <abyssalcraft:corbootsp>,                   <draconicevolution:chaotic_core>,                                                                                                                                                                                                                                                                                                                                       <gregtech:gt_armor:23>.withTag({Charge: 6400000 as long}),      <draconicevolution:chaotic_core>,                                                                                                                                                           <psi:psimetal_exosuit_boots>,           <draconicevolution:chaotic_core>,       <pneumaticcraft:pneumatic_boots>,        <draconicevolution:chaotic_core>], 
     [<techguns:t4_power_boots>,             <draconicevolution:chaotic_core>,           <cqrepoured:boots_turtle>,                                                                                                                                                                                                                                                                                                                                              <draconicevolution:chaotic_core>,                               <aether_legacy:valkyrie_boots>,                                                                                                                                                             <draconicevolution:chaotic_core>,       <ebwizardry:battlemage_boots>,          <draconicevolution:chaotic_core>,       <twilightforest:yeti_boots>]
 ]);
 
@@ -403,3 +243,210 @@ mods.avaritia.ExtremeCrafting.addShaped("Asgardandelion", <botania:specialflower
     [null,                                                              <avaritia:resource:3>,                                              <avaritia:resource:3>,                                              null,                                                               <avaritia:resource:4>,      null,                                                               <avaritia:resource:3>,                                              <avaritia:resource:3>,                                              null], 
     [<avaritia:matter_cluster>.withTag({clusteritems: {total: 4096}}),  <avaritia:matter_cluster>.withTag({clusteritems: {total: 4096}}),   <avaritia:matter_cluster>.withTag({clusteritems: {total: 4096}}),   <avaritia:matter_cluster>.withTag({clusteritems: {total: 4096}}),   <avaritia:resource:4>,      <avaritia:matter_cluster>.withTag({clusteritems: {total: 4096}}),   <avaritia:matter_cluster>.withTag({clusteritems: {total: 4096}}),   <avaritia:matter_cluster>.withTag({clusteritems: {total: 4096}}),   <avaritia:matter_cluster>.withTag({clusteritems: {total: 4096}})]
 ]);
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+// Creative CAD
+
+mods.avaritia.ExtremeCrafting.addShaped("Creative CAD Assembly", <psi:cad_assembly:5>, [
+    [null,                  null,                               null,                               null,                               null,                       null,                           null,                   null,                               null],
+    [null,                  null,                               null,                               null,                               <avaritia:resource:6>,      <avaritia:resource:6>,          <avaritia:resource:6>,  null,                               null], 
+    [<ore:ingotDawnstone>,  <draconicevolution:chaotic_core>,   <draconicevolution:chaotic_core>,   <ore:ingotDawnstone>,               <avaritia:resource:6>,      <avaritia:block_resource:1>,    <avaritia:resource:6>,  <draconicevolution:chaotic_core>,   <ore:ingotDawnstone>], 
+    [null,                  <ore:ingotDawnstone>,               <extrabotany:blockorichalcos>,      <extrabotany:blockorichalcos>,      <avaritia:resource:6>,      <avaritia:resource:6>,          <avaritia:resource:6>,  <draconicevolution:chaotic_core>,   <ore:ingotDawnstone>], 
+    [<ore:ingotDawnstone>,  <psi:psi_decorative:7>,             <psi:psi_decorative:7>,             <ore:ingotDawnstone>,               <psi:psi_decorative:8>,     <ore:blockDawnstone>,           <psi:psi_decorative:8>, <ore:blockDawnstone>,               <ore:ingotDawnstone>], 
+    [<ore:ingotDawnstone>,  <psi:psi_decorative:7>,             <ore:ingotDawnstone>,               <draconicevolution:chaotic_core>,   <ore:ingotDawnstone>,       <ore:ingotDawnstone>,           <ore:ingotDawnstone>,   <ore:ingotDawnstone>,               <ore:ingotDawnstone>], 
+    [<ore:ingotDawnstone>,  <psi:psi_decorative:7>,             <ore:ingotDawnstone>,               null,                               null,                       null,                           null,                   null,                               null], 
+    [null,                  <ore:ingotDawnstone>,               null,                               null,                               null,                       null,                           null,                   null,                               null], 
+    [null,                  null,                               null,                               null,                               null,                       null,                           null,                   null,                               null]
+]);
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+// EnderIO Creative Capacitor Bank
+
+mods.avaritia.ExtremeCrafting.addShaped("Creative Capacitor Bank", <enderio:block_cap_bank>, [
+    [null,  null,                   null,                                                               null,                                                               null,                                                               null,                                                               null,                                                               null,                  null],
+    [null,  <minecraft:bedrock>,    <minecraft:bedrock>,                                                <minecraft:bedrock>,                                                <minecraft:bedrock>,                                                <minecraft:bedrock>,                                                <minecraft:bedrock>,                                                <minecraft:bedrock>,   null], 
+    [null,  <minecraft:bedrock>,    <avaritia:resource:5>,                                              <enderio:block_cap_bank:3>.withTag({"enderio:energy": 25000000}),   <enderio:block_cap_bank:3>.withTag({"enderio:energy": 25000000}),   <enderio:block_cap_bank:3>.withTag({"enderio:energy": 25000000}),   <avaritia:resource:5>,                                              <minecraft:bedrock>,   null], 
+    [null,  <minecraft:bedrock>,    <enderio:block_cap_bank:3>.withTag({"enderio:energy": 25000000}),   <enderio:block_cap_bank:3>.withTag({"enderio:energy": 25000000}),   <enderio:block_cap_bank:3>.withTag({"enderio:energy": 25000000}),   <enderio:block_cap_bank:3>.withTag({"enderio:energy": 25000000}),   <enderio:block_cap_bank:3>.withTag({"enderio:energy": 25000000}),   <minecraft:bedrock>,   null], 
+    [null,  <minecraft:bedrock>,    <enderio:block_cap_bank:3>.withTag({"enderio:energy": 25000000}),   <enderio:block_cap_bank:3>.withTag({"enderio:energy": 25000000}),   <avaritia:block_resource:1>,                                        <enderio:block_cap_bank:3>.withTag({"enderio:energy": 25000000}),   <enderio:block_cap_bank:3>.withTag({"enderio:energy": 25000000}),   <minecraft:bedrock>,   null], 
+    [null,  <minecraft:bedrock>,    <enderio:block_cap_bank:3>.withTag({"enderio:energy": 25000000}),   <enderio:block_cap_bank:3>.withTag({"enderio:energy": 25000000}),   <enderio:block_cap_bank:3>.withTag({"enderio:energy": 25000000}),   <enderio:block_cap_bank:3>.withTag({"enderio:energy": 25000000}),   <enderio:block_cap_bank:3>.withTag({"enderio:energy": 25000000}),   <minecraft:bedrock>,   null], 
+    [null,  <minecraft:bedrock>,    <avaritia:resource:5>,                                              <enderio:block_cap_bank:3>.withTag({"enderio:energy": 25000000}),   <enderio:block_cap_bank:3>.withTag({"enderio:energy": 25000000}),   <enderio:block_cap_bank:3>.withTag({"enderio:energy": 25000000}),   <avaritia:resource:5>,                                              <minecraft:bedrock>,   null], 
+    [null,  <minecraft:bedrock>,    <minecraft:bedrock>,                                                <minecraft:bedrock>,                                                <minecraft:bedrock>,                                                <minecraft:bedrock>,                                                <minecraft:bedrock>,                                                <minecraft:bedrock>,   null], 
+    [null,  null,                   null,                                                               null,                                                               null,                                                               null,                                                               null,                                                               null,                  null]
+]);
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+// Extra Utilities 2 Creative Mill
+
+mods.avaritia.ExtremeCrafting.addShaped("Creative Mill", <extrautils2:passivegenerator:6>, [
+    [<ore:blockAmethyst>,   <ore:blockAmethyst>,                <ore:blockAmethyst>,                <ore:blockAmethyst>,                <ore:blockAmethyst>,                <ore:blockAmethyst>,                <ore:blockAmethyst>,                <ore:blockAmethyst>,                <ore:blockAmethyst>],
+    [<ore:blockAmethyst>,   <extrautils2:passivegenerator:7>,   <extrautils2:passivegenerator:7>,   <extrautils2:passivegenerator:7>,   <extrautils2:passivegenerator:7>,   <extrautils2:passivegenerator:7>,   <extrautils2:passivegenerator:7>,   <extrautils2:passivegenerator:7>,   <ore:blockAmethyst>], 
+    [<ore:blockAmethyst>,   <extrautils2:passivegenerator:7>,   <extrautils2:passivegenerator:4>,   <extrautils2:passivegenerator:4>,   <extrautils2:passivegenerator:8>,   <extrautils2:passivegenerator:2>,   <extrautils2:passivegenerator:2>,   <extrautils2:passivegenerator:7>,   <ore:blockAmethyst>], 
+    [<ore:blockAmethyst>,   <extrautils2:passivegenerator:7>,   <extrautils2:passivegenerator:4>,   <extrautils2:passivegenerator:4>,   <extrautils2:passivegenerator:8>,   <extrautils2:passivegenerator:2>,   <extrautils2:passivegenerator:2>,   <extrautils2:passivegenerator:7>,   <ore:blockAmethyst>], 
+    [<ore:blockAmethyst>,   <extrautils2:passivegenerator:7>,   <extrautils2:passivegenerator:8>,   <extrautils2:passivegenerator:8>,   <avaritia:resource:5>,              <extrautils2:passivegenerator:8>,   <extrautils2:passivegenerator:8>,   <extrautils2:passivegenerator:7>,   <ore:blockAmethyst>], 
+    [<ore:blockAmethyst>,   <extrautils2:passivegenerator:7>,   <extrautils2:passivegenerator:5>,   <extrautils2:passivegenerator:5>,   <extrautils2:passivegenerator:8>,   <extrautils2:passivegenerator:3>,   <extrautils2:passivegenerator:3>,   <extrautils2:passivegenerator:7>,   <ore:blockAmethyst>], 
+    [<ore:blockAmethyst>,   <extrautils2:passivegenerator:7>,   <extrautils2:passivegenerator:5>,   <extrautils2:passivegenerator:5>,   <extrautils2:passivegenerator:8>,   <extrautils2:passivegenerator:3>,   <extrautils2:passivegenerator:3>,   <extrautils2:passivegenerator:7>,   <ore:blockAmethyst>], 
+    [<ore:blockAmethyst>,   <extrautils2:passivegenerator:7>,   <extrautils2:passivegenerator:7>,   <extrautils2:passivegenerator:7>,   <extrautils2:passivegenerator:7>,   <extrautils2:passivegenerator:7>,   <extrautils2:passivegenerator:7>,   <extrautils2:passivegenerator:7>,   <ore:blockAmethyst>], 
+    [<ore:blockAmethyst>,   <ore:blockAmethyst>,                <ore:blockAmethyst>,                <ore:blockAmethyst>,                <ore:blockAmethyst>,                <ore:blockAmethyst>,                <ore:blockAmethyst>,                <ore:blockAmethyst>,                <ore:blockAmethyst>]
+]);
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+// Extra Utilities 2 Creative Harvests
+
+mods.avaritia.ExtremeCrafting.addShaped("Iron Creative Harvest", <extrautils2:creativeharvest>.withTag({creative_block: {meta: 0, block: "minecraft:iron_ore"}, display_stack: {id: "minecraft:iron_ore", Count: 1, Damage: 0 as short}}), [
+    [<minecraft:bedrock>,   <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>],
+    [<minecraft:bedrock>,   <avaritia:resource:5>,      <avaritia:singularity:0>,   <avaritia:singularity:0>,   <avaritia:singularity:0>,   <avaritia:singularity:0>,   <avaritia:singularity:0>,   <avaritia:resource:5>,      <minecraft:bedrock>], 
+    [<minecraft:bedrock>,   <avaritia:singularity:0>,   <avaritia:singularity:0>,   <avaritia:singularity:0>,   <avaritia:singularity:0>,   <avaritia:singularity:0>,   <avaritia:singularity:0>,   <avaritia:singularity:0>,   <minecraft:bedrock>], 
+    [<minecraft:bedrock>,   <avaritia:singularity:0>,   <avaritia:singularity:0>,   <avaritia:singularity:0>,   <avaritia:singularity:0>,   <avaritia:singularity:0>,   <avaritia:singularity:0>,   <avaritia:singularity:0>,   <minecraft:bedrock>], 
+    [<minecraft:bedrock>,   <avaritia:singularity:0>,   <avaritia:singularity:0>,   <avaritia:singularity:0>,   <enderio:block_cap_bank>,   <avaritia:singularity:0>,   <avaritia:singularity:0>,   <avaritia:singularity:0>,   <minecraft:bedrock>], 
+    [<minecraft:bedrock>,   <avaritia:singularity:0>,   <avaritia:singularity:0>,   <avaritia:singularity:0>,   <avaritia:singularity:0>,   <avaritia:singularity:0>,   <avaritia:singularity:0>,   <avaritia:singularity:0>,   <minecraft:bedrock>], 
+    [<minecraft:bedrock>,   <avaritia:singularity:0>,   <avaritia:singularity:0>,   <avaritia:singularity:0>,   <avaritia:singularity:0>,   <avaritia:singularity:0>,   <avaritia:singularity:0>,   <avaritia:singularity:0>,   <minecraft:bedrock>], 
+    [<minecraft:bedrock>,   <avaritia:resource:5>,      <avaritia:singularity:0>,   <avaritia:singularity:0>,   <avaritia:singularity:0>,   <avaritia:singularity:0>,   <avaritia:singularity:0>,   <avaritia:resource:5>,      <minecraft:bedrock>], 
+    [<minecraft:bedrock>,   <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>]
+]);
+
+mods.avaritia.ExtremeCrafting.addShaped("Gold Creative Harvest", <extrautils2:creativeharvest>.withTag({creative_block: {meta: 0, block: "minecraft:gold_ore"}, display_stack: {id: "minecraft:gold_ore", Count: 1, Damage: 0 as short}}), [
+    [<minecraft:bedrock>,   <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>],
+    [<minecraft:bedrock>,   <avaritia:resource:5>,      <avaritia:singularity:1>,   <avaritia:singularity:1>,   <avaritia:singularity:1>,   <avaritia:singularity:1>,   <avaritia:singularity:1>,   <avaritia:resource:5>,      <minecraft:bedrock>], 
+    [<minecraft:bedrock>,   <avaritia:singularity:1>,   <avaritia:singularity:1>,   <avaritia:singularity:1>,   <avaritia:singularity:1>,   <avaritia:singularity:1>,   <avaritia:singularity:1>,   <avaritia:singularity:1>,   <minecraft:bedrock>], 
+    [<minecraft:bedrock>,   <avaritia:singularity:1>,   <avaritia:singularity:1>,   <avaritia:singularity:1>,   <avaritia:singularity:1>,   <avaritia:singularity:1>,   <avaritia:singularity:1>,   <avaritia:singularity:1>,   <minecraft:bedrock>], 
+    [<minecraft:bedrock>,   <avaritia:singularity:1>,   <avaritia:singularity:1>,   <avaritia:singularity:1>,   <enderio:block_cap_bank>,   <avaritia:singularity:1>,   <avaritia:singularity:1>,   <avaritia:singularity:1>,   <minecraft:bedrock>], 
+    [<minecraft:bedrock>,   <avaritia:singularity:1>,   <avaritia:singularity:1>,   <avaritia:singularity:1>,   <avaritia:singularity:1>,   <avaritia:singularity:1>,   <avaritia:singularity:1>,   <avaritia:singularity:1>,   <minecraft:bedrock>], 
+    [<minecraft:bedrock>,   <avaritia:singularity:1>,   <avaritia:singularity:1>,   <avaritia:singularity:1>,   <avaritia:singularity:1>,   <avaritia:singularity:1>,   <avaritia:singularity:1>,   <avaritia:singularity:1>,   <minecraft:bedrock>], 
+    [<minecraft:bedrock>,   <avaritia:resource:5>,      <avaritia:singularity:1>,   <avaritia:singularity:1>,   <avaritia:singularity:1>,   <avaritia:singularity:1>,   <avaritia:singularity:1>,   <avaritia:resource:5>,      <minecraft:bedrock>], 
+    [<minecraft:bedrock>,   <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>]
+]);
+
+mods.avaritia.ExtremeCrafting.addShaped("Lapis Creative Harvest", <extrautils2:creativeharvest>.withTag({creative_block: {meta: 0, block: "minecraft:lapis_ore"}, display_stack: {id: "minecraft:lapis_ore", Count: 1, Damage: 0 as short}}), [
+    [<minecraft:bedrock>,   <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>],
+    [<minecraft:bedrock>,   <avaritia:resource:5>,      <avaritia:singularity:2>,   <avaritia:singularity:2>,   <avaritia:singularity:2>,   <avaritia:singularity:2>,   <avaritia:singularity:2>,   <avaritia:resource:5>,      <minecraft:bedrock>], 
+    [<minecraft:bedrock>,   <avaritia:singularity:2>,   <avaritia:singularity:2>,   <avaritia:singularity:2>,   <avaritia:singularity:2>,   <avaritia:singularity:2>,   <avaritia:singularity:2>,   <avaritia:singularity:2>,   <minecraft:bedrock>], 
+    [<minecraft:bedrock>,   <avaritia:singularity:2>,   <avaritia:singularity:2>,   <avaritia:singularity:2>,   <avaritia:singularity:2>,   <avaritia:singularity:2>,   <avaritia:singularity:2>,   <avaritia:singularity:2>,   <minecraft:bedrock>], 
+    [<minecraft:bedrock>,   <avaritia:singularity:2>,   <avaritia:singularity:2>,   <avaritia:singularity:2>,   <enderio:block_cap_bank>,   <avaritia:singularity:2>,   <avaritia:singularity:2>,   <avaritia:singularity:2>,   <minecraft:bedrock>], 
+    [<minecraft:bedrock>,   <avaritia:singularity:2>,   <avaritia:singularity:2>,   <avaritia:singularity:2>,   <avaritia:singularity:2>,   <avaritia:singularity:2>,   <avaritia:singularity:2>,   <avaritia:singularity:2>,   <minecraft:bedrock>], 
+    [<minecraft:bedrock>,   <avaritia:singularity:2>,   <avaritia:singularity:2>,   <avaritia:singularity:2>,   <avaritia:singularity:2>,   <avaritia:singularity:2>,   <avaritia:singularity:2>,   <avaritia:singularity:2>,   <minecraft:bedrock>], 
+    [<minecraft:bedrock>,   <avaritia:resource:5>,      <avaritia:singularity:2>,   <avaritia:singularity:2>,   <avaritia:singularity:2>,   <avaritia:singularity:2>,   <avaritia:singularity:2>,   <avaritia:resource:5>,      <minecraft:bedrock>], 
+    [<minecraft:bedrock>,   <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>]
+]);
+
+mods.avaritia.ExtremeCrafting.addShaped("Redstone Creative Harvest", <extrautils2:creativeharvest>.withTag({creative_block: {meta: 0, block: "minecraft:redstone_ore"}, display_stack: {id: "minecraft:redstone_ore", Count: 1, Damage: 0 as short}}), [
+    [<minecraft:bedrock>,   <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>],
+    [<minecraft:bedrock>,   <avaritia:resource:5>,      <avaritia:singularity:3>,   <avaritia:singularity:3>,   <avaritia:singularity:3>,   <avaritia:singularity:3>,   <avaritia:singularity:3>,   <avaritia:resource:5>,      <minecraft:bedrock>], 
+    [<minecraft:bedrock>,   <avaritia:singularity:3>,   <avaritia:singularity:3>,   <avaritia:singularity:3>,   <avaritia:singularity:3>,   <avaritia:singularity:3>,   <avaritia:singularity:3>,   <avaritia:singularity:3>,   <minecraft:bedrock>], 
+    [<minecraft:bedrock>,   <avaritia:singularity:3>,   <avaritia:singularity:3>,   <avaritia:singularity:3>,   <avaritia:singularity:3>,   <avaritia:singularity:3>,   <avaritia:singularity:3>,   <avaritia:singularity:3>,   <minecraft:bedrock>], 
+    [<minecraft:bedrock>,   <avaritia:singularity:3>,   <avaritia:singularity:3>,   <avaritia:singularity:3>,   <enderio:block_cap_bank>,   <avaritia:singularity:3>,   <avaritia:singularity:3>,   <avaritia:singularity:3>,   <minecraft:bedrock>], 
+    [<minecraft:bedrock>,   <avaritia:singularity:3>,   <avaritia:singularity:3>,   <avaritia:singularity:3>,   <avaritia:singularity:3>,   <avaritia:singularity:3>,   <avaritia:singularity:3>,   <avaritia:singularity:3>,   <minecraft:bedrock>], 
+    [<minecraft:bedrock>,   <avaritia:singularity:3>,   <avaritia:singularity:3>,   <avaritia:singularity:3>,   <avaritia:singularity:3>,   <avaritia:singularity:3>,   <avaritia:singularity:3>,   <avaritia:singularity:3>,   <minecraft:bedrock>], 
+    [<minecraft:bedrock>,   <avaritia:resource:5>,      <avaritia:singularity:3>,   <avaritia:singularity:3>,   <avaritia:singularity:3>,   <avaritia:singularity:3>,   <avaritia:singularity:3>,   <avaritia:resource:5>,      <minecraft:bedrock>], 
+    [<minecraft:bedrock>,   <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>]
+]);
+
+mods.avaritia.ExtremeCrafting.addShaped("Quartz Creative Harvest", <extrautils2:creativeharvest>.withTag({creative_block: {meta: 0, block: "minecraft:quartz_ore"}, display_stack: {id: "minecraft:quartz_ore", Count: 1, Damage: 0 as short}}), [
+    [<minecraft:bedrock>,   <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>],
+    [<minecraft:bedrock>,   <avaritia:resource:5>,      <avaritia:singularity:4>,   <avaritia:singularity:4>,   <avaritia:singularity:4>,   <avaritia:singularity:4>,   <avaritia:singularity:4>,   <avaritia:resource:5>,      <minecraft:bedrock>], 
+    [<minecraft:bedrock>,   <avaritia:singularity:4>,   <avaritia:singularity:4>,   <avaritia:singularity:4>,   <avaritia:singularity:4>,   <avaritia:singularity:4>,   <avaritia:singularity:4>,   <avaritia:singularity:4>,   <minecraft:bedrock>], 
+    [<minecraft:bedrock>,   <avaritia:singularity:4>,   <avaritia:singularity:4>,   <avaritia:singularity:4>,   <avaritia:singularity:4>,   <avaritia:singularity:4>,   <avaritia:singularity:4>,   <avaritia:singularity:4>,   <minecraft:bedrock>], 
+    [<minecraft:bedrock>,   <avaritia:singularity:4>,   <avaritia:singularity:4>,   <avaritia:singularity:4>,   <enderio:block_cap_bank>,   <avaritia:singularity:4>,   <avaritia:singularity:4>,   <avaritia:singularity:4>,   <minecraft:bedrock>], 
+    [<minecraft:bedrock>,   <avaritia:singularity:4>,   <avaritia:singularity:4>,   <avaritia:singularity:4>,   <avaritia:singularity:4>,   <avaritia:singularity:4>,   <avaritia:singularity:4>,   <avaritia:singularity:4>,   <minecraft:bedrock>], 
+    [<minecraft:bedrock>,   <avaritia:singularity:4>,   <avaritia:singularity:4>,   <avaritia:singularity:4>,   <avaritia:singularity:4>,   <avaritia:singularity:4>,   <avaritia:singularity:4>,   <avaritia:singularity:4>,   <minecraft:bedrock>], 
+    [<minecraft:bedrock>,   <avaritia:resource:5>,      <avaritia:singularity:4>,   <avaritia:singularity:4>,   <avaritia:singularity:4>,   <avaritia:singularity:4>,   <avaritia:singularity:4>,   <avaritia:resource:5>,      <minecraft:bedrock>], 
+    [<minecraft:bedrock>,   <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>]
+]);
+
+mods.avaritia.ExtremeCrafting.addShaped("Copper Creative Harvest", <extrautils2:creativeharvest>.withTag({creative_block: {meta: 0, block: "embers:ore_copper"}, display_stack: {id: "embers:ore_copper", Count: 1, Damage: 0 as short}}), [
+    [<minecraft:bedrock>,   <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>],
+    [<minecraft:bedrock>,   <avaritia:resource:5>,      <avaritia:singularity:5>,   <avaritia:singularity:5>,   <avaritia:singularity:5>,   <avaritia:singularity:5>,   <avaritia:singularity:5>,   <avaritia:resource:5>,      <minecraft:bedrock>], 
+    [<minecraft:bedrock>,   <avaritia:singularity:5>,   <avaritia:singularity:5>,   <avaritia:singularity:5>,   <avaritia:singularity:5>,   <avaritia:singularity:5>,   <avaritia:singularity:5>,   <avaritia:singularity:5>,   <minecraft:bedrock>], 
+    [<minecraft:bedrock>,   <avaritia:singularity:5>,   <avaritia:singularity:5>,   <avaritia:singularity:5>,   <avaritia:singularity:5>,   <avaritia:singularity:5>,   <avaritia:singularity:5>,   <avaritia:singularity:5>,   <minecraft:bedrock>], 
+    [<minecraft:bedrock>,   <avaritia:singularity:5>,   <avaritia:singularity:5>,   <avaritia:singularity:5>,   <enderio:block_cap_bank>,   <avaritia:singularity:5>,   <avaritia:singularity:5>,   <avaritia:singularity:5>,   <minecraft:bedrock>], 
+    [<minecraft:bedrock>,   <avaritia:singularity:5>,   <avaritia:singularity:5>,   <avaritia:singularity:5>,   <avaritia:singularity:5>,   <avaritia:singularity:5>,   <avaritia:singularity:5>,   <avaritia:singularity:5>,   <minecraft:bedrock>], 
+    [<minecraft:bedrock>,   <avaritia:singularity:5>,   <avaritia:singularity:5>,   <avaritia:singularity:5>,   <avaritia:singularity:5>,   <avaritia:singularity:5>,   <avaritia:singularity:5>,   <avaritia:singularity:5>,   <minecraft:bedrock>], 
+    [<minecraft:bedrock>,   <avaritia:resource:5>,      <avaritia:singularity:5>,   <avaritia:singularity:5>,   <avaritia:singularity:5>,   <avaritia:singularity:5>,   <avaritia:singularity:5>,   <avaritia:resource:5>,      <minecraft:bedrock>], 
+    [<minecraft:bedrock>,   <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>]
+]);
+
+mods.avaritia.ExtremeCrafting.addShaped("Tin Creative Harvest", <extrautils2:creativeharvest>.withTag({creative_block: {meta: 0, block: "embers:ore_tin"}, display_stack: {id: "embers:ore_tin", Count: 1, Damage: 0 as short}}), [
+    [<minecraft:bedrock>,   <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>],
+    [<minecraft:bedrock>,   <avaritia:resource:5>,      <avaritia:singularity:6>,   <avaritia:singularity:6>,   <avaritia:singularity:6>,   <avaritia:singularity:6>,   <avaritia:singularity:6>,   <avaritia:resource:5>,      <minecraft:bedrock>], 
+    [<minecraft:bedrock>,   <avaritia:singularity:6>,   <avaritia:singularity:6>,   <avaritia:singularity:6>,   <avaritia:singularity:6>,   <avaritia:singularity:6>,   <avaritia:singularity:6>,   <avaritia:singularity:6>,   <minecraft:bedrock>], 
+    [<minecraft:bedrock>,   <avaritia:singularity:6>,   <avaritia:singularity:6>,   <avaritia:singularity:6>,   <avaritia:singularity:6>,   <avaritia:singularity:6>,   <avaritia:singularity:6>,   <avaritia:singularity:6>,   <minecraft:bedrock>], 
+    [<minecraft:bedrock>,   <avaritia:singularity:6>,   <avaritia:singularity:6>,   <avaritia:singularity:6>,   <enderio:block_cap_bank>,   <avaritia:singularity:6>,   <avaritia:singularity:6>,   <avaritia:singularity:6>,   <minecraft:bedrock>], 
+    [<minecraft:bedrock>,   <avaritia:singularity:6>,   <avaritia:singularity:6>,   <avaritia:singularity:6>,   <avaritia:singularity:6>,   <avaritia:singularity:6>,   <avaritia:singularity:6>,   <avaritia:singularity:6>,   <minecraft:bedrock>], 
+    [<minecraft:bedrock>,   <avaritia:singularity:6>,   <avaritia:singularity:6>,   <avaritia:singularity:6>,   <avaritia:singularity:6>,   <avaritia:singularity:6>,   <avaritia:singularity:6>,   <avaritia:singularity:6>,   <minecraft:bedrock>], 
+    [<minecraft:bedrock>,   <avaritia:resource:5>,      <avaritia:singularity:6>,   <avaritia:singularity:6>,   <avaritia:singularity:6>,   <avaritia:singularity:6>,   <avaritia:singularity:6>,   <avaritia:resource:5>,      <minecraft:bedrock>], 
+    [<minecraft:bedrock>,   <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>]
+]);
+
+mods.avaritia.ExtremeCrafting.addShaped("Lead Creative Harvest", <extrautils2:creativeharvest>.withTag({creative_block: {meta: 0, block: "embers:ore_lead"}, display_stack: {id: "embers:ore_lead", Count: 1, Damage: 0 as short}}), [
+    [<minecraft:bedrock>,   <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>],
+    [<minecraft:bedrock>,   <avaritia:resource:5>,      <avaritia:singularity:7>,   <avaritia:singularity:7>,   <avaritia:singularity:7>,   <avaritia:singularity:7>,   <avaritia:singularity:7>,   <avaritia:resource:5>,      <minecraft:bedrock>], 
+    [<minecraft:bedrock>,   <avaritia:singularity:7>,   <avaritia:singularity:7>,   <avaritia:singularity:7>,   <avaritia:singularity:7>,   <avaritia:singularity:7>,   <avaritia:singularity:7>,   <avaritia:singularity:7>,   <minecraft:bedrock>], 
+    [<minecraft:bedrock>,   <avaritia:singularity:7>,   <avaritia:singularity:7>,   <avaritia:singularity:7>,   <avaritia:singularity:7>,   <avaritia:singularity:7>,   <avaritia:singularity:7>,   <avaritia:singularity:7>,   <minecraft:bedrock>], 
+    [<minecraft:bedrock>,   <avaritia:singularity:7>,   <avaritia:singularity:7>,   <avaritia:singularity:7>,   <enderio:block_cap_bank>,   <avaritia:singularity:7>,   <avaritia:singularity:7>,   <avaritia:singularity:7>,   <minecraft:bedrock>], 
+    [<minecraft:bedrock>,   <avaritia:singularity:7>,   <avaritia:singularity:7>,   <avaritia:singularity:7>,   <avaritia:singularity:7>,   <avaritia:singularity:7>,   <avaritia:singularity:7>,   <avaritia:singularity:7>,   <minecraft:bedrock>], 
+    [<minecraft:bedrock>,   <avaritia:singularity:7>,   <avaritia:singularity:7>,   <avaritia:singularity:7>,   <avaritia:singularity:7>,   <avaritia:singularity:7>,   <avaritia:singularity:7>,   <avaritia:singularity:7>,   <minecraft:bedrock>], 
+    [<minecraft:bedrock>,   <avaritia:resource:5>,      <avaritia:singularity:7>,   <avaritia:singularity:7>,   <avaritia:singularity:7>,   <avaritia:singularity:7>,   <avaritia:singularity:7>,   <avaritia:resource:5>,      <minecraft:bedrock>], 
+    [<minecraft:bedrock>,   <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>]
+]);
+
+mods.avaritia.ExtremeCrafting.addShaped("Silver Creative Harvest", <extrautils2:creativeharvest>.withTag({creative_block: {meta: 0, block: "embers:ore_silver"}, display_stack: {id: "embers:ore_silver", Count: 1, Damage: 0 as short}}), [
+    [<minecraft:bedrock>,   <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>],
+    [<minecraft:bedrock>,   <avaritia:resource:5>,      <avaritia:singularity:8>,   <avaritia:singularity:8>,   <avaritia:singularity:8>,   <avaritia:singularity:8>,   <avaritia:singularity:8>,   <avaritia:resource:5>,      <minecraft:bedrock>], 
+    [<minecraft:bedrock>,   <avaritia:singularity:8>,   <avaritia:singularity:8>,   <avaritia:singularity:8>,   <avaritia:singularity:8>,   <avaritia:singularity:8>,   <avaritia:singularity:8>,   <avaritia:singularity:8>,   <minecraft:bedrock>], 
+    [<minecraft:bedrock>,   <avaritia:singularity:8>,   <avaritia:singularity:8>,   <avaritia:singularity:8>,   <avaritia:singularity:8>,   <avaritia:singularity:8>,   <avaritia:singularity:8>,   <avaritia:singularity:8>,   <minecraft:bedrock>], 
+    [<minecraft:bedrock>,   <avaritia:singularity:8>,   <avaritia:singularity:8>,   <avaritia:singularity:8>,   <enderio:block_cap_bank>,   <avaritia:singularity:8>,   <avaritia:singularity:8>,   <avaritia:singularity:8>,   <minecraft:bedrock>], 
+    [<minecraft:bedrock>,   <avaritia:singularity:8>,   <avaritia:singularity:8>,   <avaritia:singularity:8>,   <avaritia:singularity:8>,   <avaritia:singularity:8>,   <avaritia:singularity:8>,   <avaritia:singularity:8>,   <minecraft:bedrock>], 
+    [<minecraft:bedrock>,   <avaritia:singularity:8>,   <avaritia:singularity:8>,   <avaritia:singularity:8>,   <avaritia:singularity:8>,   <avaritia:singularity:8>,   <avaritia:singularity:8>,   <avaritia:singularity:8>,   <minecraft:bedrock>], 
+    [<minecraft:bedrock>,   <avaritia:resource:5>,      <avaritia:singularity:8>,   <avaritia:singularity:8>,   <avaritia:singularity:8>,   <avaritia:singularity:8>,   <avaritia:singularity:8>,   <avaritia:resource:5>,      <minecraft:bedrock>], 
+    [<minecraft:bedrock>,   <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>]
+]);
+
+mods.avaritia.ExtremeCrafting.addShaped("Nickel Creative Harvest", <extrautils2:creativeharvest>.withTag({creative_block: {meta: 0, block: "embers:ore_nickel"}, display_stack: {id: "embers:ore_nickel", Count: 1, Damage: 0 as short}}), [
+    [<minecraft:bedrock>,   <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>],
+    [<minecraft:bedrock>,   <avaritia:resource:5>,      <avaritia:singularity:9>,   <avaritia:singularity:9>,   <avaritia:singularity:9>,   <avaritia:singularity:9>,   <avaritia:singularity:9>,   <avaritia:resource:5>,      <minecraft:bedrock>], 
+    [<minecraft:bedrock>,   <avaritia:singularity:9>,   <avaritia:singularity:9>,   <avaritia:singularity:9>,   <avaritia:singularity:9>,   <avaritia:singularity:9>,   <avaritia:singularity:9>,   <avaritia:singularity:9>,   <minecraft:bedrock>], 
+    [<minecraft:bedrock>,   <avaritia:singularity:9>,   <avaritia:singularity:9>,   <avaritia:singularity:9>,   <avaritia:singularity:9>,   <avaritia:singularity:9>,   <avaritia:singularity:9>,   <avaritia:singularity:9>,   <minecraft:bedrock>], 
+    [<minecraft:bedrock>,   <avaritia:singularity:9>,   <avaritia:singularity:9>,   <avaritia:singularity:9>,   <enderio:block_cap_bank>,   <avaritia:singularity:9>,   <avaritia:singularity:9>,   <avaritia:singularity:9>,   <minecraft:bedrock>], 
+    [<minecraft:bedrock>,   <avaritia:singularity:9>,   <avaritia:singularity:9>,   <avaritia:singularity:9>,   <avaritia:singularity:9>,   <avaritia:singularity:9>,   <avaritia:singularity:9>,   <avaritia:singularity:9>,   <minecraft:bedrock>], 
+    [<minecraft:bedrock>,   <avaritia:singularity:9>,   <avaritia:singularity:9>,   <avaritia:singularity:9>,   <avaritia:singularity:9>,   <avaritia:singularity:9>,   <avaritia:singularity:9>,   <avaritia:singularity:9>,   <minecraft:bedrock>], 
+    [<minecraft:bedrock>,   <avaritia:resource:5>,      <avaritia:singularity:9>,   <avaritia:singularity:9>,   <avaritia:singularity:9>,   <avaritia:singularity:9>,   <avaritia:singularity:9>,   <avaritia:resource:5>,      <minecraft:bedrock>], 
+    [<minecraft:bedrock>,   <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>]
+]);
+
+mods.avaritia.ExtremeCrafting.addShaped("Diamond Creative Harvest", <extrautils2:creativeharvest>.withTag({creative_block: {meta: 0, block: "minecraft:diamond_ore"}, display_stack: {id: "minecraft:diamond_ore", Count: 1, Damage: 0 as short}}), [
+    [<minecraft:bedrock>,   <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>],
+    [<minecraft:bedrock>,   <avaritia:resource:5>,      <avaritia:singularity:10>,  <avaritia:singularity:10>,  <avaritia:singularity:10>,  <avaritia:singularity:10>,  <avaritia:singularity:10>,  <avaritia:resource:5>,      <minecraft:bedrock>], 
+    [<minecraft:bedrock>,   <avaritia:singularity:10>,  <avaritia:singularity:10>,  <avaritia:singularity:10>,  <avaritia:singularity:10>,  <avaritia:singularity:10>,  <avaritia:singularity:10>,  <avaritia:singularity:10>,  <minecraft:bedrock>], 
+    [<minecraft:bedrock>,   <avaritia:singularity:10>,  <avaritia:singularity:10>,  <avaritia:singularity:10>,  <avaritia:singularity:10>,  <avaritia:singularity:10>,  <avaritia:singularity:10>,  <avaritia:singularity:10>,  <minecraft:bedrock>], 
+    [<minecraft:bedrock>,   <avaritia:singularity:10>,  <avaritia:singularity:10>,  <avaritia:singularity:10>,  <enderio:block_cap_bank>,   <avaritia:singularity:10>,  <avaritia:singularity:10>,  <avaritia:singularity:10>,  <minecraft:bedrock>], 
+    [<minecraft:bedrock>,   <avaritia:singularity:10>,  <avaritia:singularity:10>,  <avaritia:singularity:10>,  <avaritia:singularity:10>,  <avaritia:singularity:10>,  <avaritia:singularity:10>,  <avaritia:singularity:10>,  <minecraft:bedrock>], 
+    [<minecraft:bedrock>,   <avaritia:singularity:10>,  <avaritia:singularity:10>,  <avaritia:singularity:10>,  <avaritia:singularity:10>,  <avaritia:singularity:10>,  <avaritia:singularity:10>,  <avaritia:singularity:10>,  <minecraft:bedrock>], 
+    [<minecraft:bedrock>,   <avaritia:resource:5>,      <avaritia:singularity:10>,  <avaritia:singularity:10>,  <avaritia:singularity:10>,  <avaritia:singularity:10>,  <avaritia:singularity:10>,  <avaritia:resource:5>,      <minecraft:bedrock>], 
+    [<minecraft:bedrock>,   <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>]
+]);
+
+mods.avaritia.ExtremeCrafting.addShaped("Emerald Creative Harvest", <extrautils2:creativeharvest>.withTag({creative_block: {meta: 0, block: "minecraft:emerald_ore"}, display_stack: {id: "minecraft:emerald_ore", Count: 1, Damage: 0 as short}}), [
+    [<minecraft:bedrock>,   <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>],
+    [<minecraft:bedrock>,   <avaritia:resource:5>,      <avaritia:singularity:11>,  <avaritia:singularity:11>,  <avaritia:singularity:11>,  <avaritia:singularity:11>,  <avaritia:singularity:11>,  <avaritia:resource:5>,      <minecraft:bedrock>], 
+    [<minecraft:bedrock>,   <avaritia:singularity:11>,  <avaritia:singularity:11>,  <avaritia:singularity:11>,  <avaritia:singularity:11>,  <avaritia:singularity:11>,  <avaritia:singularity:11>,  <avaritia:singularity:11>,  <minecraft:bedrock>], 
+    [<minecraft:bedrock>,   <avaritia:singularity:11>,  <avaritia:singularity:11>,  <avaritia:singularity:11>,  <avaritia:singularity:11>,  <avaritia:singularity:11>,  <avaritia:singularity:11>,  <avaritia:singularity:11>,  <minecraft:bedrock>], 
+    [<minecraft:bedrock>,   <avaritia:singularity:11>,  <avaritia:singularity:11>,  <avaritia:singularity:11>,  <enderio:block_cap_bank>,   <avaritia:singularity:11>,  <avaritia:singularity:11>,  <avaritia:singularity:11>,  <minecraft:bedrock>], 
+    [<minecraft:bedrock>,   <avaritia:singularity:11>,  <avaritia:singularity:11>,  <avaritia:singularity:11>,  <avaritia:singularity:11>,  <avaritia:singularity:11>,  <avaritia:singularity:11>,  <avaritia:singularity:11>,  <minecraft:bedrock>], 
+    [<minecraft:bedrock>,   <avaritia:singularity:11>,  <avaritia:singularity:11>,  <avaritia:singularity:11>,  <avaritia:singularity:11>,  <avaritia:singularity:11>,  <avaritia:singularity:11>,  <avaritia:singularity:11>,  <minecraft:bedrock>], 
+    [<minecraft:bedrock>,   <avaritia:resource:5>,      <avaritia:singularity:11>,  <avaritia:singularity:11>,  <avaritia:singularity:11>,  <avaritia:singularity:11>,  <avaritia:singularity:11>,  <avaritia:resource:5>,      <minecraft:bedrock>], 
+    [<minecraft:bedrock>,   <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>,        <minecraft:bedrock>]
+]);
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+// Extreme Crafting Template
+
+//mods.avaritia.ExtremeCrafting.addShaped("Output Name", <modid:item>, [
+//    [null,  null,   null,   null,   null,   null,   null,   null,   null],
+//    [null,  null,   null,   null,   null,   null,   null,   null,   null], 
+//    [null,  null,   null,   null,   null,   null,   null,   null,   null], 
+//    [null,  null,   null,   null,   null,   null,   null,   null,   null], 
+//    [null,  null,   null,   null,   null,   null,   null,   null,   null], 
+//    [null,  null,   null,   null,   null,   null,   null,   null,   null], 
+//    [null,  null,   null,   null,   null,   null,   null,   null,   null], 
+//    [null,  null,   null,   null,   null,   null,   null,   null,   null], 
+//    [null,  null,   null,   null,   null,   null,   null,   null,   null]
+//]);

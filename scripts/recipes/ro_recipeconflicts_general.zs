@@ -12,7 +12,7 @@ recipes.remove(<abyssalcraft:ironp> * 2);
 recipes.remove(<enderio:item_material:9>);
 recipes.remove(<quark:iron_plate>);
 recipes.remove(<opencomputers:material:12>);
-recipes.remove(<erebus:silk>);
+//recipes.remove(<erebus:silk>);
 recipes.remove(<bountifulbaubles:ringiron>);
 recipes.remove(<minecraft:chest> * 4);
 recipes.remove(<ic2:te:111>);
@@ -58,12 +58,14 @@ recipes.addShaped(<opencomputers:material:12>, [
 	[null, <ore:nuggetIron>, null]
 ]);
 
+/*
 //Erebus Silk
 recipes.addShaped(<erebus:silk>, [
 	[<ore:string>, <ore:string>, <ore:string>],
 	[<ore:string>, <ore:wool>, <ore:string>],
 	[<ore:string>, <ore:string>, <ore:string>]
 ]);
+*/
 
 //Bountiful Baubles Iron Ring
 recipes.addShaped(<bountifulbaubles:ringiron>, [

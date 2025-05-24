@@ -103,3 +103,10 @@ remove(<gregtech:gt_armor:41>);
 remove(<gregtech:gt_armor:42>);
 remove(<gregtech:gt_armor:43>);
 remove(<gregtech:gt_armor:50>);
+
+// ExtraBotany
+remove(<item:extrabotany:coregod:0>);
+remove(<item:extrabotany:coregod:1>);
+remove(<item:extrabotany:coregod:2>);
+remove(<item:extrabotany:coregod:3>);
+remove(<item:extrabotany:coregod:4>);
