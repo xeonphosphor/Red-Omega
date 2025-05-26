@@ -24,7 +24,12 @@
       }
     ],
     "blacklist": [
-    
+	  {
+        "item": "thaumcraft:curiosity_band"
+      },
+      {
+        "item": "thaumcraft:cloud_ring"
+      }
     ],
     "qualities": [
       {
