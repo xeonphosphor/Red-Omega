@@ -1,0 +1,15 @@
+{
+	title: "Visit Dimension: Luna",
+	x: -24.0d,
+	y: -11.0d,
+	tasks: [{
+		uid: "ceb993ab",
+		type: "dimension",
+		dim: 1000
+	}],
+	rewards: [{
+		uid: "a609efb7",
+		type: "xp",
+		xp: 500
+	}]
+}
