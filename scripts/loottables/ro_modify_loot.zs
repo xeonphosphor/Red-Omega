@@ -24,9 +24,8 @@ goldMain.removeEntry("aether_legacy:life_shard");
 
 //Ice and Fire Hydra Loot Table Modification
 val iceandfire_hydra = LootTweaker.getTable("iceandfire:hydra");
-val hydraMain = iceandfire_hydra.getPool("hydra");
 //Remove Hydra Heart
-hydraMain.removeEntry("iceandfire:hydra_heart");
+iceandfire_hydra.removePool("hydra0");
 
 //Minecraft Simple Dungeon Loot Table Modification
 val minecraft_dungeon = LootTweaker.getTable("minecraft:chests/simple_dungeon");
