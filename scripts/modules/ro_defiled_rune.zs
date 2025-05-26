@@ -18,10 +18,6 @@ remove(<item:enderio:item_material:6>);
 remove(<enderio:item_dark_steel_upgrade:1>.withTag({"enderio:dsu": "enderio:glide"}));
 remove(<enderio:item_dark_steel_upgrade:1>.withTag({"enderio:dsu": "enderio:glide", "enderio:enabled": 1 as byte}));
 
-// Erebus
-remove(<item:erebus:glider_chestplate>);
-remove(<item:erebus:glider_chestplate_powered>);
-
 // Techguns
 remove(<item:techguns:glider>);
 remove(<item:techguns:jetpack>);
