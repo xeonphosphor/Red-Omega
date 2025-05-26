@@ -1,0 +1,22 @@
+{
+	title: "Slay the Dread Queen",
+	x: -18.5d,
+	y: 23.0d,
+	tasks: [{
+		uid: "8fdd34e5",
+		type: "kill",
+		title: "Slay the Dread Queen",
+		entity: "iceandfire:dread_queen",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "5a335c06",
+		type: "random",
+		table: 0
+	},
+	{
+		uid: "1b682eeb",
+		type: "xp",
+		xp: 1200
+	}]
+}

@@ -1,0 +1,15 @@
+{
+	title: "Visit Dimension: Rust",
+	x: -22.5d,
+	y: -11.0d,
+	tasks: [{
+		uid: "716d58da",
+		type: "dimension",
+		dim: 1003
+	}],
+	rewards: [{
+		uid: "5d19536c",
+		type: "xp",
+		xp: 500
+	}]
+}

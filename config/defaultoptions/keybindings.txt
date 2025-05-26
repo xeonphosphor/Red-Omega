@@ -44,6 +44,8 @@ key_key.configurator_mode.desc:47:NONE
 key_key.configurator_filter.desc:48:SHIFT
 key_key.configurator_path.desc:33:SHIFT
 key_keybind.baublesinventory:0:NONE
+key_quark.keybind.toggleAutojump:0:NONE
+key_quark.keybind.lockBuilding:37:NONE
 key_quark.keybind.dropoff:0:NONE
 key_quark.keybind.changeHotbar:44:SHIFT
 key_quark.keybind.chestSort:0:NONE
@@ -51,8 +53,6 @@ key_quark.keybind.chestDropoff:0:NONE
 key_quark.keybind.chestMerge:0:NONE
 key_quark.keybind.chestRestock:0:NONE
 key_quark.keybind.chestExtract:0:NONE
-key_quark.keybind.toggleAutojump:0:NONE
-key_quark.keybind.lockBuilding:37:NONE
 key_key.toggle_shaders:0:NONE
 key_key.personalBackpack:0:NONE
 key_bloodmagic.keybind.open_holding:24:NONE
@@ -69,10 +69,6 @@ key_key.ebwizardry.spell_5:6:ALT
 key_key.ebwizardry.spell_6:7:ALT
 key_key.ebwizardry.spell_7:8:ALT
 key_key.ebwizardry.spell_8:9:ALT
-key_key.erebus.glide:0:NONE
-key_key.erebus.poweredglide:0:NONE
-key_key.erebus.beetleram:26:NONE
-key_key.erebus.beetlemine:40:NONE
 key_key.xu2.searchforitems:20:NONE
 key_keybinds.show_wounds:35:NONE
 key_key.ftbutilities.nbt:49:CONTROL
@@ -152,6 +148,7 @@ key_key.open_wireless_terminal.desc:20:SHIFT
 key_key.open_wireless_crafting_terminal.desc:18:SHIFT
 key_key.open_wireless_pattern_terminal.desc:19:SHIFT
 key_key.open_wireless_fluid_terminal.desc:33:SHIFT
+key_key.open_wireless_interface_terminal.desc:23:SHIFT
 key_key.aether.accessory_menu:0:NONE
 key_key.aquaacrobatics.toggle_crawling:29:SHIFT
 key_astraladditions.key.ring_toggle:82:NONE
@@ -195,7 +192,6 @@ key_mod.chiselsandbits.other.offgrid:0:NONE
 key_mod.chiselsandbits.other.undo:0:NONE
 key_mod.chiselsandbits.other.redo:0:NONE
 key_mod.chiselsandbits.other.add_to_clipboard:0:NONE
-key_Reputation GUI:62:NONE
 key_key.colytra.toggle.desc:0:NONE
 key_key.craftingtweaks.rotate:0:NONE
 key_key.craftingtweaks.rotate_counter_clockwise:0:NONE
@@ -257,6 +253,7 @@ key_key.porterNextDestination:27:SHIFT
 key_key.porterPrevDestination:26:SHIFT
 key_key.debugDumpNBTItem:0:NONE
 key_key.debugDumpNBTBlock:0:NONE
+key_WorldEdit Reference:38:NONE
 key_techguns.key.toggleNightvision:49:NONE
 key_techguns.key.toggleSafemode:0:NONE
 key_techguns.key.toggleStepassist:0:NONE
@@ -266,43 +263,20 @@ key_key.toolbelt.open:41:NONE
 key_key.toolbelt.cycle.left:0:NONE
 key_key.toolbelt.cycle.right:0:NONE
 key_key.toolbelt.slot:0:NONE
-key_WorldEdit Reference:38:NONE
-key_Show Render Distance:0:NONE
-key_Switch to Overworld:0:NONE
-key_Show Render Distance WorldMap:0:NONE
-key_PortalSkip Detection:0:NONE
-key_Nether Cave Fix:0:NONE
-key_Always Render Player Icon:0:NONE
-key_Switch to Nether:0:NONE
-key_Transparent Obsidian Roof:0:NONE
-key_Portal Highlights:0:NONE
-key_NewChunks Highlighting:0:NONE
-key_Save/Load NewChunks to Disk:0:NONE
-key_Waystones Dimension Sync:0:NONE
-key_Baritone Goal Waypoint:0:NONE
-key_Always Render Player Name:0:NONE
-key_Switch to End:0:NONE
-key_WDL Highlight:0:NONE
-key_Waystones Waypoint Sync:0:NONE
-key_Fast Mapping:0:NONE
-key_Transparent Background:0:NONE
-key_Show Waypoint Distances:0:NONE
-key_Persist Dim Switch:0:NONE
-key_Fix Main Entity Dot:0:NONE
-key_Skip Background Render:0:NONE
-key_null OW Dim Dir:0:NONE
-key_gui.xaero_switch_waypoint_set:0:NONE
-key_gui.xaero_instant_waypoint:78:NONE
-key_gui.xaero_toggle_slime:0:NONE
-key_gui.xaero_toggle_grid:0:NONE
-key_gui.xaero_toggle_waypoints:0:NONE
-key_gui.xaero_toggle_map_waypoints:0:NONE
-key_gui.xaero_toggle_map:0:NONE
-key_gui.xaero_enlarge_map:52:NONE
-key_gui.xaero_waypoints_key:22:NONE
+key_keybind.universaltweaks.clear_toasts:11:CONTROL
+key_gui.xaero_minimap_settings:22:SHIFT
 key_gui.xaero_zoom_in:0:NONE
 key_gui.xaero_zoom_out:0:NONE
 key_gui.xaero_new_waypoint:0:NONE
+key_gui.xaero_waypoints_key:22:NONE
+key_gui.xaero_enlarge_map:52:NONE
+key_gui.xaero_toggle_map:0:NONE
+key_gui.xaero_toggle_waypoints:0:NONE
+key_gui.xaero_toggle_map_waypoints:0:NONE
+key_gui.xaero_toggle_slime:0:NONE
+key_gui.xaero_toggle_grid:0:NONE
+key_gui.xaero_instant_waypoint:78:NONE
+key_gui.xaero_switch_waypoint_set:0:NONE
 key_gui.xaero_display_all_sets:0:NONE
 key_gui.xaero_toggle_light_overlay:0:NONE
 key_gui.xaero_toggle_entity_radar:0:NONE
@@ -311,31 +285,6 @@ key_gui.xaero_toggle_manual_cave_mode:0:NONE
 key_gui.xaero_alternative_list_players:0:NONE
 key_gui.xaero_toggle_tracked_players_on_map:0:NONE
 key_gui.xaero_toggle_tracked_players_in_world:0:NONE
-key_Show Render Distance:0:NONE
-key_Switch to Overworld:0:NONE
-key_Show Render Distance WorldMap:0:NONE
-key_PortalSkip Detection:0:NONE
-key_Nether Cave Fix:0:NONE
-key_Always Render Player Icon:0:NONE
-key_Switch to Nether:0:NONE
-key_Transparent Obsidian Roof:0:NONE
-key_Portal Highlights:0:NONE
-key_NewChunks Highlighting:0:NONE
-key_Save/Load NewChunks to Disk:0:NONE
-key_Waystones Dimension Sync:0:NONE
-key_Baritone Goal Waypoint:0:NONE
-key_Always Render Player Name:0:NONE
-key_Switch to End:0:NONE
-key_WDL Highlight:0:NONE
-key_Waystones Waypoint Sync:0:NONE
-key_Fast Mapping:0:NONE
-key_Transparent Background:0:NONE
-key_Show Waypoint Distances:0:NONE
-key_Persist Dim Switch:0:NONE
-key_Fix Main Entity Dot:0:NONE
-key_Skip Background Render:0:NONE
-key_null OW Dim Dir:0:NONE
-key_gui.xaero_minimap_settings:22:SHIFT
 key_gui.xaero_open_map:157:NONE
 key_gui.xaero_open_settings:27:NONE
 key_gui.xaero_map_zoom_in:0:NONE
